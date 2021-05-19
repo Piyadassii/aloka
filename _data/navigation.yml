@@ -1,0 +1,28 @@
+#Please use the main menu items under the "text"
+
+- text: Apie mus
+  url: /pages/about
+- text: Programa
+  url: /
+  submenu:
+  - text: Kalendorius
+    url: /pages/kalendorius
+  - text: Meditacija
+    url: /pages/meditacijos_uzsiemimai
+  - text: Paskaitos
+    url: /pages/paskaitos   
+  - text: Gėdojimai
+    url: /pages/gedojimai
+- text: Mokymai
+  url: /pages/blog
+  submenu:
+  - text: Budizmas
+    url: /features/budizmas
+  - text: Meditacija
+    url: /features/meditacija
+- text: Parama
+  url: /pages/parama
+- text: Medija
+  url: /pages/medija
+- text: Kontaktai
+  url: /pages/contact
