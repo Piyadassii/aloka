@@ -1,6 +1,6 @@
 <span class="menu-close"><i class="fas fa-times"></i></span>
 <ul>
-  <li><a href="/pages/index">Pradžia</a></li>
+  <li><a href="{{ site.baseurl }}/pages/index">Pradžia</a></li>
     {% for links in site.data.navigation %}
        {% if links.text contains "Programa" %}
          {% for submenu in links.submenu %}
