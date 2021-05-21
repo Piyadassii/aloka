@@ -10,19 +10,19 @@
   - text: Meditacija
     url: /aloka/pages/meditacijos_uzsiemimai
   - text: Paskaitos
-    url: /aloka/pages/paskaitos   
+    url: /pages/paskaitos   
   - text: Gėdojimai
-    url: /aloka/pages/gedojimai
+    url: /pages/gedojimai
 - text: Mokymai
-  url: /aloka/pages/blog
+  url: /pages/blog
   submenu:
   - text: Budizmas
-    url: /aloka/features/budizmas
+    url: /features/budizmas
   - text: Meditacija
-    url: /aloka/features/meditacija
+    url: /features/meditacija
 - text: Parama
-  url: /aloka/pages/parama
+  url: /pages/parama
 - text: Medija
-  url: /aloka/pages/medija
+  url: /pages/medija
 - text: Kontaktai
-  url: /aloka/pages/contact
+  url: /pages/contact
