@@ -4,6 +4,7 @@ title: Budistų vienuolė
 icon: /assets/img/icons/monk_icon.svg
 image: /assets/img/services/02.jpg
 description: Centre gyvena theravados budizmo vienuolė. Užaugusi kaip vienuolė Mianmare, ji dalinasi Budos mokymu su visais, kam jis įdomus. Su ja galima pasikalbėti apie budizmą, meditaciją, vienuolišką gyvenimą. 
+permalink: "/pages/services/4_budistu_vienuole"
 ---
 
 <div class="row">

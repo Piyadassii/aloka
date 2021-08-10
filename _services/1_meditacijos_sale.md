@@ -3,7 +3,8 @@ layout: featured
 title: Meditacijos salė
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/meditation_icon.svg
-description: Jauki meditacijos salė – tikras prieglobstis, kviečiantis palikti kasdienius rūpesčius už durų ir pašvesti laiką protui nuraminti bei vystyti išmintį ir teigiamas emocijas. 
+description: Jauki meditacijos salė – tikras prieglobstis, kviečiantis palikti kasdienius rūpesčius už durų ir pašvesti laiką protui nuraminti bei vystyti išmintį ir teigiamas emocijas.
+permalink: "/pages/services/1_meditacijos_sale" 
 ---
 
 <div class="row">

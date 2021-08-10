@@ -21,7 +21,7 @@ permalink: "/features/budizmas/"
             <p>Dėl žalingu proto įpročių, mums gali nevisada sektis laikytis tų taisyklių, bet tai nereiškia, kad dėl to neturėtume bandyti. Įpročius nepakeisti per naktį, tam reikalingas ryžtas ir praktika, tam reikalingas stiprus protas, o protą stiprina meditacija.</p>
             <p>Meditacija padeda susitikti su savimi, pažinti save, priimti save, paleisti tai, kas kenkia ir išvystyti tai, kas naudinga. Pirmieji meditacijos žingsniai tai samoningumo ir geraširdingumo vystymas. Kuo šie darosi stipresni, tuo labiau protas nurimsta, tuo aiškiau galime matyti savo vidų, tuo lengviau tampa būti su savimi ir aplinkiniais harmonijoje.</p>
             <p>Ramus protas tampa puikiu pagrindu augti išminčiai. Jis įgalina mus aiškiau matyti tikrovės prigimtį, suprasti kame yra laimės ir nelaimės šaknys ir suteikia galimybę rinktis ar sekti keliu vedančiu į laimę ar nelaimę. </p>
-            <p>Daugiau apie budizmą ir jo mokymus skaitykite <a href="theravada.lt" target="_blank">čia</a>.</p>
+            <p>Daugiau apie budizmą ir jo mokymus skaitykite <a href="https://theravada.lt/" target="_blank">čia</a>.</p>
         </div>
     </div>
 </div>
