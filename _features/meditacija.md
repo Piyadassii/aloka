@@ -3,6 +3,7 @@ layout: featured
 title: Meditacija
 image: /assets/img/features/08.jpg
 description: Meditacija yra universaliausia budizmo dalys. Jos tikslas, suteikti žmogui priemones savęs ir pasaulio pažinimui ir transformavimui. Tam, kad pasikeistume į gerą, nebūtina nieko tikėti. Ko reikia, tai ryžto pažvelgti į savo vidinį pasaulį.
+permalink: "/features/meditacija/"
 ---
 
 <div class="row">

@@ -3,6 +3,7 @@ layout: featured
 title: Budizmas
 image: /assets/img/features/09.jpg
 description: Budizmas nėra religija tiesiogine to žodžio prasme, nes jis nėra pagrįstas tikėjimui absoliučia visagale jėga. Budizmas greičiau yra tam tikra pasaulėžiūra grindžiamas gyvenimo būdas.
+permalink: "/features/budizmas/"
 ---
 
 <div class="row">
