@@ -4,7 +4,7 @@ title: Užsiėmimai
 icon: /assets/img/icons/group_activity_icon.svg
 image: /assets/img/services/03.jpg
 description: Kiekvieną rytą ir vakarą vyksta meditacijos ir gėdojimai. Kelis kartus per savaitę skaitamos paskaitos supažindinančios su budizmo bei meditacijos teorija ir jos taikymą praktikoje. 
-permalink: "/pages/services/2_uzsiemimai"
+permalink: "/pages/services/2_uzsiemimai.html"
 ---
 
 <div class="row">

@@ -4,7 +4,7 @@ title: Bibliotekėlė
 icon: /assets/img/icons/library_icon.svg
 image: /assets/img/services/02.jpg
 description: Nedidelėje centro bibliotekėlėje surinktos įvairių budistinių tradicijų knygos lietuvių, rusų ir anglų kalbomis.
-permalink: "/pages/services/3_bibliotekele"
+permalink: "/pages/services/3_bibliotekele.html"
 ---
 
 <div class="row">

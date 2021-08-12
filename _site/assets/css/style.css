@@ -126,7 +126,7 @@ ul {
 	padding: 0px;
 }
 li {
-	list-style: none
+	/* list-style: none */
 }
 p {
 	font-size: 14px;
@@ -1931,3 +1931,9 @@ blockquote {
 .features-icon img {
 	max-width: 60px;
 }
+
+/* ul.list_bullets > li {
+	padding-left: 1em !important;
+  	margin-left: 1em;
+	list-style: disc;
+} */
