@@ -2,12 +2,16 @@
 layout: featured
 title: Bibliotekėlė
 icon: /assets/img/icons/library_icon.svg
-image: /assets/img/services/02.jpg
+image: 
 description: Nedidelėje centro bibliotekėlėje surinktos įvairių budistinių tradicijų knygos lietuvių, rusų ir anglų kalbomis.
 permalink: "/pages/services/3_bibliotekele.html"
 ---
 
-<div class="row">
+Mūsų kuklioje bibliotekėlyje rasite įvairių budistinių tradicijų knygas, kurias galite pavartyti ir pasiskaityti čia pat, Alokos centre. Knygas, kurių turime daugiau nei vieną egzempliorių, taip pat galite savaitei pasiskolinti.
+
+Jei namie turite Dhammos knygų, kurias nebenaudojate ir norėtumėtė joms duoti antrą gyvenimą, mielai priglausime jas Alokos bibliotekelėje.
+
+<!-- <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
             <h3>Condimentum consectetur quaerat parturient denouncing</h3>
@@ -45,4 +49,4 @@ permalink: "/pages/services/3_bibliotekele.html"
         commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
         Integer in mauris nibh euismod gravida.
         Duis ac tellus et risus vulputate vehicula.</p>
-</div>
+</div> -->

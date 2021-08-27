@@ -1,7 +1,7 @@
 ---
 layout: featured
 title: Meditacijos salė
-image: /assets/img/services/01.jpg
+image: /assets/img/services/hall.png
 icon: /assets/img/icons/meditation_icon.svg
 description: Jauki meditacijos salė – tikras prieglobstis, kviečiantis palikti kasdienius rūpesčius už durų ir pašvesti laiką protui nuraminti bei vystyti išmintį ir teigiamas emocijas.
 permalink: "/pages/services/1_meditacijos_sale.html" 
@@ -10,16 +10,12 @@ permalink: "/pages/services/1_meditacijos_sale.html"
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Business Analysis</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
-                dolore mage aliquami erat volpate Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
-                aliquip ex ea comcon sequat. Duis autem velue
-                eum iriure dolor in hendrerit in vulputate velitesse consequat .</p>
+            <!-- <h3>Business Analysis</h3> -->
+            <p>Meditacijos salė - tai <em>Alokos centro</em> širdis. Čia vyksta visi užsiėmimai - meditacijos, giedojimai, paskaitos, diskusijos. Sale visada galite pasinaudoti <em>Dhammos</em> praktikai ir ne užsiėmimu metu. Ši tylos ir šviesos sala visada laukia jūsų.</p>
         </div>
     </div>
 </div>
-<div class="row">
+<!-- <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
             <img src="{{site.baseurl}}/assets/img/service/details/01.jpg" alt="tincidunt">
@@ -45,4 +41,4 @@ permalink: "/pages/services/1_meditacijos_sale.html"
         commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
         Integer in mauris nibh euismod gravida.
         Duis ac tellus et risus vulputate vehicula.</p>
-</div>
+</div> -->

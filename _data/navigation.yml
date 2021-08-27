@@ -5,14 +5,14 @@
 - text: Programa
   url: /
   submenu:
-  - text: Kalendorius
-    url: /pages/kalendorius
+  - text: Tvarkaraštis
+    url: /pages/schedule
   - text: Meditacija
     url: /pages/meditacijos_uzsiemimai
   - text: Paskaitos
     url: /pages/paskaitos   
-  - text: Gėdojimai
-    url: /pages/gedojimai
+  - text: Giedojimai ir kt.
+    url: /pages/giedojimai
 - text: Mokymai
   url: /pages/blog
   submenu:
@@ -22,7 +22,7 @@
     url: /features/meditacija
 - text: Parama
   url: /pages/parama
-- text: Medija
-  url: /pages/medija
+# - text: Medija
+#   url: /pages/medija
 - text: Kontaktai
   url: /pages/contact
