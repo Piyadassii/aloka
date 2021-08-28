@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spalio 16-ą dieną vyks centro atidarymas"
+title: "Spalio ?-ą dieną vyks centro atidarymas"
 date: 2021-08-27 15:12:09 +0600
 tags: renginiai
 categories: [renginiai]
@@ -8,9 +8,9 @@ author: piya
 post_image: "/assets/img/blog/nibbana_candles.jpg"
 permalink: "/centro-atidarymas.html"
 ---
-`Spalio 16-ą dieną` Alokos centre atidarymo progą vyks įvairus renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. 
+`Spalio ?-ą dieną` Alokos centre atidarymo progą vyks įvairus renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. 
 
-Dienos programa suskirstita į dvi dalis: rytinę ir popietinę. Rytas pasižymės tokiais religiniais veiksmais kaip giedojimai, prieglobsčio priėmimas, aukojimai ir kalbos apie Dhammą. Popietę medituosime ir klausysime šventinę vieno žymiausio theravados budizmo vienuolio - Bhikkhu Bodhi sveikinimo kalbą.
+Dienos programa suskirstyta į dvi dalis: rytinę ir popietinę. Rytas pasižymės tokiais religiniais veiksmais kaip giedojimai, prieglobsčio priėmimas, aukojimai ir kalbos apie Dhammą. Popietę medituosime ir klausysime šventinę vieno žymiausio theravados budizmo vienuolio - Bhikkhu Bodhi sveikinimo kalbą.
 
 ### Programa
 9:30 - 9:50 maisto Budai aukojimas\
@@ -24,7 +24,7 @@ Dienos programa suskirstita į dvi dalis: rytinę ir popietinę. Rytas pasižym�
 
 Prie mūsų galite prisijungti gyvai, atvykę į centrą arba nuotoliniu būdų, pasinaudoję ZOOM programėlę. Jei planuojate atvykti į centrą, būsime dėkingi, jei iš anksto mums apie tai parašysite. Žinodami kiek žmonių laukti, mes galėsime geriau paruošti centrą. 
 
-Tam, kad prisijungtumėte prie ZOOM virtualaus susitikimo, jums prireiks šių duomenų:
+Tam, kad prisijungtumėte prie ZOOM virtualaus susitikimo, jums prireiks šių duomenų:\
 susitikimo kodas:\
 slaptažodis:\
 arba tiesiog spauskite šią nuorodą: 

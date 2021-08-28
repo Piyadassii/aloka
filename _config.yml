@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  "Aloka" centras - tai šviesos oazė skirta meditacijai ir pažinčiai su Budos mokymais. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
-facebook_url: https://www.facebook.com/jekyll
+facebook_url: https://www.facebook.com/alokoscentras
 twitter_url: https://twitter.com/tryghost
 github_url:  https://github.com/TryGhost/Ghost
 pinterest_url: https://www.pinterest.com/rubel8525
