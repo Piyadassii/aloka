@@ -11,7 +11,7 @@ permalink: "/pages/services/1_meditacijos_sale.html"
     <div class="col-md-12">
         <div class="service-details mb-40">
             <!-- <h3>Business Analysis</h3> -->
-            <p>Meditacijos salė - tai <em>Alokos centro</em> širdis. Čia vyksta visi užsiėmimai - meditacijos, giedojimai, paskaitos, diskusijos. Sale visada galite pasinaudoti <em>Dhammos</em> praktikai ir ne užsiėmimu metu. Ši tylos ir šviesos sala visada laukia jūsų.</p>
+            <p>Meditacijos salė - tai <em>Alokos centro</em> širdis. Čia vyksta visi užsiėmimai - meditacijos, giedojimai, paskaitos, diskusijos. Sale visada galite pasinaudoti <em>Dhammos</em> praktikai ir ne užsiėmimų metu. Ši tylos ir šviesos sala visada laukia jūsų.</p>
         </div>
     </div>
 </div>

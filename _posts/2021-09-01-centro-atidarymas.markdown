@@ -8,7 +8,7 @@ author: piya
 post_image: "/assets/img/blog/nibbana_candles.jpg"
 permalink: "/centro-atidarymas.html"
 ---
-`Spalio ?-ą dieną` Alokos centre atidarymo progą vyks įvairus renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. 
+`Spalio ?-ą dieną` Alokos centre atidarymo progą vyks įvairūs renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. 
 
 Dienos programa suskirstyta į dvi dalis: rytinę ir popietinę. Rytas pasižymės tokiais religiniais veiksmais kaip giedojimai, prieglobsčio priėmimas, aukojimai ir kalbos apie Dhammą. Popietę medituosime ir klausysime šventinę vieno žymiausio theravados budizmo vienuolio - Bhikkhu Bodhi sveikinimo kalbą.
 
@@ -22,7 +22,7 @@ Dienos programa suskirstyta į dvi dalis: rytinę ir popietinę. Rytas pasižym�
 14:00 - 14:30 Garbaus Bhikkhu Bodhi kalba\
 14:30 - 14:40 pasidalinimas nuopelnais ir oficialios programos pabaiga
 
-Prie mūsų galite prisijungti gyvai, atvykę į centrą arba nuotoliniu būdų, pasinaudoję ZOOM programėlę. Jei planuojate atvykti į centrą, būsime dėkingi, jei iš anksto mums apie tai parašysite. Žinodami kiek žmonių laukti, mes galėsime geriau paruošti centrą. 
+Prie mūsų galite prisijungti gyvai, atvykę į centrą, arba nuotoliniu budų, pasinaudoję ZOOM programėle. Jei planuojate atvykti į centrą, būsime dėkingi, jei iš anksto mums apie tai parašysite. Žinodami kiek žmonių laukti, mes galėsime geriau paruošti centrą. 
 
 Tam, kad prisijungtumėte prie ZOOM virtualaus susitikimo, jums prireiks šių duomenų:\
 susitikimo kodas:\
