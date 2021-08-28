@@ -82,6 +82,9 @@ blockquote {
 .about-img img {
 	width: 100%;
 }
+.breadcrumb-area {
+    height: 150px;
+}
 blockquote::before {
 	display: none;
 }
@@ -151,6 +154,9 @@ blockquote {
 @media (max-width: 767px) {
 .header-top.blue-bg {
 	padding: 10px 0;
+}
+.breadcrumb-area {
+    height: 150px;
 }
 .sticky {
 	position: static;
