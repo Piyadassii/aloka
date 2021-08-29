@@ -1,5 +1,5 @@
 ---
-layout: featured
+layout: modal
 permalink: "/modals/gpm.html"
 ---
 

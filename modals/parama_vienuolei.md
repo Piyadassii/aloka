@@ -1,5 +1,5 @@
 ---
-layout: featured
+layout: modal
 permalink: "/modals/parama_vienuolei.html"
 ---
 
