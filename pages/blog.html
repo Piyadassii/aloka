@@ -2,14 +2,14 @@
 layout: page
 pagination: 
   enabled: true
-permalink: "/pages/blog/"
+permalink: "/pages/blog"
 title: Blog
 ---
 
 <div class="basic-blog-area gray-bg pt-100 pb-100">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 blog-post-items">
+            <div class="col-lg-8 blog-post-items">        
               {% for post in paginator.posts %}
                 <div class="blog-wrapper mb-40">
                     <div class="blog-thumb">
@@ -19,7 +19,12 @@ title: Blog
                     </div>
                     <div class="meta-info">
                         <ul>
-                            <li class="posts-time">{{post.date | date_to_long_string}}</li>
+                            <li class="posts-time">{% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+                                {% assign menuo = site.data.lithuanian.menesiai[mes_index] %}
+                            
+                                <time datetime="{{ page.date | date_to_xmlschema }}">
+                                    {{ post.date | date: "%Y" }} m. {{ menuo }} {{ post.date | date: "%-d" }} d.
+                                </time></li>
                         </ul>
                     </div>
                     <div class="blog-content">
@@ -33,7 +38,7 @@ title: Blog
                     </div>
                 </div>
               {% endfor %}
-             {% include pagination.html %}
+             <!-- {% include pagination.html %} -->
             </div>
             <div class="col-lg-4 sm-mt sidebar-blog right-side">
              {% include sidebar.html %}

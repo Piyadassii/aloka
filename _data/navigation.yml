@@ -1,9 +1,10 @@
 #Please use the main menu items under the "text"
-
+- text: Naujienos
+  url: /pages/blog
 - text: Apie mus
   url: /pages/about
 - text: Programa
-  url: /
+  url: /pages/services/2_uzsiemimai.html
   submenu:
   - text: Tvarkaraštis
     url: /pages/schedule

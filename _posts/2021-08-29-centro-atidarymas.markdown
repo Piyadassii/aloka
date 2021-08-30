@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Centrą planuojame atidaryti spalį"
-date: 2021-08-27 15:12:09 +0600
+date: 2021-08-29 15:12:09 +0600
 tags: renginiai
 categories: [renginiai]
 author: piya
@@ -20,7 +20,8 @@ Dienos programa bus suskirstyta į dvi dalis: rytinę ir popietinę. Rytas pasi�
 11:00 - 13:00 pertrauka pietums\
 13:00 - 14:00 meditacija\
 14:00 - 14:30 Garbaus Bhikkhu Bodhi kalba\
-14:30 - 14:40 pasidalinimas nuopelnais ir oficialios programos pabaiga
+14:30 - 14:50 prof. Audrius Beinoriaus kalba\
+14:50 - 15:00 pasidalinimas nuopelnais ir oficialios programos pabaiga
 
 Prie mūsų galite prisijungti gyvai, atvykę į centrą, arba nuotoliniu budų, pasinaudoję ZOOM programėle. Jei planuojate atvykti į centrą, būsime dėkingi, jei iš anksto mums apie tai parašysite. Žinodami kiek žmonių laukti, mes galėsime geriau paruošti centrą. 
 

@@ -13,7 +13,12 @@
                     <h4>
                         <a href="{{post.url}}">{{post.title}}</a>
                     </h4>
-                    <div class="widget-date">{{post.date | date_to_long_string}}</div>
+                    <div class="widget-date">{% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+                        {% assign menuo = site.data.lithuanian.menesiai[mes_index] %}
+                    
+                        <time datetime="{{ page.date | date_to_xmlschema }}">
+                            {{ post.date | date: "%Y" }} m. {{ menuo }} {{ post.date | date: "%-d" }} d.
+                        </time></div>
                 </div>
             </li>
            {% endfor %}
