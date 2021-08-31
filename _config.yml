@@ -1,7 +1,7 @@
-title: "Budizmo centras 'Aloka'"
+title: "Alokos centras"
 email: "aloka@theravada.lt"
 description: >- # this means to ignore newlines until "baseurl:"
- "Aloka" centras - tai šviesos oazė skirta meditacijai ir pažinčiai su Budos mokymais. 
+ Alokos centras - tai šviesos oazė skirta meditacijai ir pažinčiai su Budos mokymais. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 facebook_url: https://www.facebook.com/alokoscentras
