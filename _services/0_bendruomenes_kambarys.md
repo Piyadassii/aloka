@@ -1,17 +1,17 @@
 ---
 layout: featured
-title: Meditacijos salė
-image: /assets/img/services/hall.png
-icon: /assets/img/icons/meditation_icon.svg
-description: Jauki meditacijos salė – tikras prieglobstis, kviečiantis palikti kasdienius rūpesčius už durų ir pašvesti laiką protui nuraminti bei vystyti išmintį ir teigiamas emocijas.
-permalink: "/pages/services/1_meditacijos_sale.html" 
+title: Bendruomenės kambarys
+image: 
+icon: /assets/img/icons/community_room.svg
+description: Bendruomenės kambarys – tai erdvė įvairiai veiklai. Čia vyksta visos ceremonijos, paskaitos, kalbos apie Dhammą.
+permalink: "/pages/services/0_bendruomenes_kambarys.html" 
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
             <!-- <h3>Business Analysis</h3> -->
-            <p>Meditacijos salė - tai <em>Alokos centro</em> širdis. Čia vyksta visi užsiėmimai - meditacijos, giedojimai, paskaitos, diskusijos. Sale visada galite pasinaudoti <em>Dhammos</em> praktikai ir ne užsiėmimų metu. Ši tylos ir šviesos sala visada laukia jūsų.</p>
+            <p>Bendruomenės kambarys – tai <em>Alokos centro</em> širdis. Šioje erdvėje yra pagrindinis altorius, tad čia vyksta visos ceremonijos, paskaitos ir kalbos apie <em>Dhammą</em>. Be to čia galima prisėsti atsigerti arbatos ir pavartyti knygą apie Dhammą arba pasikalbėti su bendraminčiais.</p>
         </div>
     </div>
 </div>
