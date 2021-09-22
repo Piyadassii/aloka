@@ -8,14 +8,14 @@ author: piya
 post_image: "/assets/img/blog/nibbana_candles.jpg"
 permalink: "/centro-atidarymas.html"
 ---
-Formalus centro atidarymas planuojamas šeštadienį, spalio 16 dieną. Tą progą centre vyks įvairūs renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. Juos ves vienuoliai, vienuolės ir pasauliečiai iš trijų kontenentų: Azijos, Europos ir Amerikos. Ypatingi renginio svečiai: Garbusis Khammai Dhammasami (dar žinomas kaip Oksford Sayadaw) (Mianmaras), Garbusis Bhikkhu Bodhi (JAV) ir prof. Audrius Beinoriaus (Lietuva).
+Formalus centro atidarymas planuojamas šeštadienį, spalio 16 dieną. Tą progą centre vyks įvairūs renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. Juos gyvai ir nuotoliniu būdu ves vienuoliai, vienuolės ir pasauliečiai iš trijų kontenentų: Azijos, Europos ir Amerikos. Ypatingi renginio svečiai: Garbusis Khammai Dhammasami (dar žinomas kaip Oksford Sayadaw) (Mianmaras), Garbusis Bhikkhu Bodhi (JAV) ir prof. Audrius Beinoriaus (Lietuva).
 
 Dienos programa bus suskirstyta į dvi dalis: rytinę ir popietinę. Rytas pasižymės tokiais religiniais veiksmais kaip giedojimai, prieglobsčio priėmimas, aukojimai ir kalbos apie Dhammą. Popietę medituosime ir klausysime šventinę vieno žymiausio theravados budizmo vienuolio - Bhikkhu Bodhi sveikinimo kalbą.
 
 ### Prelemenari programa
 9:30 - 9:50 maisto Budai aukojimas (Ayya Piyadassī (Lietuva))\
 9:50 - 10:00 penkių priesakų ir prieglobsčio priėmimas (Bhikkhu Agga (Olandija-Tailandas))\
-10:00 - 10:30 Dhammacakkapavattana sutos giedojimas\
+10:00 - 10:30 Dhammacakkapavattana sutos giedojimas (Mae Chee Shirley-Anne(UK))\
 10:30 - 11:00 Garbaus Khammai Dhammasami kalba apie Dhamma (Mianmaras)\
 11:00 - 13:00 pertrauka pietums\
 13:00 - 14:00 meditacija (Ayya Anopamā (Vokietija))\

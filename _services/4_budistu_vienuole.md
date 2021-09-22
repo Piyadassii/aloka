@@ -3,7 +3,7 @@ layout: featured
 title: Budistų vienuolė
 icon: /assets/img/icons/monk_icon.svg
 image: /assets/img/services/piya.jpg
-description: Centre gyvena theravados budizmo vienuolė. Užaugusi kaip vienuolė Mianmare, ji dalinasi Budos mokymu su visais, kam jis įdomus. Su ja galima pasikalbėti apie budizmą, meditaciją, vienuolišką gyvenimą. 
+description: Centre gyvena theravados budizmo vienuolė. Užaugusi kaip vienuolė Mianmare, ji dalinasi Budos mokymu su visais, kam jis įdomus.
 permalink: "/pages/services/4_budistu_vienuole.html"
 ---
 
@@ -13,7 +13,8 @@ permalink: "/pages/services/4_budistu_vienuole.html"
             <h3>Ayya Piyadassī (Aja Pija Dasi)</h3>
             <p>Centre gyvena ir jo ugnelę kūrena budizmo vienuolė Ayya Piyadassī (Aja Pija Dasi).</p> 
             <p>Ji yra giliai pasinėrusi į theravados budizmo teoriją ir praktikas. Budistines meditacijas ji praktikuoja nuo 2007 m., o nuo 2013-ų tai daro dėvėdama budistų vienuolės apdarus.</p> <p>Gyvenimas Azijoje, tradiciškai budistinėje šalyje, Mianmare, ją išmokė, kad, visiškai laimei pasiekti <a href="https://maratonolaukas.blogspot.com/2021/06/piya-dassi-meditacija-yra-paskutinis.html" target="blank">vien meditacijos nepakanka</a>. Budizme yra daug kitų nemažiau svarbių aspektų. Tad <em>Alokos centre</em> jį moko ne tik meditacijos, bet ir teorijos. Mianmare jai pasisekė sutikti talentingų Abhidhammos mokytojų bei baigti budizmo ir pali kalbos magistro studijas. Įgytomis žiniomis ji dalinasi kaip tai priimta tradicijoje – kalbėdama apie Dhammą laisva forma, ir labiau akademiškai – skaitydama paskaitų serijas.</p>
-            <ul>        
+            <ul>  
+            <li><a href="https://lila.lt/piya-dassi-jei-norite-ismokti-suvaldyti-pykti-ugdykite-gerasirdiskuma-visu-butybiu-atzvilgiu/?fbclid=IwAR1n2CNC4o7Fxmmzg9D7KiziApD69la_75HuZ6leP1tAtnZFZnBNNkeoOFQ" target="blank">Straipsnis <em>Lila</em> žurnale (2021.09)</a></li>       
             <li><a href="https://maratonolaukas.blogspot.com/2021/06/piya-dassi-meditacija-yra-paskutinis.html" target="blank">Pokalbis su Ignu Staškevičiumi tinklaraštyje <em>Maratono laukas</em> (2021.06)</a></li> 
             <li><a href="https://fb.watch/7xW8aLiwFV/" target="blank">Apie gyvenimą budistiniame vienuolyne Mianmare <em>VU Azijos ir transkultūrinių studijų institutas</em>, vaizdo įrašas (2020.05.05)</a></li>
             <li><a href="https://letai.lt/3-piya-dasi/" target="blank">Meditacija ir vienuolės gyvenimas Mianmare tinklalaidėje<em> Lėtai</em> (2020.05.05)</a></li>    
