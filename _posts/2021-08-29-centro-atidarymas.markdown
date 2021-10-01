@@ -8,27 +8,31 @@ author: piya
 post_image: "/assets/img/blog/nibbana_candles.jpg"
 permalink: "/centro-atidarymas.html"
 ---
-Formalus centro atidarymas planuojamas šeštadienį, spalio 16 dieną. Tą progą centre vyks įvairūs renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. Juos gyvai ir nuotoliniu būdu ves vienuoliai, vienuolės ir pasauliečiai iš trijų kontenentų: Azijos, Europos ir Amerikos. Ypatingi renginio svečiai: Garbusis Khammai Dhammasami (dar žinomas kaip Oksford Sayadaw) (Mianmaras), Garbusis Bhikkhu Bodhi (JAV) ir prof. Audrius Beinoriaus (Lietuva).
+Formalus centro atidarymas planuojamas šeštadienį, spalio 16 dieną. Ta proga centre vyks įvairūs renginiai: giedojimai, šventinės kalbos, meditacijos, aukojimai Budai. Juos gyvai ir nuotoliniu būdu ves vienuoliai, vienuolės ir pasauliečiai iš trijų kontenentų: Azijos, Europos ir Amerikos. Ypatingi renginio svečiai: Garbusis Khammai Dhammasami (dar žinomas kaip Oksford Sayadaw) (Mianmaras), Garbusis Bhikkhu Bodhi (JAV) ir prof. Audrius Beinorius (Lietuva).
 
-Dienos programa bus suskirstyta į dvi dalis: rytinę ir popietinę. Rytas pasižymės tokiais religiniais veiksmais kaip giedojimai, prieglobsčio priėmimas, aukojimai ir kalbos apie Dhammą. Popietę medituosime ir klausysime šventinę vieno žymiausio theravados budizmo vienuolio - Bhikkhu Bodhi sveikinimo kalbą.
+Dienos programa bus suskirstyta į dvi dalis: rytinė ir popietinė. Ryto laiką skirsime tradicinėms praktikoms: _suttų_ giedojimams, prieglobsčio priėmimui, aukojimams ir kalbai apie Dhammą. Popietę medituosime ir klausysimės šventinės vieno žymiausio theravados budizmo vienuolio - Bhikkhu Bodhi sveikinimo kalbos.
 
 ### Prelemenari programa
 9:30 - 9:50 maisto Budai aukojimas (Ayya Piyadassī (Lietuva))\
 9:50 - 10:00 penkių priesakų ir prieglobsčio priėmimas (Bhikkhu Agga (Olandija-Tailandas))\
-10:00 - 10:30 Dhammacakkapavattana sutos giedojimas (Mae Chee Shirley-Anne(UK))\
-10:30 - 11:00 Garbaus Khammai Dhammasami kalba apie Dhamma (Mianmaras)\
+10:00 - 10:30 Dhammacakkapavattana _suttos_ giedojimas (Mae Chee Shirley-Anne(JK))\
+10:30 - 11:00 Garbaus Khammai Dhammasami kalba apie Dhammą (Mianmaras)\
 11:00 - 13:00 pertrauka pietums\
-13:00 - 14:00 meditacija (Ayya Anopamā (Vokietija))\
+13:00 - 14:00 meditacija (Ayya Anopama (Vokietija))\
 14:00 - 14:30 Garbaus Bhikkhu Bodhi kalba (JAV)\
 14:30 - 14:50 prof. Audrius Beinoriaus kalba (Lietuva)\
 14:50 - 15:00 Geraširdiškumo giesmės giedojimas (Sayalay Uttara (Ispanija))\
 15:00 - 15:10 pasidalinimas nuopelnais ir oficialios programos pabaiga (Ayya Piyadassī (Lietuva))
 
-Prie mūsų galite prisijungti gyvai, atvykę į centrą, arba nuotoliniu budų, pasinaudoję ZOOM programėle. Jei planuojate atvykti į centrą, būsime dėkingi, jei iš anksto mums apie tai parašysite. Žinodami kiek žmonių laukti, mes galėsime geriau paruošti centrą. 
+Prie mūsų galite prisijungti gyvai, atvykę į centrą (bus laikomasi SAM reikalavimų), arba nuotoliniu būdu, pasinaudoję ZOOM programėle. Jei planuojate atvykti į centrą, būsime dėkingi, jei iš anksto mums apie tai [parašysite](mailto:aloka@theravada.lt). Žinodami, kiek žmonių laukti, mes galėsime geriau paruošti centrą. 
 
-Informacija apie tai, kaip prisijungti prie ZOOM virtualaus susitikimo, bus paskelbta arčiau renginio.
+Virtualiam prisijungimui pasinaudokite [šia nuoroda](https://us04web.zoom.us/j/75668113193?pwd=L1lmQWxWdTFONHk0czA1Y1U0M2hmdz09).
 
-Jei norėtumėte gauti elektroninį laišką su detalesne informacija apie renginį, kai jo dieną bus nuspresta, užsisakykite mūsų naujienlaiškį įrašę savo elektroninio pašto adresą puslapio apačioje.
+arba šiais duomenimis:\
+Susitikimo ID: 756 6811 3193\
+Raktažodis: meditacija
+
+
 
 [//]: # (Tam, kad prisijungtumėte prie ZOOM virtualaus susitikimo, jums prireiks šių duomenų:\susitikimo kodas:\slaptažodis:\arba tiesiog spauskite šią nuorodą:)
 

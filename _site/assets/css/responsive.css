@@ -241,6 +241,7 @@ blockquote {
 }
 .slider-content h1 {
 	font-size: 36px;
+	padding-top: 20px;
 }
 .portfolio-menu {
 	display: none;
