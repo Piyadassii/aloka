@@ -1,7 +1,7 @@
 ---
 layout: featured
 title: Bendruomenės kambarys
-image: 
+image: /assets/img/slider/slider6.jpg
 icon: /assets/img/icons/community_room.svg
 description: Bendruomenės kambarys – tai erdvė įvairiai veiklai. Čia vyksta visos ceremonijos, paskaitos, kalbos apie Dhammą.
 permalink: "/pages/services/0_bendruomenes_kambarys.html" 

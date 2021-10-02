@@ -1,7 +1,7 @@
 ---
 layout: featured
 title: Meditacijos kambarys
-image: 
+image: /assets/img/services/pagalveles.jpg
 icon: /assets/img/icons/meditation_icon.svg
 description: Jaukus meditacijos kambarys – tikras prieglobstis, kviečiantis palikti kasdienius rūpesčius už durų ir pašvesti laiką protui nuraminti bei vystyti išmintį ir teigiamas emocijas.
 permalink: "/pages/services/1_meditacijos_kambarys.html" 
