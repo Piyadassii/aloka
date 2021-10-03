@@ -26,10 +26,10 @@ Dienos programa bus suskirstyta į dvi dalis: rytinė ir popietinė. Ryto laiką
 
 Prie mūsų galite prisijungti gyvai, atvykę į centrą (bus laikomasi SAM reikalavimų), arba nuotoliniu būdu, pasinaudoję ZOOM programėle. Jei planuojate atvykti į centrą, būsime dėkingi, jei iš anksto mums apie tai [parašysite](mailto:aloka@theravada.lt). Žinodami, kiek žmonių laukti, mes galėsime geriau paruošti centrą. 
 
-Virtualiam prisijungimui pasinaudokite [šia nuoroda](https://us04web.zoom.us/j/75668113193?pwd=L1lmQWxWdTFONHk0czA1Y1U0M2hmdz09).
+Virtualiam prisijungimui pasinaudokite [šia nuoroda](https://us04web.zoom.us/j/71391083343?pwd=WjJRUWtqc2N6OGFuZmtEOUhJR0doZz09).
 
 arba šiais duomenimis:\
-Susitikimo ID: 756 6811 3193\
+Susitikimo ID: 713 9108 3343\
 Raktažodis: meditacija
 
 
