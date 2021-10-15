@@ -12,7 +12,7 @@ Formalus centro atidarymas planuojamas šeštadienį, spalio 16 dieną. Ta proga
 
 Dienos programa bus suskirstyta į dvi dalis: rytinė ir popietinė. Ryto laiką skirsime tradicinėms praktikoms: _suttų_ giedojimams, prieglobsčio priėmimui, aukojimams ir kalbai apie Dhammą. Popietę medituosime ir klausysimės šventinės vieno žymiausio theravados budizmo vienuolio - Bhikkhu Bodhi sveikinimo kalbos.
 
-### Prelemenari programa
+### Programa
 9:30 - 9:50 maisto Budai aukojimas (Ayya Piyadassī (Lietuva))\
 9:50 - 10:00 penkių priesakų ir prieglobsčio priėmimas (Bhikkhu Agga (Olandija-Tailandas))\
 10:00 - 10:30 Dhammacakkapavattana _suttos_ giedojimas (Mae Chee Shirley-Anne(JK))\
