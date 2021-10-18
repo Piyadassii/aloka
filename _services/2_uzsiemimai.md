@@ -7,14 +7,6 @@ description: Kiekvieną rytą ir vakarą vyksta meditacijos ir gėdojimai. Kelis
 permalink: "/pages/services/2_uzsiemimai.html"
 ---
 <section>
-    <h3>KASDIEN IKI SPALIO 18 D.</h3>
-
-<p>5:45 - 6:00 Giedojimas<br>
-    6:00 - 7:00 Meditacija<br>
-    18:00 - 18:30 Giedojimas<br>
-    18:30 - 19:30 Meditacija</p>
-
-<h3>NUO SPALIO 18 D.</h3>
     {% include tvarkarastis.html %}
 </section>
 <section>
