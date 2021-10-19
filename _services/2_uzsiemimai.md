@@ -40,6 +40,10 @@ permalink: "/pages/services/2_uzsiemimai.html"
     <h3>Kalba apie Dhammą</h3>
     {% include dhamma_talk.html %}
 </section>
+<section>
+    <h3>Maisto dovanojimas vienuolei</h3>
+    {% include food_dana.html %}
+</section>
     
 <div class="service-details mb-30">
     
