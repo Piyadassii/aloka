@@ -2,8 +2,8 @@
 layout: post
 title: "Prasideda paskaitų ciklas „Budizmo pagrindai”"
 date: 2021-10-18 
-tags: renginiai, paskaitos
-categories: [renginiai, paskaitos]
+tags: renginiai paskaitos
+categories: [renginiai paskaitos]
 author: piya
 post_image: "/assets/img/blog/BudizmoPagrindai.jpg"
 permalink: "/budizmo-pagrindai-prasideda.html"
