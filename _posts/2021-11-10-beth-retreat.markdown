@@ -6,7 +6,7 @@ tags: renginiai, atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
 post_image: "/assets/img/blog/beth.jpg"
-permalink: "/beth_retreat"
+permalink: "/beth_retreat.html"
 ---
 ## Savaitės meditacijos atsiskyrimas (prie Panevėžio)/ A week-long meditation retreat
 
