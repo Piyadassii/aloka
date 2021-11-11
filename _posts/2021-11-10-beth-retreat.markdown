@@ -3,7 +3,7 @@ layout: post
 title: "Sausio 9 - 16 dd. atsiskyrimas su Beth Upton (JK)"
 date: 2021-11-10 10:12:09
 tags: renginiai, atsiskyrimai
-categories: [renginiai, atsiskyrimai]
+categories: [renginiai atsiskyrimai]
 author: piya
 post_image: "/assets/img/blog/beth.jpg"
 permalink: "/beth_retreat"
