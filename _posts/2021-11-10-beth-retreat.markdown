@@ -90,7 +90,7 @@ Beth's [personal page](https://bethupton.com).\
 Sanditthika [community's page](https://sanditthika.org/).
 
 PRICE:\
-Participants will need to PAY ONLY 119 EUR PER NIGHT for the lodging and  there WILL BE AN OPPORTUNITY TO DONATE TO THE TEACHER.
+Participants will need to PAY ONLY 119 EUR FOR LODGING and there WILL BE AN OPPORTUNITY TO DONATE TO THE TEACHER.
 The event is non-profit.
 
 REGISTRATION:\
