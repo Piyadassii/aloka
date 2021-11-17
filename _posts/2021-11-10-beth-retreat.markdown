@@ -14,10 +14,10 @@ Naujieji metai Lietuviams dovanoja neeilinę galimybę, atsiskirti ir savaitę m
 
 Nepraleiskite progos, vietų skaičius labai ribotas!
 
-Atsiskyrimas vyks atokioje sodyboje miškų apsuktyje, praktikuodami laikysimės tylos ir atsiribosime nuo kasdienio gyvenimo veiklos ir trugdžių, kad galėtume netrugdomai susitelkti į meditacijos praktiką ir savižina.
+Atsiskyrimas vyks atokioje sodyboje miškų apsuktyje, praktikuodami laikysimės tylos ir atsiribosime nuo kasdienio gyvenimo veiklos ir trukdžių, kad galėtume netrukdomai susitelkti į meditacijos praktiką ir savižiną.
 
 Atsiskyrime bus individualios praktikos instrukcijos ir lankstus tvarkaraštis, kuris leis jums praktikuoti pagal jūsų natūralų ritmą.
-Jei nekalbate Angliškai bus galimybė benrdauti su mokytoja dalyvaujant vertėjui.
+Jei nekalbate angliškai bus galimybė benrdauti su mokytoja dalyvaujant vertėjui.
 Jei nesate tikri, ar atsiskyrimas jums tiks, [susisiekite su mokytoja](https://bethupton.com/contact/).
 
 
@@ -25,7 +25,7 @@ Jei kalbate angliškai ir norėtumėte jau dabar susipažinti su mokytoja ir gau
 
 ### Apie meditacijos mokytoja Beth
 
-Beth gimė Londone 1982 m. Ji baigė Ekonomiką Kembridžo universitete, o 2008 m. tapo budistų vienuole Pa Auk meditacijos centre Mianmare. Ji penkis metus uoliai meditavo Theravados tradicijoje mokoma paties Pa Auk Sajado. Po to ji dar penkis metus ji praleido besimokydama kitų meditacijos metodų ir ilguose asmeniniuose atsiskyrimuose. 2014 m. ji atrado olas Almerijoje, Ispanijoje, kuriose vėliau įsteigė Sanditthika meditacinę bendruomenė. 2018m., po dešimties vienuolystės metų, ji nusprendė grįžti į pasaulietinį gyvenimą tam, kad galėtų padaryti kai kuriuos vakarietiško iššūkius savo Dhammos praktikos dalimi. Beth moko meditacijos Almerijoje ir meditacijos atsiskyrimuose aplink pasaulį nuo 2014 m.
+Beth gimė Londone 1982 m. Ji baigė Ekonomiką Kembridžo universitete, o 2008 m. tapo budistų vienuole Pa Auk meditacijos centre Mianmare. Ji penkis metus uoliai meditavo Theravados tradicijoje mokoma paties Pa Auk Sajado. Po to ji dar penkis metus praleido besimokydama kitų meditacijos metodų ir ilguose asmeniniuose atsiskyrimuose. 2014 m. ji atrado olas Almerijoje, Ispanijoje, kuriose vėliau įsteigė Sanditthika meditacinę bendruomenę. 2018m., po dešimties vienuolystės metų, ji nusprendė grįžti į pasaulietinį gyvenimą tam, kad galėtų padaryti kai kuriuos vakarietiško gyvenimo iššūkius savo Dhammos praktikos dalimi. Beth moko meditacijos Almerijoje ir meditacijos atsiskyrimuose po visą pasaulį nuo 2014 m.
 
 
 [Čia](https://youtu.be/aygU9AZ8I-Y) Beth pasakoja apie save.\
