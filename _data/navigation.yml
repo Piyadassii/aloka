@@ -21,6 +21,15 @@
     url: /features/budizmas
   - text: Meditacija
     url: /features/meditacija
+- text: archyvas
+  url: /pages/blog
+  submenu:
+  - text: Atidarymo ceremonija
+    url: /archyvas/atidarymas.html
+  - text: Budizmo pagrindai
+    url: /archyvas/budizmo_pagrindai.html
+  - text: Svečiai
+    url: /archyvas/sveciai.html
 - text: Parama
   url: /pages/parama
 # - text: Medija
