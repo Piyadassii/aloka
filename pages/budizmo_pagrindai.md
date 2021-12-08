@@ -50,3 +50,10 @@ Antroji ir trečioji taurinančios tiesos: Sąlygotoji kilmė ir Nibbāna.
 <a href="/assets/files/Salygotas atsiradimas tik diagrama.pdf" target="blank">Diagrama</a>
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F425252779087114%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+### 7-oji paskaita
+
+Kamma ir atgimimas.\ 
+[Mažoji veiksmų analizės sutta](https://theravada.lt/vertimai/culakammavibhangasuttam/) 
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=292&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1057812611457911%2F&show_text=false&width=560&t=0" width="560" height="292" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>

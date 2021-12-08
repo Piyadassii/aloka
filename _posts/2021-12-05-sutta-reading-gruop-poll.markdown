@@ -8,7 +8,7 @@ author: piya
 post_image: "/assets/img/blog/sutta books bb.jpg"
 permalink: "/apklausa_suttu_skaitymo_grupe.html"
 ---
-Kitais metais planuojame pradėti suttų skaitymo grupę (per Zoom'ą). Аtsakykite į 3 apklausos klausimus ir padėkite mums suprasti kiek žmonėms tai būtų įdomu.\
+Kitais metais planuojame pradėti suttų skaitymo grupę (per Zoom'ą). Аtsakykite į 3 apklausos klausimus ir padėkite mums suprasti, kiek žmonėms tai būtų įdomu.\
 Ačiū!
 
 [Askakyti į klausimus galite čia](https://poll.app.do/sutta-class)
