@@ -57,3 +57,11 @@ Kamma ir atgimimas.\
 [Mažoji veiksmų analizės sutta](https://theravada.lt/vertimai/culakammavibhangasuttam/) 
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=292&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1057812611457911%2F&show_text=false&width=560&t=0" width="560" height="292" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+### 8-oji paskaita
+
+Ketvirtoji taurinanti tiesa: aštuonialypis taurinantis kelias.\
+[Roz Savage apie savo gyvenimą ir irklavimą per vandenynus](https://www.ted.com/talks/roz_savage_why_i_m_rowing_across_the_pacific)\
+[Sutta paaiškinanti aštuonialypio kelio veiksnius](https://theravada.lt/vertimai/sn-v-i-i-8-vibhangasuttam/)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=292&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F282948753879552%2F&show_text=false&width=560&t=0" width="560" height="292" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
