@@ -10,10 +10,12 @@
     url: /pages/schedule
   - text: Meditacija
     url: /pages/meditacijos_uzsiemimai
-  - text: Paskaitos
-    url: /pages/paskaitos   
+  - text: Skaitymai
+    url: /pages/skaitymai   
   - text: Giedojimai ir kt.
     url: /pages/giedojimai
+  - text: Šventiniai sekmadieniai
+    url: /pages/sekmadieniai
 - text: Mokymai
   url: /pages/blog
   submenu:
