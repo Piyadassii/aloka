@@ -2,8 +2,8 @@
 layout: post
 title: "Nuo sausio 29d. - teigiamų emocijų vystymo kursas"
 date: 2022-01-08
-tags: renginys
-categories: [renginys mokymai]
+tags: renginiai
+categories: [renginiai mokymai]
 author: piya
 post_image: "/assets/img/blog/teigiamu emociju vystymo kursas.png"
 permalink: "/teigiamu_emociju_vystymo_kursas.html"

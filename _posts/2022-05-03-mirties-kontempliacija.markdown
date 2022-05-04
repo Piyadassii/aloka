@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Mirties kontempliacija"
-date: 2022-04-16
+title: "Mirties kontempliacija Gegužės 21d."
+date: 2022-05-03
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
-post_image: "/assets/img/blog/mirties_kontemliacija.jpg"
+post_image: "/assets/img/blog/mirties_kontempliacija_2.png"
 permalink: "/mirties_kontempliacija.html"
 ---
 Mirtis vakaruose nėra populiari tema, nežiūrint į tai, kad susidurti su ja neišvengiamai teks kiekvienam. Buda gi sakė, kad, „išlavinta, dažnai praktikuojama mirties kontempliacija (maraṇassati) duoda didžiulę naudą ir vaisius, ji remiasi į nemirtingą elementą, jos viršūnė yra tai, kas yra nemirtinga.”
 
-Paskutinį balandžio šeštadienį kviečiame praleisti kartu praktikuojant šią seną meditaciją _Alokos centre_. Ji padės mums sumažinti prisirišimą prie pasaulio (vieno iš kančios šaltinių) ir iš naujo pasižiūrėti į savo gyvenimo prioritetus. Mirties kontempliacija yra puikus vaistas nuo tingulio ir apatijos.
+Gegužęs 21d., šeštadienį, kviečiame praleisti kartu praktikuojant šią seną meditaciją _Alokos centre_. Ji padės mums sumažinti prisirišimą prie pasaulio (vieno iš kančios šaltinių) ir iš naujo pasižiūrėti į savo gyvenimo prioritetus. Mirties kontempliacija yra puikus vaistas nuo tingulio ir apatijos.
 
 ### Tvarkaraštis
 
@@ -29,7 +29,7 @@ Budos mokymai, kuriais remiasi šis renginys, yra neįkainojama dovana žmonijai
 ### Registracija
 
 Registacija yra **būtina**!\
-Registruotis galite parašę mums į e-paštą laišką su tema "DALYVAUSIU BALANDŽIO 30 d.".\
+Registruotis galite parašę mums į e-paštą laišką su tema "DALYVAUSIU GEGUžĖS 21 d.".\
 Jeigu dalyvauti negalėsite, būtinai prašome pranešti bent kelias dienas **iš anksto** (vietų skaičius labai ribotas).
 
 

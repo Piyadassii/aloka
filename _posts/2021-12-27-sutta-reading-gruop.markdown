@@ -2,8 +2,8 @@
 layout: post
 title: "Nuo sausio 18d. - pali suttų skaitymo grupė"
 date: 2021-12-27
-tags: renginys
-categories: [renginys]
+tags: renginiai
+categories: [renginiai]
 author: piya
 post_image: "/assets/img/blog/sutta books bb.jpg"
 permalink: "/pali_suttu_skaitymo_grupe.html"
