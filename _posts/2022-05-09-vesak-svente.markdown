@@ -8,7 +8,7 @@ author: piya
 post_image: "/assets/img/blog/vesak.jpg"
 permalink: "/vesak_2022.html"
 ---
-Gegužės pilnatis (kuri šiemet išpuola gegužės 15d., sekmadienį) budistiniame pasaulyje yra viena didžiausių švenčių – minima Budos gimimo, nušvitimo ir galutinio užgėsimo (galutinės nirvaṇos, išėjimo) diena.
+Gegužės pilnatis (kuri šiemet išpuola gegužės 15d., sekmadienį) budistiniame pasaulyje yra viena didžiausių švenčių – minima Budos gimimo, nušvitimo ir galutinio užgesimo (galutinės nirvaṇos, išėjimo) diena.
 Ta proga _Alokos centras_ kartu su _Slyvų kaimeliu_ ir _Vilniaus Theravados budizmo grupe_ organizuoja susitikimą Vilniuje.
 
 🕛 Susirinksime vidurdienį, 12 val. Užupyje Vilniuje, studijos Menas Būti Mažojoje salėje (Krivių g. 5/ Baltasis skg. 12, įėjimas iš Baltojo skg. laiptais žemyn).
