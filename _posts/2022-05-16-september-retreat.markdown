@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rugsėjo 9 - 16 dd. atsiskyrimas su vienuolėmis (Vokietija, Lietuva)"
+title: "Rugsėjo 9 - 18 dd. atsiskyrimas su vienuolėmis (Vokietija, Lietuva)"
 date: 2022-05-16
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]

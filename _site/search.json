@@ -1,7 +1,15 @@
 [
   
     {
-      "title"    : "Rugsėjo 9 - 16 dd. atsiskyrimas su vienuolėmis (Vokietija, Lietuva)",
+      "title"    : "Grožis pagal Budą | Paskaita rugsėjo 4d.",
+      "category" : "",
+      "tags"     : "renginiai",
+      "url"      : "/grozis_pagal_buda.html",
+      "date"     : "2022-08-29 00:00:00 +0300"
+    } ,
+  
+    {
+      "title"    : "Rugsėjo 9 - 18 dd. atsiskyrimas su vienuolėmis (Vokietija, Lietuva)",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/rugsejo_atsiskyrimas.html",
