@@ -14,7 +14,7 @@ description: Dosnumas neša džiaugsmą ir laimę kiekvienoje savo pasireiškimo
             <p>Paprastai sako, kad dorovė yra budistinio kelio pagrindas. Tiesa. Bet tai yra ne tik kelio pagrindas, tai taip pat yra ir rodyklis, pagal kurį galime matyti kiek to kelio nueita. Mūsų elgesys -- tai savotiškas veidrodys, kuriame atsispindi protas ir širdis. Pagrindinis dorovės principas — mūsų žodžiai ir kūno veiksmai turėtų būti nieko nežalojantys, nei aplinkinių, nei savęs pačio. O minimalus elgesio taisyklių rinkinis, kuriuo stengesi vadovautis budistai susideda iš penkių punktų:</p>
             <p>nežudyti,<br>
             nevogti,<br>
-            neištvirkauti,<br>
+            nesvetimauti,<br>
             nemeluoti ir<br>
             nesisvaiginti.</p>
             <p>Dėl žalingu proto įpročių, mums gali nevisada sektis laikytis tų taisyklių, bet tai nereiškia, kad dėl to neturėtume bandyti. Įpročius nepakeisti per naktį, tam reikalingas ryžtas ir praktika, tam reikalingas stiprus protas, o protą stiprina meditacija.</p>

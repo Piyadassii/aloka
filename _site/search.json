@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Meditacija pradedantiesiems",
+      "category" : "",
+      "tags"     : "renginiai, meditacija",
+      "url"      : "/meditacija_pradedantiesiems.html",
+      "date"     : "2022-09-19 13:12:09 +0300"
+    } ,
+  
+    {
+      "title"    : "Spalį vėl skaitysime pali suttas",
+      "category" : "",
+      "tags"     : "renginiai",
+      "url"      : "/pali_suttu_skaitymo_grupe.html",
+      "date"     : "2022-09-18 00:00:00 +0300"
+    } ,
+  
+    {
       "title"    : "Grožis pagal Budą | Paskaita rugsėjo 4d.",
       "category" : "",
       "tags"     : "renginiai",
@@ -54,14 +70,6 @@
       "tags"     : "renginiai",
       "url"      : "/teigiamu_emociju_vystymo_kursas.html",
       "date"     : "2022-01-08 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Nuo sausio 18d. - pali suttų skaitymo grupė",
-      "category" : "",
-      "tags"     : "renginiai",
-      "url"      : "/pali_suttu_skaitymo_grupe.html",
-      "date"     : "2021-12-27 00:00:00 +0200"
     } ,
   
     {
