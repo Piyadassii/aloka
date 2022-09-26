@@ -32,3 +32,15 @@ neras ramybės niekuomet, kas tokias mintis puoselėja. (AB)
 4\
 „Jis įžeidė mane, apiplėšė, man trenkė, nugalėjo”, – \
 kas šitokių minčių nepuoselėja, tas bemat nurims. (AB)
+
+### Posmai 5-6
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Falokoscentras%2Fvideos%2F770015184225708%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+5\
+Šiame pasaulyje neapykanta niekad nenumalšina neapykantos,\
+ją numalšina meilė. Tai yra visų laikų Dėsnis.
+
+6\
+Kiti negalvoja apie tai, kad mes čia turėsim mirti,\
+bet tie, kas apie tai galvoja, palieka kivirčius.
