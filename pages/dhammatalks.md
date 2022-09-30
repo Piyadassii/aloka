@@ -24,6 +24,8 @@ Garso įrašas padarytas centre 2022m. gegužės 1d. Kalba Ayya Piyadassī.
 
 Garso įrašas padarytas centre 2022m. balandžio 30d. Kalba Ayya Piyadassī.
 
-<!-- ### Grožis pagal Budą
+### Grožis pagal Budą
 
-../assets/audio/Socio-kamma-Piyadassi-060222.mp3?autoplay=1&loop=1&controls=0 -->
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/grozis-pagal-buda" scrolling="no" width="100%" height="252" scrollbars="no" frameborder="0"></iframe>
+
+Garso įrašas padarytas centre 2022m. rugsėjo 4d. Kalba Ayya Piyadassī.
