@@ -44,3 +44,15 @@ ją numalšina meilė. Tai yra visų laikų Dėsnis.
 6\
 Kiti negalvoja apie tai, kad mes čia turėsim mirti,\
 bet tie, kas apie tai galvoja, palieka kivirčius.
+
+### Posmai 7-8
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F5407735929344599%2F&show_text=false&width=560&t=14" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+7\
+Kas gyvas malonumais, nesuvaldo juslių, be saiko valgo, tingi ir nėra žvalus,\
+tokį lengvai įveikia Mara – kaip viesulas gležną medelį suniokoja. (AB)
+
+8\
+Kas gyvas ne tik malonumais, jusles savo tramdo, valgo saikingai, kas tvirto tikėjimo, kupinas ryžto,\
+tokio neįveikia Mara – kaip vėtra neįveikia kalnų uolos. (AB)
