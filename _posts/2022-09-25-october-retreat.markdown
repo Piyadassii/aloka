@@ -8,7 +8,9 @@ author: piya
 post_image: "/assets/img/blog/atsiskyrimas_spalis_virselis.jpg"
 permalink: "/spalio_atsiskyrimas.html"
 ---
-## Savaitgalio meditacijos atsiskyrimas prie marių (Kuršių Nerijoje)
+## Savaitgalio meditacijos atsiskyrimas prie marių (VIETŲ NEBĖRA)
+
+**VIETŲ NEBĖRA**
 
 Paskutinį spalio savaitgalį kviečiame praleisti medituojant su dviem budizmo vienuolėmis prie Kuršių marių.\
 Atsiskyrimą ves **Won Bo Sunim** (Zen) ir **Ayya Piyadassī** (Theravada).
@@ -91,7 +93,7 @@ Pavadinimas: Labdaros ir paramos fondas “Alokos centras”\
 Banko saskaita: LT037044090102012566\
 Banko pavadinimas: AB SEB bankas\
 Suma: 75 eur.\
-Mokėjimo paskirtis: stovykla spalis\
+Mokėjimo paskirtis: stovykla spalis
 
 **VIETA:**
 
