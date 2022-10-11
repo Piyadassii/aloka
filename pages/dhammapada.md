@@ -56,3 +56,15 @@ tokį lengvai įveikia Mara – kaip viesulas gležną medelį suniokoja. (AB)
 8\
 Kas gyvas ne tik malonumais, jusles savo tramdo, valgo saikingai, kas tvirto tikėjimo, kupinas ryžto,\
 tokio neįveikia Mara – kaip vėtra neįveikia kalnų uolos. (AB)
+
+### Posmai 11-12
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F672503260700142%2F&show_text=false&width=560&t=76" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+11\
+Kas esmę laiko neesminga, o neesminga mano esant esmę,\
+tas nepatirs tiesos, nes veda jį klaidingos mintys. (AB)
+
+12\
+Kas esmę esme ir laiko, o neesminga – neesmingu,\
+tas tiesą patirs, nes veda jį teisingos mintys. (AB)
