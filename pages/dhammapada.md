@@ -68,3 +68,15 @@ tas nepatirs tiesos, nes veda jį klaidingos mintys. (AB)
 12\
 Kas esmę esme ir laiko, o neesminga – neesmingu,\
 tas tiesą patirs, nes veda jį teisingos mintys. (AB)
+
+### Posmai 13-14
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1483619095463839%2F&show_text=false&width=560&t=15" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+13.\
+Kaip kad prasismelkia lietus pro blogai dengtą stogą,\
+taip į netramdomą protą prasiskverbia aistros. (AB)
+
+14.\
+Kaip neprasismelkia lietus pro gerai dengtą stogą,\
+taip neprasiskverbia aistros į sutramdytą protą. (AB)
