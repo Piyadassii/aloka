@@ -80,3 +80,15 @@ taip į netramdomą protą prasiskverbia aistros. (AB)
 14.\
 Kaip neprasismelkia lietus pro gerai dengtą stogą,\
 taip neprasiskverbia aistros į sutramdytą protą. (AB)
+
+### Posmai 15-16
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F827285881744893%2F&show_text=false&width=560&t=37" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+15.\
+Ir šiapus sielvartauja, ir anapus, abiejuose pasauliuos sielvartauja piktavalis;\
+kenčia ir liūdi, regėdamas savo darbų (pasėtą) blogį. (AB)
+
+16.\
+Ir šiapus džiaugias, ir anapus, abiejuose pasauliuos džiaugias doras;\
+jis džiaugiasi regėdamas savo gerų darbų vaisius. (AB)
