@@ -8,11 +8,10 @@ author: piya
 post_image: "/assets/img/blog/atsiskyrimas_spalis_virselis.jpg"
 permalink: "/spalio_atsiskyrimas.html"
 ---
-## Savaitgalio meditacijos atsiskyrimas prie marių (VIETŲ NEBĖRA)
+## Savaitgalio meditacijos atsiskyrimas prie Lūšių ežero
 
-**VIETŲ NEBĖRA**
 
-Paskutinį spalio savaitgalį kviečiame praleisti medituojant su dviem budizmo vienuolėmis prie Kuršių marių.\
+Paskutinį spalio savaitgalį kviečiame praleisti medituojant su dviem budizmo vienuolėmis prie Lūšių ežero.\
 Atsiskyrimą ves **Won Bo Sunim** (Zen) ir **Ayya Piyadassī** (Theravada).
 
 Zen ir Theravados budizmo tradicijos turi daug bendro, bet turi ir skirtumų. Šis atsiskyrimas – tai puiki proga prisiliesti prie tų tradicijų ir pasimokyti iš abiejų. 
@@ -44,7 +43,7 @@ Zen ir Theravados budizmo tradicijos turi daug bendro, bet turi ir skirtumų. Š
 10:30 Meditacija sėdint\
 11:00 Meditacija vaikštant\
 11:30 Pietūs\
-13:30 Meditacija vaikštant palei marias\
+13:30 Meditacija vaikštant palei ežerą\
 14:30 Meditacija sėdint\
 15:15 Meditacija vaikštant\
 16:00 Meditacija sėdint\
@@ -97,8 +96,8 @@ Mokėjimo paskirtis: stovykla spalis
 
 **VIETA:**
 
-Kauno Karaliaus Mindaugo profesinio rengimo mokymo centras\
-Pervalkos g. 1, Pervalka
+Aukštaitijos nacionalinio parko gamtos mokykla,
+Meiros g. 10, Meironų k., Ignalinos r.
 
 
 **DAUGIAU INFORMACIJOS APIE RENGINĮ GALITE SUŽINOTI SUSISIEKĘ NURODYTAIS KONTAKTAIS:**\

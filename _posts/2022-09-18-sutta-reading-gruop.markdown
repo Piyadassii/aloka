@@ -12,4 +12,4 @@ Nuo spalio mėnesio tęsiame suttų skaitymo grupės susitikimus. Antradienio va
 
 Pavasarį perskatėme <em>Didžiajai suttai apie Parinibbāna <a href="https://suttacentral.net/dn16">(Mahāparinibbānasutta DN 16)</a></em>, ilgiausią pali kanono suttą. Toliau skaitome įvairaus ilgio suttas susijusias su Budos mokymo teorija ir praktika. Skaitome lėtai ir daug diskutuojame. Pagrindinis mūsų tikslas yra pamąstyti, kaip galime pritaikyti gyvenime tai, ką skaitome. Grupė yra labiau erdvė mūsų visų diskusijai, nei katedra paskaitoms skaityti.
 
-Norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/zHqv7Mx1CEy7uvECA">šią formą</a>.
+Norėdami užsiregistruoti, parašykite mums laišką į aloka@theravada.lt .

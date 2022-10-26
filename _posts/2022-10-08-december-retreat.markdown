@@ -10,7 +10,9 @@ permalink: "/gruodzio_atsiskyrimas.html"
 ---
 ## Devynių dienų meditacijos atsiskyrimas ant marių kranto
 
-Gruodį kviečiame į ilgesnį meditacijos atsiskyrimą prie Kuršių marių, Pervalkoje.\
+##### SVARBU: Kol kas registracija pristabdyta – keisys atsiskyrimo vieta arba datos
+
+Gruodį kviečiame į ilgesnį meditacijos atsiskyrimą.\
 Atsiskyrimą ves vienuolė __Ayya Piyadassī__.
 
 ***Samatha*** (skr. *śamatha*) ir ***Vipassana*** (skr. *vipaśyanā*) (rimtis ir įžvalga) – tai bruožai, kuriuos būtina lavinti, jei esate rimtai nusiteikę suprasti save ir pasaulį, suprasti kas yra laimė ir kokios yra jos tikrosios priežastys ir sąlygos. Šis atsiskyrimas bus skirtas tiems bruožams puoselėti, suprasti kas mus daro nelaimingais ir vaduotis iš to, judėti link laimės ir pilnatvės.
@@ -89,8 +91,7 @@ Mokėjimo paskirtis: stovykla gruodis
 
 **VIETA**
 
-Kauno Karaliaus Mindaugo profesinio rengimo mokymo centras,\
-Pervalkos g. 1, Pervalka
+???
 
 **KONTAKTAI SUSISIEKTI JEI TURITE DAUGIAU KLAUSIMŲ**
 
