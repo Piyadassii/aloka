@@ -92,3 +92,16 @@ kenčia ir liūdi, regėdamas savo darbų (pasėtą) blogį. (AB)
 16.\
 Ir šiapus džiaugias, ir anapus, abiejuose pasauliuos džiaugias doras;\
 jis džiaugiasi regėdamas savo gerų darbų vaisius. (AB)
+
+### Posmai 19-20
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F393465326216670%2F&show_text=false&width=560&t=17" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+19.\
+Kad ir daug jis gieda šventrus tekstus, bet neseka jais išsiblaškęs žmogus,\
+jis kaip piemo, skaičiuojantis kitų karves, nepatyria atsiskirėlių praktikos palaimos.
+
+20.\
+Kad ir mažai jis gieda šventrus tekstus, bet praktikuoja mokymą atitinkantį darną.\
+Atsikratęs aistros, neapykantos ir paklydimo, turėdamas teisingą supratimą, jis visiškai išvaduoja protą.\
+Nieko nesisavindamas nei šiame, nei kitame pasaulyje, jis patyria atsiskirėlių praktikos palaimą.
