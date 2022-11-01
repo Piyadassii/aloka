@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gruodžio 9 - 18 dd. atsiskyrimas su vienuole Pervalkoje"
-date: 2022-10-08
+date: 2030-10-08
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
