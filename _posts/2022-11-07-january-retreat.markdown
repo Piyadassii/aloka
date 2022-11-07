@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Gruodžio 9 - 18 dd. atsiskyrimas su vienuole Pervalkoje"
-date: 2030-10-08
+title: "Sausio 6 - 15 dd. Samathos-Vipassanos atsiskyrimas su vienuole"
+date: 2022-11-07
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
-post_image: "/assets/img/blog/stovykla_gruodis.jpg"
-permalink: "/gruodzio_atsiskyrimas.html"
+post_image: "/assets/img/blog/atsiskyrimas_sausis.jpg"
+permalink: "/sausio_atsiskyrimas.html"
 ---
-## Devynių dienų meditacijos atsiskyrimas ant marių kranto
+## Devynių dienų Samathos-Vipassanos meditacijos atsiskyrimas
 
-##### SVARBU: Kol kas registracija pristabdyta – keisys atsiskyrimo vieta arba datos
-
-Gruodį kviečiame į ilgesnį meditacijos atsiskyrimą.\
+Sausį kviečiame į ilgesnį meditacijos atsiskyrimą Trakų rajone.\
 Atsiskyrimą ves vienuolė __Ayya Piyadassī__.
 
 ***Samatha*** (skr. *śamatha*) ir ***Vipassana*** (skr. *vipaśyanā*) (rimtis ir įžvalga) – tai bruožai, kuriuos būtina lavinti, jei esate rimtai nusiteikę suprasti save ir pasaulį, suprasti kas yra laimė ir kokios yra jos tikrosios priežastys ir sąlygos. Šis atsiskyrimas bus skirtas tiems bruožams puoselėti, suprasti kas mus daro nelaimingais ir vaduotis iš to, judėti link laimės ir pilnatvės.
@@ -68,17 +66,17 @@ Tradiciškai laikysimės aštuonių dorovės priesakų. Pasižadėsime susilaiky
 **KAINA**
 
 Renginys ne pelno siekiantis.\
-Dalyviams reikės sumokėti tik savikainos mokestį už nakvynę ir vegetarišką maitinimą 280 eurų.\
+Dalyviams reikės sumokėti tik savikainos mokestį už nakvynę ir vegetarišką maitinimą 305 eurų.\
 Jeigu norėsite po renginio BUS GALIMYBĖ PAAUKOTI mokytojai už mokymą ir tarnystę.
 
 **REGISTRACIJA**
 
-Registracija bus patvirtinta sumokėjus 280 eurų už 9 nakvynes ir maitinimą.\
+Registracija bus patvirtinta sumokėjus 305 eurų už 9 nakvynes ir maitinimą.\
 \- atlikus pavedimą patvirtinti registracijai BŪTINA atsiųsti pavedimo kopiją el. paštu: amandaspaulauskas@gmail.com\
 \- registracijos mokestis yra negrąžinamas.\
 \- jei dėl COVID-19 atsiradusių naujų ribojimų renginį tektų atšaukti registracijos mokestis bus nedelsiant grąžintas.\
 \- jei negalite sau tiek leisti finasiškai, bet labai norite dalyvauti atsiskyrime parašykite elektroniniu paštu amandaspaulauskas@gmail.com\
-\- Vietų skaičius ribotas iki 25 žmonių.\
+\- Vietų skaičius ribotas iki 30 žmonių.\
 (dalyviai gyvens dviviečiuose arba triviečiuose kambariuose su atskirais dušais ir wc)
 
 **MOKĖJIMO DUOMENYS**
@@ -86,12 +84,13 @@ Registracija bus patvirtinta sumokėjus 280 eurų už 9 nakvynes ir maitinimą.\
 Pavadinimas: Labdaros ir paramos fondas “Alokos centras”\
 Banko saskaita: LT037044090102012566\
 Banko pavadinimas: AB SEB bankas SWIFT kodas: CBVILT2X\
-Suma: 280 eur.\
+Suma: 305 eur.\
 Mokėjimo paskirtis: stovykla gruodis
 
 **VIETA**
 
-???
+„TRAKŲ AUKŠTĖS” kaimo turizmo sodyba
+Paraisčių km. 5, Trakų raj.
 
 **KONTAKTAI SUSISIEKTI JEI TURITE DAUGIAU KLAUSIMŲ**
 
