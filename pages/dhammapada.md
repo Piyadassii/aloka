@@ -105,3 +105,15 @@ jis kaip piemo, skaičiuojantis kitų karves, nepatyria atsiskirėlių praktikos
 Kad ir mažai jis gieda šventrus tekstus, bet praktikuoja mokymą atitinkantį darną.\
 Atsikratęs aistros, neapykantos ir paklydimo, turėdamas teisingą supratimą, jis visiškai išvaduoja protą.\
 Nieko nesisavindamas nei šiame, nei kitame pasaulyje, jis patyria atsiskirėlių praktikos palaimą.
+
+### Posmai 21-22
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1170376237213913%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+21.\
+Budrumas – kelias į nemirtingumą; išsiblaškymas veda į mirtį.\
+Kas būdrauja, nemiršta; nedėmesingieji – gyvena tarsi mirę.
+
+22.\
+Tai gerai žinodami, išminčiai nuolat būdrauja,\
+budrumas – jų džiaugsmo šaltinis; džiaugsmu dalijasi kilnieji.
