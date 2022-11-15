@@ -117,3 +117,15 @@ Kas būdrauja, nemiršta; nedėmesingieji – gyvena tarsi mirę.
 22.\
 Tai gerai žinodami, išminčiai nuolat būdrauja,\
 budrumas – jų džiaugsmo šaltinis; džiaugsmu dalijasi kilnieji.
+
+### Posmai 23-24
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1110891716237824%2F&show_text=false&width=560&t=55" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+23.\
+Kas nenutrukstamai medituoja, nuolat ir tvirtai juda į priekį,\
+tie išminčiai tiesiogiai patiria nibbaną, neprilygstamą apsauga nuo pančių.
+
+24.\
+Auga šlovė to, kas yra energingas, atidus, santūrus, gyvenantis pagal darnos dėsnius,\
+kas yra budrus, keno veiksmai yra tyri ir apgalvoti.
