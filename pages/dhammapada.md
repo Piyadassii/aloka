@@ -129,3 +129,16 @@ tie išminčiai tiesiogiai patiria nibbaną, neprilygstamą apsauga nuo pančių
 24.\
 Auga šlovė to, kas yra energingas, atidus, santūrus, gyvenantis pagal darnos dėsnius,\
 kas yra budrus, keno veiksmai yra tyri ir apgalvoti.
+
+### Posmai 25-26
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1133323340656226%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+25.\
+Veiklumu, budrumu, susitvardymu ir disciplina,\
+Išminčius pasidaro sau salą, kurios joks potvynis neužlieja.
+
+26.\
+Kvailiai ir neišmanėliai – jie pasiduoda išsiblaškymui;\
+išminčiai kaip didžiausią turtą saugo savąjį budrumą. (AB)
+
