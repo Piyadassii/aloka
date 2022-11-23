@@ -29,3 +29,9 @@ Garso įrašas padarytas centre 2022m. balandžio 30d. Kalba Ayya Piyadassī.
 <iframe src="https://audiomack.com/embed/alolkos-centras/song/grozis-pagal-buda" scrolling="no" width="100%" height="252" scrollbars="no" frameborder="0"></iframe>
 
 Garso įrašas padarytas centre 2022m. rugsėjo 4d. Kalba Ayya Piyadassī.
+
+### Laimė – tai įgūdis
+
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/laime-tai-igudis" scrolling="no" width="100%" height="252" scrollbars="no" frameborder="0"></iframe>
+
+Garso įrašas padarytas centre 2022m. lapkričio 6d. Kalba Ayya Piyadassī.
