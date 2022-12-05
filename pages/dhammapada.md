@@ -156,3 +156,16 @@ išminčius neliūdėdamas žvelgia į sielvartaujančią žmoniją,\
 kaip ant kalno stovintisis žiūrėtų į slėnyje gyvenančius,\
 taip išminčius žiūri į kvailius.
 
+### Posmai 33-34
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F665410098387123%2F&show_text=false&width=560&t=44" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+33.\
+Šį svyruojantį, judrų protą, sunkiai nusaugomą, sunkiai sulaikomą,\
+išmintingas žmogus ištiesina, kaip strėlininkas strėlę.
+
+ 34.\
+ Plasta portas (mintis), kaip žuvis, ištraukta iš gelmės ir nusviesta ant kranto,\
+ mėgindamas ištrūkt iš Maros gniaužtų. (AB)
+
+
