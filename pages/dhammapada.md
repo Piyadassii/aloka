@@ -178,6 +178,17 @@ Gera yra valdyti protą. Suvaldytas protas atneša laimę.
 
 36.\
 Išminčius saugos šį sunkiai įžiūrimą, labai subtilų, kur panorėjęs besiblaškantį protą.\
-Suvaldytas protas atneša laimę. 
+Suvaldytas protas atneša laimę.
+
+### Posmai 38-39
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F703527831125076%2F&show_text=false&width=560&t=30" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+38.\
+Išmintis neišsivysto tam, kurio protas nestabilus,\
+kurio tikėjimas svyruoja, tam, kas nežino tikrojo mokymo.
+
+39.\
+Neturi baimės tas, iš kurio proto nesrūva aistra, kas proto nesumišusio,\ kas atsikratė gero ir blogo darymo ir yra budrus.
 
 
