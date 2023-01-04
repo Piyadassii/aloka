@@ -85,7 +85,7 @@ Pavadinimas: Labdaros ir paramos fondas “Alokos centras”\
 Banko saskaita: LT037044090102012566\
 Banko pavadinimas: AB SEB bankas SWIFT kodas: CBVILT2X\
 Suma: 305 eur.\
-Mokėjimo paskirtis: stovykla gruodis
+Mokėjimo paskirtis: stovykla sausis
 
 **VIETA**
 
