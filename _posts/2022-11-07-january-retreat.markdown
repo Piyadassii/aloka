@@ -77,7 +77,7 @@ Registracija bus patvirtinta sumokėjus 305 eurų už 9 nakvynes ir maitinimą.\
 \- jei dėl COVID-19 atsiradusių naujų ribojimų renginį tektų atšaukti registracijos mokestis bus nedelsiant grąžintas.\
 \- jei negalite sau tiek leisti finasiškai, bet labai norite dalyvauti atsiskyrime parašykite elektroniniu paštu amandaspaulauskas@gmail.com\
 \- Vietų skaičius ribotas iki 30 žmonių.\
-(dalyviai gyvens dviviečiuose arba triviečiuose kambariuose su atskirais dušais ir wc)
+(dalyviai gyvens triviečiuose arba keturviečiuose kambariuose)
 
 **MOKĖJIMO DUOMENYS**
 
