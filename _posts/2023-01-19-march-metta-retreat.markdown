@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sausio 6 - 15 dd. Samathos-Vipassanos atsiskyrimas su vienuole"
+title: "Kovo 2 - 5 dd. Mettā meditacijos atsiskyrimas"
 date: 2023-01-19
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
@@ -8,7 +8,7 @@ author: piya
 post_image: "/assets/img/blog/metta_kovas.jpg"
 permalink: "/metta_kovas_atsiskyrimas.html"
 ---
-## Mettā meditacijos atsiskyrimas
+## Mettā meditacijos atsiskyrimas kovo 2-5 dd.
 
 Šios tylos stovyklos tikslas – suteikti dalyviams informaciją ir įrankį padėsiantį lavinti teigiamą nusiteikimą kitų atžvilgiu, širdies švelnumą ir minkštumą, atvirumą gyvenimui. Tas įrankis budistiniame pasaulyje vadinamas mettā, maitri arba geraširdiškumu.
 
@@ -50,7 +50,7 @@ Tradiciškai laikysimės dorovės priesakų. Pasižadėsime susilaikyti nuo:\
 \- seksualinių veiksmų\
 \- melagystės\
 \- svaigalų\
-\- pramogų ir puošimosi.\
+\- pramogų ir puošimosi.
 
 **KAINA**
 
