@@ -205,3 +205,15 @@ Neprisirišdamas prie pasaulio, tą pergalę turėtum saugoti.
 41.\
 Ak, neilgtrukus šis kūnas guls į žemę,\
 bus atmestas, apleistas sąmonės, bevertis kaip stuobrys.
+
+### Posmai 42-43
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F2492512217570803%2F&show_text=false&width=560&t=25" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+42.\
+Kad ir ką gali padaryti priešas priešui ar piktas piktam,\
+neteisingai nukreiptas protas gali pakenkti žymiai daugiau nei jie.
+
+43.\
+Nei motina, nei tėvas, nei bet kuris kitas giminaitis\
+negali padėti žmogui daugiau nei teisingai nukreiptas protas.
