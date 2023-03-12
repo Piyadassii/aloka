@@ -217,3 +217,11 @@ neteisingai nukreiptas protas gali pakenkti žymiai daugiau nei jie.
 43.\
 Nei motina, nei tėvas, nei bet kuris kitas giminaitis\
 negali padėti žmogui daugiau nei teisingai nukreiptas protas.
+
+### Posmas 46
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F885203282694056%2F&show_text=false&width=560&t=13" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+46.\
+Žinodamas, jog kūnas šis tėra tarsi ištirpstanti puta, tarsi miražas,\
+teeina jis, nematomas mirties valdovo, atmušdamas Maros gėlių strėles. (AB)
