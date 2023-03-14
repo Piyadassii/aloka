@@ -225,3 +225,11 @@ negali padėti žmogui daugiau nei teisingai nukreiptas protas.
 46.\
 Žinodamas, jog kūnas šis tėra tarsi ištirpstanti puta, tarsi miražas,\
 teeina jis, nematomas mirties valdovo, atmušdamas Maros gėlių strėles. (AB)
+
+### Posmas 50
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Falokoscentras%2Fvideos%2F3434261833523313%2F&show_text=false&width=560&t=40" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+50.\
+Tegul jis žiūri ne į kitų trukumus, ne į tai, kas kitų padaryta ar nepadaryta,\
+bet į tai, ką padarė ir nepadarė pats.
