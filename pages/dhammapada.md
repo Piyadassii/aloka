@@ -245,3 +245,11 @@ kaip nuostabi spalvinga gėlė neturinti aromato.
 52.\
 Gražiai skambantys žodžiai yra vaisingi tam, kuris imasi atitinkančių juos veiksmų,\
 kaip nuostabi spalvinga aromatinga gėlė.
+
+### Posmas 53
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Falokoscentras%2Fvideos%2F730972315160500%2F&show_text=false&width=560&t=45" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+53.\
+Kaip iš šūsnio gėlių padarytum daugybę žiedų vėrinių,\
+taip tarp gimimo ir mirties gausybę gerų darbų turėtum atlikti.   
