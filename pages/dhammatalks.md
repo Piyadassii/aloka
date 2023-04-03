@@ -35,3 +35,9 @@ Garso įrašas padarytas centre 2022m. rugsėjo 4d. Kalba Ayya Piyadassī.
 <iframe src="https://audiomack.com/embed/alolkos-centras/song/laime-tai-igudis" scrolling="no" width="100%" height="252" scrollbars="no" frameborder="0"></iframe>
 
 Garso įrašas padarytas centre 2022m. lapkričio 6d. Kalba Ayya Piyadassī.
+
+### Vienuolystė: ar verta?
+
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/vienuolyste-ar-verta" scrolling="no" width="100%" height="252" scrollbars="no" frameborder="0"></iframe>
+
+Garso įrašas padarytas centre 2023m. balandžio 2d. Kalba Ayya Piyadassī.
