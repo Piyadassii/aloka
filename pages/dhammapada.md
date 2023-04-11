@@ -260,12 +260,22 @@ taip tarp gimimo ir mirties gausybę gerų darbų turėtum atlikti.
 
 54.\
 Prieš vėją gėlės nekvepia, kad ir sandalmedis, tagara ar jazminas,\
-bet net prieš vėją jaučiama dorybė. Geras žmogus taip jaučiamas visur.
+bet net prieš vėją jaučiama dorybė. Geras žmogus taip jaučiamas visur. (AB)
 
 55.\
 Sandalmedis, tagara, lotosas, jazminas –\
-nė vienas neprilygs dorybės kvapui.
+nė vienas neprilygs dorybės kvapui. (AB)
 
 56.\
 Prėskas tėra sandalmedžio, tagaros kvapas –\
-dievams dorybės kvapas maloniausias.
+dievams dorybės kvapas maloniausias. (AB)
+
+### Posmai 58-59
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Falokoscentras%2Fvideos%2F756348152747688%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+58-59.\
+Kaip ant prie kelio išmestų šiukšlių krūvos\
+gali išdigti lotosas, toks aromatingas, džiuginantis širdį,\
+lygiai taip švyti išmintimi tarp eilinių, aklų šiukšlinų žmonių\
+tobulai nušvitusiojo Budos mokinys.
