@@ -279,3 +279,11 @@ Kaip ant prie kelio išmestų šiukšlių krūvos\
 gali išdigti lotosas, toks aromatingas, džiuginantis širdį,\
 lygiai taip švyti išmintimi tarp eilinių, aklų šiukšlinų žmonių\
 tobulai nušvitusiojo Budos mokinys.
+
+# Posmas 60
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F4170626203161795%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+60.\
+Ilga naktis nemiegančiam, ilgas kelias pavargusiam,\
+ilga samsara kvailiui, nežinančiam tikrosios Dhammos. (AB)
