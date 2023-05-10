@@ -280,7 +280,7 @@ gali išdigti lotosas, toks aromatingas, džiuginantis širdį,\
 lygiai taip švyti išmintimi tarp eilinių, aklų šiukšlinų žmonių\
 tobulai nušvitusiojo Budos mokinys.
 
-# Posmas 60
+### Posmas 60
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F4170626203161795%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
@@ -288,10 +288,18 @@ tobulai nušvitusiojo Budos mokinys.
 Ilga naktis nemiegančiam, ilgas kelias pavargusiam,\
 ilga samsara kvailiui, nežinančiam tikrosios Dhammos. (AB)
 
-# Posmas 61
+### Posmas 61
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F745524837024655%2F&show_text=false&width=560&t=26" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 61.\
 Keliaudamas, jei nesutiktum lygaus sau ar geresnio,\
 tvirtai eik vienas,  nėr su kvailiais bendrystės.
+
+### Posmas 62
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F751901089734051%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+62.\
+„Mano vaikai ir mano turtas”, – galvoja susirūpinęs kvailys.\
+Bet pats sau nepriklauso! Kaipgi tuomet vaikai? Kaip turtas?
