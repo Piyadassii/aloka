@@ -1,0 +1,40 @@
+<!-- <div class="row">
+    {% for post in site.posts limit:"2" %}
+    
+                <a href="{{post.url}}">
+                    <img src="{{site.baseurl}}{{post.post_image}}" alt="{{post.title}}"/>
+                </a>
+           
+
+    {% endfor %}
+</div> -->
+
+<div>
+    <ul>
+        {% for sutta in site.suttas limit:"2" %}
+          <li>
+            <a href="{{ sutta.url }}">{{ sutta.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+</div>
+
+<div class="row">
+    {% for sutta in site.suttas limit:"2" %}
+    
+                <a href="{{sutta.url}}">
+                    <img src="{{site.baseurl}}{{sutta.post_image}}" alt="{{sutta.title}}"/>
+                </a>
+           
+
+    {% endfor %}
+
+</div>
+
+<div>
+    {% for sutta in site.suttas %}
+  {{ sutta.title }}
+  {% else %}
+  The collection is empty.
+{% endfor %}
+</div>

@@ -302,4 +302,12 @@ tvirtai eik vienas,  nėr su kvailiais bendrystės.
 
 62.\
 „Mano vaikai ir mano turtas”, – galvoja susirūpinęs kvailys.\
-Bet pats sau nepriklauso! Kaipgi tuomet vaikai? Kaip turtas?
+Bet pats sau nepriklauso! Kaipgi tuomet vaikai? Kaip turtas? (AB)
+
+### Posmas 63
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1173973239919912%2F&show_text=false&width=560&t=25" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+63.\
+Kvailys, manantys esąs kvailys, vien tuo yra išminčius.\
+Kvailys gi, laikantis save išminčiumi, pelnytai vadinamas kvailiu.
