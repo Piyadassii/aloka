@@ -4,7 +4,7 @@ title: Dhammapados posmai
 image:
 permalink: /archyvas/dhammapada.html
 ---
-Kiekvieno pirmadienio vakarą, 19:00, po meditacijos, iš _Alokos centro_ transliuojame Dhammapados posmų skaitymą ir trumpus pamastymus apie juos. Čia rasite tų transliacijų įrašus. Klausykite, mąstykite, dalinkitės savo mintimis FB komentaruose!
+Kiekvieno pirmadienio vakarą, 19:00, po meditacijos, iš _Alokos centro_ transliuodavome Dhammapados posmų skaitymą ir trumpus pamastymus apie juos. Čia rasite tų transliacijų įrašus. Klausykite, mąstykite, dalinkitės savo mintimis FB komentaruose!
 
 
 ### Posmai 1-2
