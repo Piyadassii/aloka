@@ -10,7 +10,7 @@ permalink: "/dirva_vipassanai.html"
 ---
 Įžvalgos meditacija (_vipassana_) dažnai vadinama budistinės meditacijos šerdimi. Ja praktikuoja visame pasaulyje.
 
-Ir dėl to paplitimo ir populiarumo žodį „vipassana” meditacijos mokytojai šiais laikais vartoja labai laisvai. Dažnai tiesiog tam, kad priktrauktų mokynių. Todėl norėtusi įnešti truputi aiškumo į šią temą. Jau kalbėjome apie įžvalgos raidą, dabar pakalbėsime apie tai, kokie gali būti tos meditacijos objektai ir kuo ji skyriasi nuo _mindfulness_ (atidos) meditacijos.
+Ir dėl to paplitimo ir populiarumo žodį „vipassana” meditacijos mokytojai šiais laikais vartoja labai laisvai. Dažnai tiesiog tam, kad pritrauktų mokinių. Todėl norėtųsi įnešti truputi aiškumo į šią temą. Jau kalbėjome apie įžvalgos raidą, dabar pakalbėsime apie tai, kokie gali būti tos meditacijos objektai ir kuo ji skiriasi nuo _mindfulness_ (atidos) meditacijos.
 
 Maloniai kviečiame!
 
