@@ -29,8 +29,19 @@ Neapykantos, vienuoliai, atsikratykite (šios) vienos būsenos, ir aš jums užt
 ... Paniekos... [skaityti visą suttą](https://suttacentral.net/iti5/lt/piyadassi)
 
 „Vienuoliai, neįmanoma, kad betarpiškai nepažinęs neapykantos, nesupratęs visiškai (žmogus,) tas, kurio prote neišblėso neapykantai aistra, kuris (jos) neatsikratė, sunaikintų kančią. 
-Tačiau, vienuoliai, įmanoma, kad betarpiškai pažinęs neapykantą, supratęs visiškai (žmogus,) tas, kurio prote išblėso neapykantai aistrą, kuris (jos) atsikratė, sunaikintų kančią.” [skaityti visą suttą](https://suttacentral.net/iti10/lt/piyadassi)
+Tačiau, vienuoliai, įmanoma, kad betarpiškai pažinęs neapykantą, supratęs visiškai (žmogus,) tas, kurio prote išblėso neapykantai aistra, kuris (jos) atsikratė, sunaikintų kančią.” [skaityti visą suttą](https://suttacentral.net/iti10/lt/piyadassi)
 
 ... pykčio... [skaityti visą suttą](https://suttacentral.net/iti12/lt/piyadassi)
 
 ... paniekos... [skaityti visą suttą](https://suttacentral.net/iti13/lt/piyadassi)
+
+### Savimana (Iti 6 ir 8)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F2270560773142257%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, atsikratykite vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą). Kokios vienos būsenos? 
+Savimanos, vienuoliai, atsikratykite (šios) vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą).” [skaityti visą suttą](https://suttacentral.net/iti6/lt/piyadassi)
+
+
+„Vienuoliai, neįmanoma, kad betarpiškai nepažinęs savimanos, nesupratęs visiškai (žmogus,) tas, kurio prote neišblėso savimanai aistra, kuris (jos) neatsikratė, sunaikintų kančią. 
+Tačiau, vienuoliai, įmanoma, kad betarpiškai pažinęs neapykantą, supratęs visiškai (žmogus,) tas, kurio prote išblėso neapykantai aistra, kuris (jos) atsikratė, sunaikintų kančią.” [skaityti visą suttą](https://suttacentral.net/iti8/lt/piyadassi)
