@@ -5,7 +5,7 @@ date: 2023-04-24
 tags: renginiai, meditacija, paskaitos
 categories: [renginiai, meditacija, paskaitos]
 author: piya
-post_image: "/assets/img/blog/budos_diena.jpg"
+post_image: "/assets/img/blog/nibbana_candles.jpg"
 permalink: "/budos_diena.html"
 ---
 Gegužės pilnatį theravados budistų pasaulis paprastai švenčia Gotamos Budos gimimo, nušvitimo ir galutinio užgęsimo dieną.
