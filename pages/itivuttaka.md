@@ -45,3 +45,11 @@ Savimanos, vienuoliai, atsikratykite (šios) vienos būsenos, ir aš jums užtik
 
 „Vienuoliai, neįmanoma, kad betarpiškai nepažinęs savimanos, nesupratęs visiškai (žmogus,) tas, kurio prote neišblėso savimanai aistra, kuris (jos) neatsikratė, sunaikintų kančią. 
 Tačiau, vienuoliai, įmanoma, kad betarpiškai pažinęs neapykantą, supratęs visiškai (žmogus,) tas, kurio prote išblėso neapykantai aistra, kuris (jos) atsikratė, sunaikintų kančią.” [skaityti visą suttą](https://suttacentral.net/iti8/lt/piyadassi)
+
+### Paklydimas (Iti 3 ir 11)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F843475147281897%2F&show_text=false&width=560&t=6" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, atsikratykite vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą). Kokios vienos būsenos? Paklydimo, vienuoliai, atsikratykite (šios) vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą).” [skaityti visą suttą](https://suttacentral.net/iti3/lt/piyadassi)
+
+„Vienuoliai, neįmanoma, kad betarpiškai nepažinęs paklydimo, jo nesupratęs visiškai (žmogus,) tas, kurio prote neišblėso jam aistrą, kuris neatsikratė (jo), sunaikintų kančią. Bet vienuoliai, įmanoma, kad betarpiškai pažinęs paklydimą, (jį) supratęs visiškai (žmogus,) tas, kurio prote išblėso jam aistrą, kuris (jo) atsikratė, sunaikintų kančią.” [skaityti visą suttą](https://suttacentral.net/iti11/lt/piyadassi)
