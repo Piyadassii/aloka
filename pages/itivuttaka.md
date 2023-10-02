@@ -53,3 +53,21 @@ Tačiau, vienuoliai, įmanoma, kad betarpiškai pažinęs neapykantą, supratęs
 „Vienuoliai, atsikratykite vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą). Kokios vienos būsenos? Paklydimo, vienuoliai, atsikratykite (šios) vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą).” [skaityti visą suttą](https://suttacentral.net/iti3/lt/piyadassi)
 
 „Vienuoliai, neįmanoma, kad betarpiškai nepažinęs paklydimo, jo nesupratęs visiškai (žmogus,) tas, kurio prote neišblėso jam aistrą, kuris neatsikratė (jo), sunaikintų kančią. Bet vienuoliai, įmanoma, kad betarpiškai pažinęs paklydimą, (jį) supratęs visiškai (žmogus,) tas, kurio prote išblėso jam aistrą, kuris (jo) atsikratė, sunaikintų kančią.” [skaityti visą suttą](https://suttacentral.net/iti11/lt/piyadassi)
+
+### Kas laiko mus saṃsāroje (Iti 14 ir 15)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F339530561947441%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, nematau kitos tokios kliūties, kurios trikdoma liaudis ilgai klajoja ir sukasi saṃsaroje, kaip neišmanymo kliūtis. Juk, vienuoliai, liaudis trikdoma neišmanymo kliūties ilgai klajoja ir sukasi saṃsaroje.” [skaityti visą suttą](https://suttacentral.net/iti14/lt/piyadassi)
+
+„Vienuoliai, nematau kitų tokių pančių, kurių supančiota liaudis ilgai klajoja ir sukasi saṃsaroje, kaip troškimo pančiai. Juk, vienuoliai, liaudis supančiota troškimo pančiais ilgai klajoja ir sukasi saṃsaroje.
+
+Žmogus, kurio pora – troškimas,
+(kad ir) ilgai sukdamasis samsaroje,
+gyvendamas tai šen, tei ten,
+neįveikia samsaros.
+
+Supratęs šį pavojų ir,
+kad troškimas sukelia kančią,
+be troškimo, nesikabindamas,
+atidus turėtų klajoti vienuolis.” [skaityti visą suttą](https://suttacentral.net/iti15/lt/piyadassi)
