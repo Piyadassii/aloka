@@ -79,3 +79,11 @@ atidus turėtų klajoti vienuolis.” [skaityti visą suttą](https://suttacentr
 „Vienuoliai, nematau kito tokio veiksnio, padėsiančio besimokančiajam vienuoliui, kuris dar neišpildė savo norų ir gyvena siekdamas neprilygstamos apsaugos nuo jungo, kaip išmintingas dėmesys, tapęs vidiniu veiksniu. Vienuolis, kuris naudoja išmintingą dėmesį nedoro atsikrato, o dorą lavina.” [skaityti visą suttą](https://suttacentral.net/iti16/lt/piyadassi)
 
 „Vienuoliai, nematau kito tokio veiksnio, padėsiančio besimokančiajam vienuoliui, kuris dar neišpildė savo norų ir gyvena siekdamas neprilygstamos apsaugos nuo jungo, kaip kilni draugystė, tapusi išoriniu veiksniu. Vienuolis turintis kilnių draugų nedoro atsikrato, o dorą lavina.” [skaityti visą suttą](https://suttacentral.net/iti17/lt/piyadassi)
+
+### Bendruomenės suskaldymas ir santarvė (Iti 18 ir 19)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1723127018169649%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Viena dhamma, vienuoliai, kildama kenkia daugeliui žmonių, neša jiem nelaimę, yra kenksminga, skausminga, sukelianti skausmą žmonėms ir dievybėms. Kokia viena dhamma? Vienuolių bendruomenės suskaldymas. Kai, vienuoliai, vienuolių bendruomenė yra suskaldyta, (vienuoliai) tarpusavyje ginčijasi, vieni kitus įžeidinėja, kritikuoja, atstūmia. Tuomet neturintieji pasitikėjimo (Mokymu), jo neįgyja, o (tikėjimas) tų, kurie pasitikėjo, pakinta.” [skaityti visą suttą](https://suttacentral.net/iti18/lt/piyadassi)
+
+„Viena dhamma, vienuoliai, kildama neša daugeliui žmonių naudą ir laimę, yra prasminga, naudinga, palaiminga žmonėms ir dievybėms. Kokia viena dhamma? Vienuolių bendruomenės santarvė. Kai, vienuoliai, vienuolių bendruomenėje esti santarvė, (vienuoliai) nei tarpusavyje ginčijasi, nei vieni kitus įžeidinėja, kritikuoja ar atstūmia. Tuomet neturintieji pasitikėjimo (Mokymu), jį įgyja, o (tikėjimas) tų, kurie pasitikėjo, auga.” [skaityti visą suttą](https://suttacentral.net/iti18/lt/piyadassi)

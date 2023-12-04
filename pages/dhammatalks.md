@@ -47,3 +47,21 @@ Garso įrašas padarytas centre 2023m. balandžio 2d. Kalba Ayya Piyadassī.
 <iframe src="https://audiomack.com/embed/alolkos-centras/song/dirva-vipassanai" scrolling="no" width="100%" height="252" scrollbars="no" frameborder="0"></iframe>
 
 Garso įrašas padarytas centre 2023m. rugsėjo 3d. Kalba Ayya Piyadassī.
+
+### 5 Gyvenimo faktai
+
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/5-gyvenimo-faktai" scrolling="no" width="100%" height="252" frameborder="0" title="5 gyvenimo faktai"></iframe>
+
+Garso įrašas padarytas centre 2023m. spalio 1d. Kalba Ayya Piyadassī.
+
+### Kilni bendrystė
+
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/kilni-benrdyste" scrolling="no" width="100%" height="252" frameborder="0" title="Kilni benrdystė"></iframe>
+
+Garso įrašas padarytas centre 2023m. lapkričio 5d. Kalba Ayya Piyadassī.
+
+### Išmintingas dėmesys
+
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/ismintingas-demesys-yoniso-manasikara-1" scrolling="no" width="100%" height="252" frameborder="0" title="Išmintingas dėmesys (yoniso manasikāra)"></iframe>
+
+Garso įrašas padarytas centre 2023m. gruodžio 3d. Kalba Ayya Piyadassī.
