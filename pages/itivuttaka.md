@@ -118,3 +118,21 @@ Išlavinęs šiuos\
 tris laimės šaltinius,\
 išmintingasis gimsta laimingame pasaulyje,\
 kur bėdos nekankina.”
+
+### Dvilypė nauda (Iti 23)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F413499391002729%2F&show_text=false&width=560&t=36" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, kai viena dhamma yra išlavinta, dažnai praktikuota, ji atneša dvilypę naudą: labą šiame gyvenime ir laimę ateinančiuose. Kokia viena dhamma? Neaplaidumas doru būsenų atžvilgiu. Kai ši, vienuoliai, viena dhamma yra išlavinta, dažnai praktikuota, ji atneša dvilypę naudą: labą šiame gyvenime ir laimę ateinančiuose.”
+
+### Griaučių krūva (Iti 24)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F7421683544559781%2F&show_text=false&width=560&t=44" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Jei kas surinktų, vienuoliai, kappą (kalpą, erą) prasiblaškiusio, praklajojusio samsaroje, vieno asmens kaulus ir sukrauti jie neirtų, kaulų krūva, kaulų krūsnis, kaulų šūsnis būtų toks didžiulis, kaip šis Vėpulos kalnas.”
+
+### Melagystė (Iti 25)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F2745115902355209%2F&show_text=false&width=560&t=95" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Žmogui nusižengiančiam vienu veiksmu, vienuoliai, sakau, nėra blogio, kurio jis nepadarytų. Kokiu vienu veiksmu? Sąmoninga, vienuoliai, melagyste.”
