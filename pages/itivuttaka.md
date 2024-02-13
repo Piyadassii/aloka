@@ -124,15 +124,57 @@ kur bėdos nekankina.”
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F413499391002729%2F&show_text=false&width=560&t=36" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 „Vienuoliai, kai viena dhamma yra išlavinta, dažnai praktikuota, ji atneša dvilypę naudą: labą šiame gyvenime ir laimę ateinančiuose. Kokia viena dhamma? Neaplaidumas doru būsenų atžvilgiu. Kai ši, vienuoliai, viena dhamma yra išlavinta, dažnai praktikuota, ji atneša dvilypę naudą: labą šiame gyvenime ir laimę ateinančiuose.”
+[skaityti visą suttą](https://suttacentral.net/iti23/lt/piyadassi)
 
 ### Griaučių krūva (Iti 24)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F7421683544559781%2F&show_text=false&width=560&t=44" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 „Jei kas surinktų, vienuoliai, kappą (kalpą, erą) prasiblaškiusio, praklajojusio samsaroje, vieno asmens kaulus ir sukrauti jie neirtų, kaulų krūva, kaulų krūsnis, kaulų šūsnis būtų toks didžiulis, kaip šis Vėpulos kalnas.”
+[skaityti visą suttą](https://suttacentral.net/iti24/lt/piyadassi)
 
 ### Melagystė (Iti 25)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F2745115902355209%2F&show_text=false&width=560&t=95" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 „Žmogui nusižengiančiam vienu veiksmu, vienuoliai, sakau, nėra blogio, kurio jis nepadarytų. Kokiu vienu veiksmu? Sąmoninga, vienuoliai, melagyste.”
+[skaityti visą suttą](https://suttacentral.net/iti25/lt/piyadassi)
+
+### Dosnumas (Iti 26)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F3507258942820224%2F&show_text=false&width=560&t=37" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, jei būtybės žinotų taip, kaip aš tai žinau, kokius vaisius neša dovanų dalinimas, nedavę, jie nevalgytų, jie neleistų, kad jų protą užvaldytų šykštumo dėmė. Kai būtų kam duoti, jie paskutiniu kąsniu, paskutiniu gabaliuku dalintųsi. Bet dėl to, vienuoliai, kad būtybės nežino taip, kaip aš tai žinau, kokius vaisius neša dovanų dalinimas, jie valgo neduodami, bei leidžia, kad jų protą užvaldytų šykštumo dėmė.”
+[skaityti visą suttą](https://suttacentral.net/iti26/lt/piyadassi)
+
+### Geraširdiškumo lavinimas (Iti 27)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F420798637072729%2F&show_text=false&width=560&t=47" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai nei vienas iš pagrindų nusipelnyti gero rezultato vedančių į naują gimimą neprilygsta nei šešioliktai daliai proto išlaisvinimo geraširdiškumu. Pranokęs juos proto išlaisvinimas geraširdiškumu švyti, žiba ir spindi.
+
+Panašiai, vienuoliai, kaip nei vienos žvaigždės spindesys neprilygsta nei šešioliktai daliai mėnulio spindesio. Pranokęs jų spindesį mėnulio spindesys švyti, žiba ir spindi. Lygiai gi, vienuoliai, taip nei vienas iš pagrindų nusipelnyti gero rezultato vedančių į naują gimimą neprilygsta nei šešioliktai daliai proto išlaisvinimo geraširdiškumu.
+
+Panašiai, vienuoliai, kaip paskutinį lietaus sezono mėnesį, rudens pradžioje, kai dangus išsigiedrija ir debesys išsivaikšto, padangėje kylanti saulė išsklaidydama visą tamsą švyti, žiba ir spindi, lygiai gi, vienuoliai, taip nei vienas iš pagrindų nusipelnyti gero rezultato vedančių į naują gimimą neprilygsta nei šešioliktai daliai proto išlaisvinimo geraširdiškumu. Pranokęs juos proto išlaisvinimas geraširdiškumu spindi, švyti ir žiba.
+
+Panašiai, vienuoliai, kaip po nakties, paryčiais ryto žvaigždė švyti, žiba ir spindi, lygiai gi, vienuoliai, taip nei vienas iš pagrindų nusipelnyti gero rezultato vedančių į naują gimimą neprilygsta nei šešioliktai daliai proto išlaisvinimo geraširdiškumu. Pranokęs juos proto išlaisvinimas geraširdiškumu spindi, švyti ir žiba.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Kas nuolat su atida vysto\
+begalinį geraširdiškumą,\
+to pančiai plonėja,\
+jis mato kaip prisirišimai nyksta.
+
+Jei turintis širdį be neapykantos žmogus linki gero\
+tik vienai būtybei, jis dėl to jau yra geras žmogus.\
+O turintis atjautos visoms būtybėms,\
+taurusis sukuria gausų nuopelną.
+
+...
+
+Tas, kuris nežudo ir neragina žudyti,\
+kas neužkariauja ir neragina užkariauti,\
+tas, kuris yra geraširdiškas visoms būtybėms\
+niekam nekelia priešiškumo.”
+[skaityti visą suttą](https://suttacentral.net/iti27/lt/piyadassi)
