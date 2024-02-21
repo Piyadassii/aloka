@@ -178,3 +178,11 @@ kas neužkariauja ir neragina užkariauti,\
 tas, kuris yra geraširdiškas visoms būtybėms\
 niekam nekelia priešiškumo.”
 [skaityti visą suttą](https://suttacentral.net/iti27/lt/piyadassi)
+
+### Graužatį sukeliantys ir nesukeliantys reiškiniai (Iti 30 ir 31)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F666083992190234%2F&show_text=false&width=560&t=54" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Šie, vienuoliai, du reiškiniai sukelia graužatį. Kokie du? Štai, vienuoliai, kažkas nėra padaręs gražių, dorų (darbų), to, kas apsaugo nuo baimės, ir yra padaręs blogų, žiaurių, nešvarių (darbų). Jis graužiasi: „Nepariau gražių (darbų)”, – graužiasi: „Padariau blogų (darbų)”. Šie, vienuoliai, yra du reiškiniai sukeliantys graužatį.” [skaityti visą suttą](https://suttacentral.net/iti30/lt/piyadassi)
+
+„Šie, vienuoliai, du reiškiniai nesukelia graužaties. Kokie du? Štai, vienuoliai, kažkas yra padaręs gražių, dorų (darbų), to, kas apsaugo nuo baimės, ir nėra padaręs blogų, žiaurių, nešvarių (darbų). Jis nesigraužia: „Nepariau gražių (darbų)”, – nesigraužia: „Padariau blogų (darbų)”. Šie, vienuoliai, yra du reiškiniai nesukeliantys graužaties.” [skaityti visą suttą](https://suttacentral.net/iti31/lt/piyadassi)
