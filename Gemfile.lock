@@ -282,5 +282,4 @@ DEPENDENCIES
   racc (= 1.5.2)
   webrick
 
-BUNDLED WITH
-   2.2.17
+
