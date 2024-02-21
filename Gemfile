@@ -16,6 +16,7 @@ gem "webrick"
 gem "kramdown-parser-gfm"
 gem "github-pages"
 gem "racc", '1.5.2'
+gem "nokogiri", "~> 1.16.0"
 #gem "unf_ext", '0.0.7.7'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
