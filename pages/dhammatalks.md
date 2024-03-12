@@ -65,3 +65,15 @@ Garso įrašas padarytas centre 2023m. lapkričio 5d. Kalba Ayya Piyadassī.
 <iframe src="https://audiomack.com/embed/alolkos-centras/song/ismintingas-demesys-yoniso-manasikara-1" scrolling="no" width="100%" height="252" frameborder="0" title="Išmintingas dėmesys (yoniso manasikāra)"></iframe>
 
 Garso įrašas padarytas centre 2023m. gruodžio 3d. Kalba Ayya Piyadassī.
+
+### Nušvitimas - tai
+
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/nusvitimas-tai" scrolling="no" width="100%" height="252" frameborder="0" title="Nušvitimas - tai"></iframe>
+
+Garso įrašas padarytas centre 2024m. vasario 4d. Kalba Ayya Piyadassī.
+
+### Į nušvitimą veda ...
+
+<iframe src="https://audiomack.com/embed/alolkos-centras/song/i-nusvitima-veda" scrolling="no" width="100%" height="252" frameborder="0" title="Į nušvitimą veda..."></iframe>
+
+Garso įrašas padarytas centre 2024m. kovo 3d. Kalba Ayya Piyadassī.

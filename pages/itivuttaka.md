@@ -186,3 +186,39 @@ niekam nekelia priešiškumo.”
 „Šie, vienuoliai, du reiškiniai sukelia graužatį. Kokie du? Štai, vienuoliai, kažkas nėra padaręs gražių, dorų (darbų), to, kas apsaugo nuo baimės, ir yra padaręs blogų, žiaurių, nešvarių (darbų). Jis graužiasi: „Nepariau gražių (darbų)”, – graužiasi: „Padariau blogų (darbų)”. Šie, vienuoliai, yra du reiškiniai sukeliantys graužatį.” [skaityti visą suttą](https://suttacentral.net/iti30/lt/piyadassi)
 
 „Šie, vienuoliai, du reiškiniai nesukelia graužaties. Kokie du? Štai, vienuoliai, kažkas yra padaręs gražių, dorų (darbų), to, kas apsaugo nuo baimės, ir nėra padaręs blogų, žiaurių, nešvarių (darbų). Jis nesigraužia: „Nepariau gražių (darbų)”, – nesigraužia: „Padariau blogų (darbų)”. Šie, vienuoliai, yra du reiškiniai nesukeliantys graužaties.” [skaityti visą suttą](https://suttacentral.net/iti31/lt/piyadassi)
+
+### Apie dorovę (Iti 32-33)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F294961736669605%2F&show_text=false&width=560&t=32" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, dviem bruožais pasižymintis žmogus (kammos) paliekamas pragare lyg ten atneštas. Kokias dviem? Bloga dorove ir blogu požiūriu. Šiais, vienuoliai, dviem bruožais pasižymintis žmogus (kammos) paliekamas pragare lyg ten atneštas.” [skaityti visą suttą](https://suttacentral.net/iti32/lt/piyadassi)
+
+„Vienuoliai, dviem bruožais pasižymintis žmogus (kammos) paliekamas danguje lyg ten atneštas. Kokias dviem? Puikia dorove ir puikiu požiūriu. Šiais, vienuoliai, dviem bruožais pasižymintis žmogus (kammos) paliekamas danguje lyg ten atneštas.” [skaityti visą suttą](https://suttacentral.net/iti33/lt/piyadassi)
+
+### Entuziastingas (Iti 34)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1509235556474418%2F&show_text=false&width=560&t=44" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, neentuziastingas vienuolis neturintis gėdos negali pasiekti tobulo nušvitimo, nibbānos, neprilygstamos apsaugos nuo jungo. Entuziastingas gi vienuolis turintis gėdos gali pasiekti tobulą nušvitimą, nibbāną, neprilygstamą apsaugą nuo jungo.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Neentuziastingas, neturintis gėdos\
+vangus, menko uolumo,\
+labai tingus ir apsnūdęs,\
+be sąžinės, nepagarbus,\
+negali toks vienuolis\
+prisiliesti prie aukščiausio tobulo nušvitimo.
+
+Bet atidus, praktiškas, medituojantis,\
+entuziastingas, turintis gėdos ir budrus\
+nutraukęs gimimo ir senėjimo pančius\
+gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
+
+### Apie žmonių apgaudinėjimą (Iti 35 ir 36)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Falokoscentras%2Fvideos%2F1579212552903988%2F&show_text=false&width=560&t=35" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Šio, vienuoliai, švento gyvenimo praktikos tikslas, ne žmonių apgaudinėjimas, ne savigyra priešais žmones, ne pralobimas, garbė ir išgarsėjimas, ir ne įvaizdžio kūrimas. Bet gi šio, vienuoliai, švento gyvenimo praktikos tikslas yra tik susilaikymas ir (teršalų) palikimas.” [skaityti visą suttą](https://suttacentral.net/iti35/lt/piyadassi)
+
+„Šio, vienuoliai, švento gyvenimo praktikos tikslas, ne žmonių apgaudinėjimas, ne savigyra priešais žmones, ne pralobimas, garbė ir išgarsėjimas, ir ne įvaizdžio kūrimas. Bet gi šio, vienuoliai, švento gyvenimo praktikos tikslas yra tik tiesioginis patyrimas ir visiškas supratimas.” [skaityti visą suttą](https://suttacentral.net/iti36/lt/piyadassi)
