@@ -222,3 +222,22 @@ gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 „Šio, vienuoliai, švento gyvenimo praktikos tikslas, ne žmonių apgaudinėjimas, ne savigyra priešais žmones, ne pralobimas, garbė ir išgarsėjimas, ir ne įvaizdžio kūrimas. Bet gi šio, vienuoliai, švento gyvenimo praktikos tikslas yra tik susilaikymas ir (teršalų) palikimas.” [skaityti visą suttą](https://suttacentral.net/iti35/lt/piyadassi)
 
 „Šio, vienuoliai, švento gyvenimo praktikos tikslas, ne žmonių apgaudinėjimas, ne savigyra priešais žmones, ne pralobimas, garbė ir išgarsėjimas, ir ne įvaizdžio kūrimas. Bet gi šio, vienuoliai, švento gyvenimo praktikos tikslas yra tik tiesioginis patyrimas ir visiškas supratimas.” [skaityti visą suttą](https://suttacentral.net/iti36/lt/piyadassi)
+
+
+### Laimė (Iti 37)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1106470233734665%2F&show_text=false&width=560&t=49" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, dviem bruožais pasižymintis vienuolis čia ir dabar gyvena patirdamas daug laimės ir malonumo ir jame yra užmegztas ydų panaikinimo pradas. Kokias dviem? Jį sukrečia tai, kas turėtų sukrėsti, o sukrėstas jis išmintingai atkakliai stengiasi. Šiai, vienuoliai, dviem bruožais pasižymintis vienuolis čia ir dabar gyvena patirdamas daug laimės ir malonumo ir jame yra užmegztas ydų panaikinimo pradas.” [skaityti visą suttą](https://suttacentral.net/iti37/lt/piyadassi)
+
+### Mokymas (Iti 39)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F383341071167537%2F&show_text=false&width=560&t=101" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Tathagata, arahantas, tobulai nušvitęs Buda moko Dhammos dviem būdais. Kokiais, dviem? „Matykite blogį blogiu.” Tai pirmasis Dhammos mokymas. „Pamatę blogį blogiu, nusivilkite (juo), palikite aistrą, išsilaisvinkite.” Tai antrasis Dhammos mokymas. Tathāgata, arahantas, tobulai nušvitęs Buda moko Dhammos šiais dviem būdais.” [skaityti visą suttą](https://suttacentral.net/iti39/lt/piyadassi)
+
+### Išmanymas (Iti 40)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1081058382999610%2F&show_text=false&width=560&t=50" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Neišmanymas, vienuoliai, yra nedorų būsenų pasiekimo pirmtakas, o iš paskos jam seka sąžinės stoka ir begėdiškumas. Išmanymas, vienuoliai, yra dorų būsenų pasiekimo pirmtakas, o iš paskos jam seka sąžinė ir gėda.” [skaityti visą suttą](https://suttacentral.net/iti40/lt/piyadassi)
