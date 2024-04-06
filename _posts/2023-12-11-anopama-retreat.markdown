@@ -98,24 +98,7 @@ Jeigu norėsite po renginio BUS GALIMYBĖ atskirai PAAUKOTI\
 \- mokytojai už mokymą ir tarnystę ir\
 \- būsimiems atsiskyrimams.
 
-**REGISTRACIJA**
-
-\- Nežiūrint į tai, kad už patį atsiskyrimą mokesčio nėra, yra registracijos mokestis - 60 eur.\
-(Patirtis rodo, kad be tokio mokesčio, būna per daug žmonių, kurie užsiregistruoja, tačiau arba atšaukia savo dalyvavimą prieš pat renginį, arba tiesiog neatvyksta ir galimos vietos lieka neišnaudotos. Todėl mes prašome jūsų parodyti savo įsipareigojimą ir norą prisiimti atsakomybę registracijos mokesčio apmokėjimu.)
-
-\- Mokestis gali būti grąžintas, jei jums tektų atšaukti savo dalyvavimą ne vėliau nei 30d. prieš renginį.\
-\- Norėdami užsiregistruoti sumokėkite registracijos mokestį, [UŽPILDYKITE REGISTRACIJOS FORMĄ](https://forms.gle/JqWrK6P5rMbuLiAL8) ir BŪTINAI atsiųskite pavedimo kopiją el. paštu:
-amandaspaulauskas@gmail.com
-
-REGISTRACIJOS MOKĖJIMO DUOMENYS:
-
-Gavėjo pavadinimas: Alokos centras\
-Banko sąskaita: LT037044090102012566\
-Banko pavadinimas: AB SEB BANKAS\
-SWIFT kodas: CBVILT2X\
-Suma: 60 eur.\
-Mokėjimo paskirtis: registracija balandis
-
+**REGISTRACIJA BAIGTA**
 
 **APGYVENDINIMAS**
 
@@ -221,13 +204,7 @@ After the event, there will be an OPPORTUNITY to DONATE\
 \- to the teacher for their teaching and service\
 \- for future retreats.
 
-𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧
-
-\- Although there is no fee for the retreat itself, there is a registration fee of €60.\
-(Experience shows that without such a fee, there are too many people who register but either cancel just before the event or simply don't show up, leaving potential places unused. We therefore ask you to show your commitment and willingness to take responsibility by paying the registration fee.)
-
-\- The fee can be refunded if you have to cancel your participation at least 30 days before the event.\
-\- To register, please pay the registration fee, [FILL IN THE REGISTRATION FORM](https://forms.gle/JqWrK6P5rMbuLiAL8) and SEND a copy of the money transfer to amandaspaulauskas@gmail.com
+𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 is closed
 
 𝐀𝐜𝐜𝐨𝐦𝐦𝐨𝐝𝐚𝐭𝐢𝐨𝐢𝐧
 
