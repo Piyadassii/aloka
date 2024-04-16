@@ -241,3 +241,26 @@ gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1081058382999610%2F&show_text=false&width=560&t=50" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 „Neišmanymas, vienuoliai, yra nedorų būsenų pasiekimo pirmtakas, o iš paskos jam seka sąžinės stoka ir begėdiškumas. Išmanymas, vienuoliai, yra dorų būsenų pasiekimo pirmtakas, o iš paskos jam seka sąžinė ir gėda.” [skaityti visą suttą](https://suttacentral.net/iti40/lt/piyadassi)
+
+### Išminties stoka (Iti 41)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1502852696969733%2F&show_text=false&width=560&t=81" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, visiškai beturtės yra tos būtybės, kurios stokoja tauriosios išminties. Jos čia ir dabar gyvena kančioje, vargsta, yra nevilty, karščiuoja, o po kūno žūties, po mirties tikėtina, kad (atgims) blogoje vietoje. Vienuoliai, be stokos gyvena būtybės, kurios nestokoja tauriosios išminties. Jos čia ir dabar gyvena laimėje – nevargsta, nėra nevilty, nekarščiuoja – o po kūno žūties, po mirties tikėtina, kad (atgims) geroje vietoje.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Pažvelki į išminties stokojantį\
+pasaulį su jo dievais,\
+įklimpęs jis į protą ir materiją,\
+manąs esą tiesa tai.
+
+Juk išmintis į prasiskverbimą vedanti\
+pasaulyje yra svarbiausia,\
+ja teisingai suprantamas\
+gimimo ir egzistencijos liovimasis.
+
+Dievybės ir žmonės pavydi\
+tiems visiškai pabudusiems,\
+atidiesiems, su išminties šypsena\
+nešantiems paskutinįjį kūną.”
