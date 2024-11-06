@@ -10,8 +10,8 @@
     url: /pages/schedule
   - text: Meditacija
     url: /pages/meditacijos_uzsiemimai
-  - text: Skaitymai
-    url: /pages/skaitymai   
+  - text: Atsiskyrimai
+    url: /pages/atsiskyrimai   
   - text: Giedojimai ir kt.
     url: /pages/giedojimai
   - text: Šventiniai sekmadieniai
@@ -44,6 +44,8 @@
     url: /archyvas/itivuttaka.html
   - text: Kiti įrašai
     url: /archyvas/kiti_irasai.html
+  - text: Knygos
+    url: /archyvas/knygos.html
 - text: Parama
   url: /pages/parama
 # - text: Medija

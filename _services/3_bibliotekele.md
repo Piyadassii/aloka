@@ -7,7 +7,7 @@ description: Nedidelėje centro bibliotekėlėje surinktos įvairių budistinių
 permalink: "/pages/services/3_bibliotekele.html"
 ---
 
-Mūsų kuklioje bibliotekėlėje rasite įvairių budistinių tradicijų knygas, kurias galite pavartyti ir pasiskaityti čia pat, <em>Alokos centre</em>. Knygas, kurių turime daugiau nei vieną egzempliorių, taip pat galite savaitei pasiskolinti.
+Mūsų kuklioje bibliotekėlėje rasite įvairių budistinių tradicijų knygas, kurias galite pavartyti ir pasiskaityti čia pat, <em>Alokos centre</em>. Knygas, kurių turime daugiau nei vieną egzempliorių, taip pat galite savaitei pasiskolinti. O Alokos centro išleistas knygas mielai jums padovanosime.
 
 Jei namuose turite Dhammos knygų, kurių nebenaudojate ir norėtumėte joms suteikti antrą gyvenimą, mielai priglausime jas <em>Alokos centro</em> bibliotekėlėje.
 

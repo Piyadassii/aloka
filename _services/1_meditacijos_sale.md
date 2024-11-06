@@ -1,7 +1,7 @@
 ---
 layout: featured
 title: Meditacijos salė
-image: /assets/img/services/pagalveles.jpg
+image: /assets/img/services/meditacijos_sale.jpg
 icon: /assets/img/icons/meditation_icon.svg
 description: Jauki meditacijos salė – tikras prieglobstis, kviečiantis palikti kasdienius rūpesčius už durų ir pašvesti laiką protui nuraminti bei vystyti išmintį ir teigiamas emocijas.
 permalink: "/pages/services/1_meditacijos_kambarys.html" 
@@ -11,7 +11,7 @@ permalink: "/pages/services/1_meditacijos_kambarys.html"
     <div class="col-md-12">
         <div class="service-details mb-40">
             <!-- <h3>Business Analysis</h3> -->
-            <p>Meditacijos salė - tai <em>Alokos centro</em> šventovė. Ši erdvė naudojama tik meditacijai ir giedojimams, kurių laikas nurodytas tvarkaraštyje. Sale visada galite pasinaudoti <em>Dhammos</em> praktikai ir kitu metu. Ši tylos ir šviesos sala visada laukia jūsų.</p>
+            <p>Meditacijos salė - tai <em>Alokos centro</em> šventovė. Ši erdvė naudojama meditacijai, giedojimams ir Dhammos kalboms. Ši tylos ir šviesos sala visada laukia jūsų.</p>
         </div>
     </div>
 </div>

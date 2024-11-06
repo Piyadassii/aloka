@@ -2,7 +2,7 @@
 layout: featured
 title: Budistų vienuolė
 icon: /assets/img/icons/monk_icon.svg
-image: /assets/img/services/piya.jpg
+image: /assets/img/services/piya2.jpg
 description: Centre gyvena theravados budizmo vienuolė. Užaugusi kaip vienuolė Mianmare, ji dalinasi Budos mokymu su visais, kam jis įdomus.
 permalink: "/pages/services/4_budistu_vienuole.html"
 ---
@@ -12,7 +12,9 @@ permalink: "/pages/services/4_budistu_vienuole.html"
         <div class="service-details mb-40">
             <h3>Ayya Piyadassī (Aja Pija Dasi)</h3>
             <p>Centre gyvena ir jo ugnelę kūrena budizmo vienuolė Ayya Piyadassī (Aja Pija Dasi).</p> 
-            <p>Ji yra giliai pasinėrusi į theravados budizmo teoriją ir praktikas. Budistines meditacijas ji praktikuoja nuo 2007 m., o nuo 2013-ų tai daro dėvėdama budistų vienuolės apdarus.</p> <p>Gyvenimas Azijoje, tradiciškai budistinėje šalyje, Mianmare, ją išmokė, kad, visiškai laimei pasiekti <a href="https://maratonolaukas.blogspot.com/2021/06/piya-dassi-meditacija-yra-paskutinis.html" target="blank">vien meditacijos nepakanka</a>. Budizme yra daug kitų nemažiau svarbių aspektų. Tad <em>Alokos centre</em> jį moko ne tik meditacijos, bet ir teorijos. Mianmare jai pasisekė sutikti talentingų Abhidhammos mokytojų bei baigti budizmo ir pali kalbos magistro studijas. Įgytomis žiniomis ji dalinasi kaip tai priimta tradicijoje – kalbėdama apie Dhammą laisva forma, ir labiau akademiškai – skaitydama paskaitų serijas.</p>
+            <p>Ji yra giliai pasinėrusi į theravados budizmo teoriją ir praktikas. Budistines meditacijas ji praktikuoja nuo 2007 m., o nuo 2013-ų tai daro dėvėdama budistų vienuolės apdarus.</p> 
+            <p> Mianmare, kur ji tapo vienuole priimdama įžadus iš garb. Pa Auk Sayadaw ir praleido bemaž septynerius metus, jai pasisekė būti vedamai įstabių meditacijos mokytojų, mokomai talentingų Abhidhammos dėstytojų bei baigti budizmo ir pali kalbos magistro studijas.</p>
+            <p>Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Narongsak. Po 4 mėnesių intensyvaus apmokymo, Luangta paragino ją ir kitus savo mokynius grįžti į savo šalis ir perduoti Tyrąją Dhammą toliau.</p>
             <!-- <div class="service-details mb-40"> -->
             <img class="mb-30" src="/assets/img/service/details/Piya_zen_forest.jpg" alt="Piyadassī meditacija" style="width: 95%;">
             <!-- </div> -->
