@@ -33,6 +33,8 @@ Prisijunkite prie mūsų ir dalyvaukite šiame ypatingame ramybės, atidos ir ko
 
 **Dalyvavimas nemokamas!** Praleiskime šią lapkričio pilnaties naktį ramybėje ir šviesoje!
 
+ **Su savimi turėti**: jei yra galimybė - atsivežkite žvakių ir žibintą, jei tokios galimybės nėra – jų rasite ir centre.
+
 **Adresas**: Lapų g. 17, Šlapšilė, Klaipėdos r.
 **Telefono nr.**: +37060196830
 
