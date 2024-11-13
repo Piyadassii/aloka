@@ -35,6 +35,8 @@ Prisijunkite prie mūsų ir dalyvaukite šiame ypatingame ramybės, atidos ir ko
 
  **Su savimi turėti**: jei yra galimybė - atsivežkite žvakių ir žibintą, jei tokios galimybės nėra – jų rasite ir centre.
 
+Jei būtų žmonių įkvėptų tęsti praktiką ilgiau, kad ir iki ryto, bus ir tokia gilmybė.
+
 **Adresas**: Lapų g. 17, Šlapšilė, Klaipėdos r.
 **Telefono nr.**: +37060196830
 
