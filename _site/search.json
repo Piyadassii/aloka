@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Meditacijos diena",
+      "category" : "",
+      "tags"     : "renginiai, atsiskyrimai",
+      "url"      : "/meditacijos_diena.html",
+      "date"     : "2024-11-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas vyrams",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
