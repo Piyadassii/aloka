@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas moterims"
+title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas moterims 12.20-22"
 date: 2024-11-27
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]

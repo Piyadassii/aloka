@@ -1,7 +1,23 @@
 [
   
     {
-      "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas moterims",
+      "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas vyrams 01.24-26",
+      "category" : "",
+      "tags"     : "renginiai, atsiskyrimai",
+      "url"      : "/laisve_cia_ir_dabar_vyrams_01.html",
+      "date"     : "2024-12-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas moterims 01.31-02.02",
+      "category" : "",
+      "tags"     : "renginiai, atsiskyrimai",
+      "url"      : "/laisve_cia_ir_dabar_moterims_01.html",
+      "date"     : "2024-12-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas moterims 12.20-22",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_12.20.html",
@@ -9,7 +25,7 @@
     } ,
   
     {
-      "title"    : "Meditacijos diena",
+      "title"    : "Meditacijos diena 12.08",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/meditacijos_diena.html",

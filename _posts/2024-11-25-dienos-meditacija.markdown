@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meditacijos diena"
+title: "Meditacijos diena 12.08"
 date: 2024-11-25
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
