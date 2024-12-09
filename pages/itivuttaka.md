@@ -310,7 +310,27 @@ nugalėję Mārą, peržengę už gimimo ir mirties ribų.” [skaityti visą su
 
 ### Budrus (Iti 47)
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F991065592855900%2F&show_text=false&width=560&t=41" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
+„Vienuoliai, tebūna vienuolis budrus, tebuvoja atidus, su aiškiu supratimu, susitelkęs, besidžiaugiantis, nurimęs, su savalaike įžvalga į doras būsenas.
+Vienuoliai, budrus vienuolis, buvojantis atidus, su aiškiu supratimu, susitelkęs, besidžiaugiantis, nurimęs, su savalaike įžvalga į doras būsenas, gali tikėtis vieno iš šių dviejų vaisių:
+tobulo žinojimo šiame gyvenime arba, tebesant prisirišimui, nebesugrįžtančiojo (būvio).”
+
+Apie tai Palaimintasis kalbėjo.
+Taip pasakyta apie tai:
+
+„Būdraujantieji te išgirsta,\
+miegantieji te pabunda!\
+Būdraujantysis geresnis už miegančius,\
+neturi baimių, kas būdrauja.\
+Kas būdrauja, yra atidus, su aiškiu supratimu,\
+susitelkęs, džiaugsmingas ir nurimęs,\
+kas laiku teisingai ištyrinėja reiškinius,\
+tapęs suvienyto (proto), jis gali išsklaidyti tamsą.\
+Todėl pasišvęskite budrumui,\
+Uolus ir praktiškas vienuolis, giliai paneriantis į meditaciją,\
+nutraukęs gimimo ir senėjimo pančius,\
+gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 
 ### Troškimas (Iti 58)
 
