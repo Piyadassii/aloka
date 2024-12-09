@@ -77,3 +77,34 @@ Garso įrašas padarytas centre 2024m. vasario 4d. Kalba Ayya Piyadassī.
 <iframe src="https://audiomack.com/embed/alolkos-centras/song/i-nusvitima-veda" scrolling="no" width="100%" height="252" frameborder="0" title="Į nušvitimą veda..."></iframe>
 
 Garso įrašas padarytas centre 2024m. kovo 3d. Kalba Ayya Piyadassī.
+
+### Zoom susitikimas su Ayya Piyadassī 04.08.2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b3GfhCJnh8A?si=ULcnjxucrLuj3aJr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tailandas – Lietuvą
+
+### „Apie nieko nedarymą” klausimai ir atsakymai su Ayya Piyadassī 11.08.2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_StuU84w3Oc?si=SLpiYQPSozuKSs8x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Paaiškinimai
+
+
+### Tikroji dabartis 15.09.2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MkVw-qw8D0A?si=-EH_xDW8bJw2nNM9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Čia ir dabar be „aš”.
+
+### Kaip neprisirišti 13.10.2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zV9eYY7STyo?si=zT4NJY9di127h9r-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Apie pagrindinį prisirišimą.
+
+### Nesiprieišinti gamtai 10.11.2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JA3b5v_WwUQ?si=kGtX1HN93G6QpW5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Apie buvimą darnoje.

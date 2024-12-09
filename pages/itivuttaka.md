@@ -264,3 +264,71 @@ Dievybės ir žmonės pavydi\
 tiems visiškai pabudusiems,\
 atidiesiems, su išminties šypsena\
 nešantiems paskutinįjį kūną.”
+
+### Apie nibbaną (Iti 43-44)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F953747546306432%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Esti, vienuoliai, tai, kas negimę, netapę, nesutverta, nesąlygota. Vienuoliai, jeigu nebūtų to, kas negimę, netapę, nesudaryta, nesutverta, nebūtų čia žinomas ištrūkimas iš to, kas gimę, tapę, sudaryta ir sutverta. Bet dėl to gi, vienuoliai, kad esti tai, kas negimę, netapę, nesudaryta, nesutverta, žinomas yra ištrūkimas iš to, kas gimę, tapę, sudaryta ir sutverta.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Tuo, kas gimę, tapę, kilę,\
+sudaryta, sutverta, nestabilu,\
+senėjimo ir mirties rezginiu,\
+ligų lizdu, trapiu,
+
+kylančiu dėl peno ir vedlio,\
+tuo džiaugtis neverta.\
+Ištrūkimas iš to yra tai, kas ramu,\
+nesumąstyta, tvirta,
+
+negimę, nekilę,\
+būsena be liūdesio, nesutepta,\
+nepatenkinamų reiškinių baigtis,\
+darinių nurimimas, laimė.”
+
+
+Vienuoliai, esti šie du nibbānos elementai. Kokie, du?\
+Nibbānos elementas su liekana ir nibbānos elementas be liekanos.\
+Koks yra nibbānos elementas su liekana? Štai, vienuoliai, vienuolis yra arahantas, sunaikinęs ydas, nugyvenęs (šventą gyvenimą), padaręs tai, kas turi būti padaryta, numetęs naštą, pasiekęs tikslą, išsekinęs egzistencijos pančius, per žinojimą tobulai išsivadavęs. Jo penki sandai vis dar tęsia egzistuoti, nes jie nėra pažeisti, ir jis patiria tai, kas miela ir nemiela, jaučia malonumą ir skausmą. Jo aistros sunaikinimas, neapykantos sunaikinimas ir paklydimo sunaikinimas – tai vadinama nibbānos elementu su liekana.\
+Koks yra nibbānos elementas be liekanos? Štai, vienuoliai, vienuolis yra arahantas, sunaikinęs ydas, nugyvenęs (šventą gyvenimą), padaręs tai, kas turi būti padaryta, numetęs naštą, pasiekęs tikslą, išsekinęs egzistencijos pančius, per žinojimą tobulai išsivadavęs. Jam, vienuoliai, jau šiame gyvenime visi jausmai nurims, nes jais nebesidžiaugiama. Tai vadinama nibbānos elementu be liekanos.\
+Šie, vienuoliai, yra du nibbānos elementai.” [skaityti visą suttą](https://suttacentral.net/iti44/lt/piyadassi)
+
+### Auklėjimasis – nauda (Iti 46)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1504430580506257%2F&show_text=false&width=560&t=46" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Išsiauklėjusį, nepalikusį darnos,\
+(įgijusį) aukščiausią išmintį, matantįjį gimimų išsekimą,\
+tą išminčių turintį paskutinįjį kūną,\
+palikusįjį Mārą vadinu peržengusiuoju už senėjimo ribų.\
+Todėl buvokite, vienuoliai, visada\
+gėrėdamiesi meditacija, susitelkę,\
+uolūs, matydami gimimų išsekimą,\
+nugalėję Mārą, peržengę už gimimo ir mirties ribų.” [skaityti visą suttą](https://suttacentral.net/iti46/lt/piyadassi)
+
+### Budrus (Iti 47)
+
+
+
+### Troškimas (Iti 58)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F589828933700382%2F&show_text=false&width=560&t=37" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Esti, vienuoliai, šie trys troškimai. Kokie trys? Juslinių malonumų troškimas, troškimas būti, troškimas nebūti. Šie yra trys troškimai.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Žmonės, kurie supančioti troškimo pančiais,\
+besimėgauja buvimu ir nebuvimu,\
+pririšti prie mirties,\
+vergauja jie.\
+Būtybės juda samsaroje\
+link gimimo, link mirties.
+
+Kas gi paliko troškimą,\
+be troškimo būti ar nebūti,\
+tie perėjo pasaulyje į kitą krantą,\
+pasiekė ydų panaikinimą.”
+
