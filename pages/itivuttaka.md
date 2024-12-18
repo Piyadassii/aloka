@@ -332,6 +332,26 @@ Uolus ir praktiškas vienuolis, giliai paneriantis į meditaciją,\
 nutraukęs gimimo ir senėjimo pančius,\
 gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 
+### Pažiūros (Iti 49)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F499599773137406%2F&show_text=false&width=560&t=34" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, laikydamiesi dvejų pažiūrų vieni dėvai ir žmonės užstringa, kiti eina per toli, ir tik turintieji akis mato.\
+Ir kaip, vienuoliai, vieni užstringa? Vienuoliai, kai dievybėms ir žmonėms, kurie žavisi tapsmu, gėrisi tapsmu, džiaugiasi tapsmu, dėstomas mokymas vedantis į tapsmo baigtį, jų protas nepajuda link jo, jie nepatiki juo, nenusistovi ties juo, neįsitvirtina jame. Štai taip, vienuoliai, vieni užstringa.\
+Ir kaip, vienuoliai, kiti eina per toli? Yra gi tokie, kuriuos tapsmas vargina, kuriems jis kelia gėdą ir pasibjaurėjimą, juos džiugina (mintys apie) nebūtį: „Mielieji, kai ši savastis (būtybė) po kūno žūties, po mirties pranyksta, pradingsta, nebeegzistuoja, tai ramybė, tai aukščiausia, tai tikra.” Štai taip, vienuoliai, kiti eina per toli.\
+Ir kaip, vienuoliai, turintieji akis mato? Štai, vienuolis mato tai kas tapo, tapusiu. Pamatęs tai kas tapo, tapusu, jis žengia keliu vedančiu į nusivylimą tuo kas tampa, į aistros išblėsimą, į baigtį. Štai taip, vienuoliai, turintieji akis mato.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Pamatę tai kas tapo, tapusiu,\
+peržengę tai, kas tapo,\
+nuo tampančio jie išsivaduoja\
+sunaikinę troškimą tapti.\
+Kas visiškai suprato tai, kas tampa,\
+neturi troškimo nei tapti, nei netapti.\
+O kai tai, kas tampa išnyksta, tas vienuolis\
+negrįžta pakartotinai į tapsmą.”
+
 ### Troškimas (Iti 58)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F589828933700382%2F&show_text=false&width=560&t=37" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
