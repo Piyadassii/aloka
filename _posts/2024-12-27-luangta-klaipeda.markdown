@@ -11,6 +11,8 @@ permalink: "/luangta_klaipeda.html"
 For English, please, scroll down. 
 
 ---
+VIETŲ NEBĖRA\
+BET GALIMA REGISTRUOTIS Į LAUKIANČIŲJŲ SĄRAŠĄ
 
 Su džiaugsmu pranešame, kad Luangta Narongsak, gerbiamas Tailando miško tradicijos vienuolis iš Tailando, lankysis „Alokos centre“ savo turo po Šiaurės Europą metu. Tai reta ir vertinga galimybė susitikti su Meistru, perduodančiu Dhammą iš širdies į širdį.
 
@@ -38,6 +40,8 @@ Savo klausimus Luangtai galite pateikti google formoje, arba e-paštu aloka@ther
 🌟 Ateikite ir patirkite gyvąją Dhammą su Luangta Narongsak. Te jo žodžiai ir buvimas kartu įkvepia ir pažadina jūsų širdį! 🌟
 
 ---
+ FULLY BOOKED\
+ WAITING LIST IS OPEN
 
 We are pleased to announce that Luangta Narongsak, a respected monk of the Thai Forest Tradition from Thailand, will be visiting the Aloka Center during his tour in Northern Europe. This is a rare and valuable opportunity to meet a Master who transmits the Dhamma from heart to heart.
 
