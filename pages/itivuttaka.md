@@ -352,6 +352,41 @@ neturi troškimo nei tapti, nei netapti.\
 O kai tai, kas tampa išnyksta, tas vienuolis\
 negrįžta pakartotinai į tapsmą.”
 
+### Šaknys (Iti 50)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1628791334401520%2F&show_text=false&width=560&t=14" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, esti trys to, kas nedora, šaknys. Kokios trys? Godumas yra to, kas nedora, šaknis; neapykanta – to, kas nedora, šaknis; paklydimas – to, kas nedora, šaknis. Šios, vienuoliai, yra trys to, kas nedora, šaknys.
+
+Godumas, neapykanta ir paklydimas\
+paties žmogaus pagimdyti\
+žaloja blogo proto žmogų,\
+kaip bambuką jo paties vaisiai.”
+
+### Sefros (Iti 51)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F904180431495751%2F&show_text=false&width=560&t=27" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Esti, vienuoliai, šios trys sferos. Kokios trys? Subtilios materijos sfera, nematerialioji sfera ir baigties sfera. Šios, vienuoliai, yra trys sferos.
+
+Visiškai supratę subtilios materijos sferą,\
+neįsitvirtinę nematerialioje,\
+žmonės, išsilaisvinantys baigtyje,\
+yra palikę mirtį.
+
+Tobulai pabudęs Buda,\
+nemirtingąjį elementą\
+tiesiogiai patyręs, be prisirišimų,\
+prisirišimų atsižadėjimą\
+pats pažinęs, neturintis ydų,\
+moko pagrindo be liūdesio, nesutepto.”
+
+### (Iti 53)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F576069001859724%2F&show_text=false&width=560&t=54" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Esti, vienuoliai, šie trys jausmo tonai. Kokie trys? Malonus jausmo tonas, nemalonus jausmo tonas, nei nemalonus, nei malonus jausmo tonas. Į malonų jausmo toną, vienuoliai, turi būti žvelgiama kaip į nemalonų. Į nemalonų jausmo toną turi būti žvelgiama kaip į strėlę. Į nei nemalonų nei malonų jausmo toną turi būti žvelgiama kaip į nepastovų. Ir kai, vienuoliai, vienuolis mato malonų jausmo toną kaip nemalonų, nemalonų jausmo toną kaip strėlę, nei nemalonų nei malonų jausmo toną kaip nepastovų, apie jį, vienuoliai, sakoma: „Vienuolis yra taurus, teisingai žvelgiantis. Jis nukirto troškimą, numetė pančius ir teisingai perpratęs savimonę, padarė galą kančiai.”
+
 ### Troškimas (Iti 58)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F589828933700382%2F&show_text=false&width=560&t=37" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
