@@ -37,6 +37,7 @@ Visą gyvenimą pradirbęs teisėju, Luangta gimė 1952 m. Nors jis ir buvo visi
 **Registracija ir užklausos:**
 
 Registracija galima tik dalyvaujant 2 dienų renginyje. Vietų skaičius ribotas! Prašome rezervuoti savo vietą užpildant <a href="https://forms.gle/eAYMiDA3PqRy9zrT7" target="blank"> šią formą</a>. Jeigu dalyvauti negalėsite, prašome pranešti kuo anksčiau ir padovanoti galimybę atvykti kitam.\
+Dvi savaitės prieš renginį gausite priminimą apie artėjantį susitikimą ir prašymą patvirtinti savo dalyvavimą.\
 Savo klausimus Luangtai galite pateikti google formoje, arba e-paštu aloka@theravada.lt.
 
 **Apgyvendinimas**
@@ -76,7 +77,8 @@ A lifelong judge, Luangta was born in 1952. Although he was fully dedicated to t
 
 **Registration and inquiries:**
 
-Registration is possible only for attending the event on both days. The number of places is limited! Please reserve your place by filling out <a href="https://forms.gle/eAYMiDA3PqRy9zrT7" target="blank"> this form</a>. If you are unable to attend, please let us know as soon as possible.
+Registration is possible only for attending the event on both days. The number of places is limited! Please reserve your place by filling out <a href="https://forms.gle/eAYMiDA3PqRy9zrT7" target="blank"> this form</a>. If you are unable to attend, please let us know as soon as possible.\
+Two weeks before the event, you will receive a reminder e-mail, and you will be asked to re-confirm your participation. 
 You can submit your questions to Luangta via the google form, or by email to aloka@theravada.lt.
 
 **Accommodation**
