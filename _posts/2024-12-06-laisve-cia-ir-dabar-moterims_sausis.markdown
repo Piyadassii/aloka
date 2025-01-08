@@ -8,12 +8,12 @@ author: piya
 post_image: "/assets/img/blog/laisve_cia_ir_dabar_moterims_01.jpg"
 permalink: "/laisve_cia_ir_dabar_moterims_01.html"
 ---
-#### Meditation retreat "Freedom here and now" FOR WOMEN December 20-22
+#### Meditation retreat "Freedom here and now" FOR WOMEN December 20-22 | WAITING LIST
 
 >For English, please, scroll down
 
 -----
-### Meditacijos atsiskyrimas „Laisvė čia ir dabar” MOTERIMS
+### VIETŲ NEBĖRA, galima registruotis į LAUKIANČIŲJŲ SĄRAŠĄ
 
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
 
