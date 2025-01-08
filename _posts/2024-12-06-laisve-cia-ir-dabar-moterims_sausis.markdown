@@ -8,7 +8,7 @@ author: piya
 post_image: "/assets/img/blog/laisve_cia_ir_dabar_moterims_01.jpg"
 permalink: "/laisve_cia_ir_dabar_moterims_01.html"
 ---
-#### Meditation retreat "Freedom here and now" FOR WOMEN December 20-22 | WAITING LIST
+#### Meditation retreat "Freedom here and now" FOR WOMEN January 31 - February 2 | WAITING LIST
 
 >For English, please, scroll down
 
