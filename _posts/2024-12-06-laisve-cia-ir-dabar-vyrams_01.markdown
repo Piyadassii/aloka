@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas vyrams 01.24-26"
+title: "VIETŲ NEBĖRA „Laisvė čia ir dabar” | Meditacijos atsiskyrimas vyrams 01.24-26"
 date: 2024-12-06
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
@@ -14,6 +14,8 @@ permalink: "/laisve_cia_ir_dabar_vyrams_01.html"
 
 -----
 ### Meditacijos atsiskyrimas „Laisvė čia ir dabar” VYRAMS
+
+VIETŲ NEBĖRA, bet galima registruotis į laukiančiųjų sąrašą.
 
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
 
@@ -103,6 +105,8 @@ Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Naro
 -----
 
 ### Meditation retreat "Freedom here and now" FOR MEN
+
+WAITING LIST
 
 We invite you to spend a weekend practicing Dhamma at the Aloka Centre. In this retreat we will be learning to be present with wisdom. Through meditation, we will be exploring the conditions allowing mindfulness and wise attention to manifest.
 
