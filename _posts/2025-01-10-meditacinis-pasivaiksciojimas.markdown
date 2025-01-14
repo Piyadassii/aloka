@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Meditacinis pasivaikščiojimas pajūrio miške"
-date: 2025-01-03
+date: 2025-01-10
 tags: meditacija renginiai
 categories: [meditacija renginiai]
 author: piya
 post_image: "/assets/img/blog/meditacinis_pasivaiksciojimas.jpg"
 permalink: "/meditacinis_pasivaiksciojimas.html"
 ---
-Jūros ošimas,\
+Medžių ošimas,\
 švelnūs žingsniai tarp pušų,\
 ramybė širdy.
 
@@ -22,8 +22,8 @@ Pabaigsime trumpa meditacija, apmąstydami patirtį ir sukeldami dėkingumą.
 
 📍 **Praktinė informacija**
 
-Kelionės pradžia: <a href="https://maps.app.goo.gl/2jWY14imzuG9z8f6A" target="new">Girulių paplūdimio stovėjimo aikštelė</a>\
-Artimiausios datos: Sausio 4 d., 12:00; Vasario 8d., 12:00
+Kelionės pradžia: <a href="https://maps.app.goo.gl/2qLdN4Pq8fomUQWn7" target="new">Dragūnuose prie RIMI parduotuvės galo, prie takelio į mišką.</a>\
+Artimiausios datos: Vasario 8d. 12:00
 
 
 

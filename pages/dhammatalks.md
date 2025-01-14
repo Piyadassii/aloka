@@ -108,3 +108,9 @@ Apie pagrindinį prisirišimą.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JA3b5v_WwUQ?si=kGtX1HN93G6QpW5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Apie buvimą darnoje.
+
+### Karma ir kaip iš jos šsivaduoti 01.12.2025
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSKOPrDtEZU?si=afKyx5F2li_DaBXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Apie karmos veikimo principą ir keturių rūšių karmą.

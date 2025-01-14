@@ -381,11 +381,37 @@ prisirišimų atsižadėjimą\
 pats pažinęs, neturintis ydų,\
 moko pagrindo be liūdesio, nesutepto.”
 
-### (Iti 53)
+### Jausmo tonai (Iti 53)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F576069001859724%2F&show_text=false&width=560&t=54" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 „Esti, vienuoliai, šie trys jausmo tonai. Kokie trys? Malonus jausmo tonas, nemalonus jausmo tonas, nei nemalonus, nei malonus jausmo tonas. Į malonų jausmo toną, vienuoliai, turi būti žvelgiama kaip į nemalonų. Į nemalonų jausmo toną turi būti žvelgiama kaip į strėlę. Į nei nemalonų nei malonų jausmo toną turi būti žvelgiama kaip į nepastovų. Ir kai, vienuoliai, vienuolis mato malonų jausmo toną kaip nemalonų, nemalonų jausmo toną kaip strėlę, nei nemalonų nei malonų jausmo toną kaip nepastovų, apie jį, vienuoliai, sakoma: „Vienuolis yra taurus, teisingai žvelgiantis. Jis nukirto troškimą, numetė pančius ir teisingai perpratęs savimonę, padarė galą kančiai.”
+
+### Ieškojimai (Iti 54-55)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1763401024453418%2F&show_text=false&width=560&t=15" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+Esti, vienuoliai, šie trys ieškojimai. Kokie trys? Juslinių malonumų ieškojimas, tapsmo ieškojimas ir su šventu gyvenimu susijęs ieškojimas. Šie yra trys ieškojimai.
+
+Susitelkęs, su aiškiu supratimu,\
+atidus Budos mokinys\
+supranta ieškojimus,\
+jų radimąsi,\
+kur jie išnyksta\
+ir kelią vedanti į jų išsekimą.\
+Su ieškojimų išsekimu, vienuolis\
+numalšina alkį ir galutinai užgesta.
+
+Juslinių malonumų ieškojimas, tapsmo ieškojimas\
+ir su šventu gyvenimu susijęs ieškojimas,\
+virsta įsitikinimu, kad kažkas yra tikra\
+ir žalingų pažiūrų kaupimu.\
+Kam išblėso visos aistros,\
+kas troškimui išsekus išsivadavo,\
+tas atsižadėjo ieškojimų,\
+išnaikino žalingas pažiūras jis.\
+Kai ieškojimai išsenka, vienuolis\
+nebesitiki nieko ir nebeturi klausimų.
 
 ### Troškimas (Iti 58)
 
