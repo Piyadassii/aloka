@@ -413,6 +413,28 @@ išnaikino žalingas pažiūras jis.\
 Kai ieškojimai išsenka, vienuolis\
 nebesitiki nieko ir nebeturi klausimų.
 
+### Antplūdžiai (Iti 56-57)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1627518957973726%2F&show_text=false&width=560&t=27" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Esti, vienuoliai, šie trys antplūdžiai. Kokie trys? Juslinių malonumų geismo antplūdis, tapsmo troškimo antplūdis ir neišmanymo antplūdis. Šie yra trys antplūdžiai.”
+
+„Susitelkęs, su aiškiu supratimu,\
+atidus Budos mokinys\
+supranta antplūdžius,\
+jų radimąsi,\
+kur jie išnyksta\
+ir kelią vedantį į jų išsekimą.\
+Su antplūdžių išsekimu, vienuolis\
+nebealksta ir galutinai užgęsta.”
+
+„Tas, kieno juslinių malonumų geismo antplūdis panaikintas,\
+neišmanymas išblėsęs,\
+o tapsmo troškimo antplūdis visiškai išsekintas,\
+išsilaisvinęs, be prisirišimų,\
+nugalėjęs Mārą ir jos armiją,\
+jis turi paskutinįjį kūną.”
+
 ### Troškimas (Iti 58)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F589828933700382%2F&show_text=false&width=560&t=37" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
@@ -432,4 +454,35 @@ Kas gi paliko troškimą,\
 be troškimo būti ar nebūti,\
 tie perėjo pasaulyje į kitą krantą,\
 pasiekė ydų panaikinimą.”
+
+### Pavaldumas mirčiai (Iti 59)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1842524499911814%2F&show_text=false&width=560&t=40" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, vienuolis pasižymintis trimis savybėmis, išėjęs iš pavaldumo mirčiai, spindi kaip saulė. Kokiomis trimis? Štai, vienuoliai, vienuolis pasižymi išmokusiojo dorovės visuma, išmokusiojo sutelkties visuma ir išmokusiojo išminties visuma. Vienuoliai, vienuolis pasižymintis šiomis trimis savybėmis, išėjęs iš pavaldumo mirčiai, spindi kaip saulė.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Dorovė, sutelktis ir išmintis –\
+kas šias gerai išlavina,\
+išėjęs iš pavaldumo mirčiai,\
+spindi kaip saulė tas.”
+
+### Pagrindai nusipelnyti gero rezultato (Iti 60)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1310499620091767%2F&show_text=false&width=560&t=42" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+„Vienuoliai, esti šie trys pagrindai nusipelnyti gero rezultato. Kokie trys? Dosnumas sudarantis pagrindą nusipelnyti gero rezultato, dorovė sudaranti pagrindą nusipelnyti gero rezultato, lavinimas sudarantis pagrindą nusipelnyti gero rezultato. Šie, vienuoliai, yra trys pagrindai nusipelnyti gero rezultato.”
+
+Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
+
+„Reikėtų mokytis (atlikti) tik nuopelningus veiksmus,\
+jie neša ateity tai, kas geriausia, jų pasekmės malonios.\
+Reikėtų lavinti dosnumą,\
+dorą elgesį ir geraširdiškumą.
+
+Išlavinęs šiuos\
+tris laimės šaltinius,\
+išmintingasis gimsta laimingame pasaulyje,\
+kur bėdos nekankina.”
 

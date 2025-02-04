@@ -1,46 +1,46 @@
 ---
 layout: post
-title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas vyrams 01.24-26"
-date: 2025-01-14
+title: "„Vidinė tyla” | Meditacijos atsiskyrimas moterims 03.07-11"
+date: 2025-02-04
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
-post_image: "/assets/img/blog/laisve_cia_ir_dabar_vyrams_02.jpg"
-permalink: "/laisve_cia_ir_dabar_vyrams_02.html"
+post_image: "/assets/img/blog/vidines_tylos_moterims.jpg"
+permalink: "/vidines_tylos_moterims.html"
 ---
-#### Meditation retreat "Freedom here and now" FOR MEN February 28 - March 2
+#### Meditation retreat "Inner silence" FOR WOMEN March 7 - 11
 
 >For English, please, scroll down
 
 -----
-### Meditacijos atsiskyrimas „Laisvė čia ir dabar” VYRAMS
+### Meditacijos atsiskyrimas „Vidinė tyla” MOTERIMS
 
-Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
+Kviečiame moteris į 4 dienų meditacijos atsiskyrimą. 
 
-Vasario 28 - kovo 2 dd. kviečiame **TIK VYRUS**
+Mūsų greitame pasaulyje daugiausiai esame paskendę triukšme, atitrukę nuo tikrosios tylos. Šis atsiskyrimas – tai kvietimas stabtelėti, įsiklausyti į vidų ir atrasti taikos tylą.
 
-Centrinė stovyklos tema – „teisingas požiūris” ir buvimas dabarty. Mūsų pažiūros lemia tai, kaip patiriame dabarties akimirką, kaip būname toje akimirkoje, kitais žodžiais – tai, kaip gyvename. Kokį gi požiūrį Buda vadino teisingu? Ką reiškia būti darbarties akimirkoje? Tyrinėsime šią temą medituodami, klausydami pamokymų, uždavinėdami klausimus mokytojoms ir dalindamiesi savo mintimis ir pajautimais mažose grupėse.
+Šias keturias dienas pradėsime nuo _samatha_ meditacijos – proto nuraminimo ir sutelkimo, o vėliau atsiversime natūraliai buvimo būsenai, leidžiančiai patirti vidinę laisvę ir ramybę, t.y. pradėsime kurdamos sąlygas, leidžiančias protui nusiraminti, o tada kreipsime dėmesį į vidų, kad atrastume tikrąją tylą – tylą, kuri nepriklauso nuo jokių išorinių sąlygų.
 
 ☸ **ATSISKYRIMO PRAKTIKOS**
 
 \- Meditacijos instrukcijos\
 \- Meditacija sėdint, vaikštant, dirbant, kalbant\
 \- Trumpos mokytojos kalbos apie mokymą\
-\- Dhammos tyrinėjimas mažose grupėse\
-\- Giesmės
+\- Pasidalinimai Dhamma\
+\- Giesmės\
+\- Kvėpavimo pratimai
 
 🕤 **TVARKARAŠTIS**
 
-6:00 Pabundame\
-06:30 Giesmės ir meditacija\
-07:30 Jogos pusvalandis\
-8:00 Pusryčiai\
-8:45 Meditacija dirbant\
-9:15 Kalba apie Dhammą ir meditacijos sesija\
+5:30 Pabundame\
+06:00 Giesmės, kvėpavimo pratimai, meditacija\
+07:30 Pusryčiai\
+8:15 Meditacija dirbant\
+9:00 Kalba apie Dhammą ir meditacijos sesija\
 11:00 Pietūs\
 13:30 Kalba apie Dhammą ir meditacijos sesija\
 17:00 Arbata ir laisvas laikas\
-19:00 Giesmės, meditacija ir Dhammos tyrinėjimas mažose grupėse
+19:00 Giesmės, meditacija ir pasidalinimai Dhamma
 
 Atsiskyrimas vyks pagal tradicinį tvarkaraštį: kelsimės anksti – tai užduos budrumo toną visai dienai, pietausime prieš vidurdienį, vakare gersime arbatą, mėgausimės lengvais užkandžiais ir gėrėsimės proto ir kūno lengvumu, buvimo dabarty teikiamais džiaugsmais.
 
@@ -73,17 +73,17 @@ Mokėjimo paskirtis: auka
 
 🍽 **MAISTAS**
 
-\- vegetariškas 2 kartus dienoje. Pusryčiai ir pietūs; vakare turėsime tik lengvą užkandį.
+\- vegetariškas 2 kartus per dieną. Pusryčiai ir pietūs; vakare turėsime tik lengvą užkandį.
 
 📅 **ATVYKIMAS/IŠVYKIMAS**
 
-\- atvykimas vasario 28 d. (penktadienį) nuo 17:30 iki 18:30\
-\- išvykimas kovo 2 d. (sekmadienį) iki 17:00
+\- atvykimas kovo 7 d. (penktadienį) nuo 17:30 iki 18:30\
+\- išvykimas kovo 11 d. (antradienį) 16:00
 
 📧 **REGISTRACIJA**
 
-\- norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/8LtfLarkHEBk5KUP8" target="blank">šią anketą</a>.\
-\- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti žmonės norintys praleisti savaitgalį praktikuojant, galėtų pasinaudoti jūsų vieta.
+\- norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/7jHjgB48V5g78kFa6" target="blank">šią anketą</a>.\
+\- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti galėtų pasinaudoti jūsų vieta.
 
 📮 **VIETA**
 
@@ -104,34 +104,34 @@ Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Naro
 
 -----
 
-### Meditation retreat "Freedom here and now" FOR MEN
+### Meditation retreat "Inner silence" FOR WOMEN
 
-We invite you to spend a weekend practicing Dhamma at the Aloka Centre. In this retreat we will be learning to be present with wisdom. Through meditation, we will be exploring the conditions allowing mindfulness and wise attention to manifest.
+On __March 7 - 11__ we invite women to join a 4-day meditation retreat. 
 
-On __Feebruary 28 - March 2__ we invite **MEN ONLY**
+In our fast-paced world, we are mostly drowned in noise, distracted from true silence. This retreat is an invitation to pause, to listen inwardly and to find the silence of peace.
 
-The central theme of the retreat is "right veiw" and being present. Our views determine how we experience the present moment, and how we are in the present moment, in other words, how we live. What did the Buddha call the right view? What does it mean to be in the present moment? We will explore this theme by meditating, listening to the teachings, putting forward questions to the teachers and sharing our thoughts and feelings in small groups.
+We will begin these four days with _samatha_ meditation - calming and focusing the mind - and then open ourselves to a natural state of being that allows us to experience inner freedom and peace, i.e. we will start by creating the conditions for the mind to quieten down, and then we will turn our attention inwards to find the true silence - a silence that is independent of any external condition.
 
 ☸ **RETREAT PRACTICES**
 
 \- Meditation instructions\
 \- Sitting, Walking, Working, and Talking Meditation\
 \- Short talks by the teacher on teaching\
-\- Exploring the Dhamma in small groups\
-\- Chanting
+\- Dhamma sharing\
+\- Chanting\
+\- Breathing excercises
 
 🕤 **TIMETABLE**
 
-6:00 Wake up\
-6:30 Chanting and Meditation\
-07:30 Yoga\
-8:00 Breakfast\
-8:45 Working Meditation\
-9:15 Dhamma talk and meditation session\
+5:30 Wake up\
+6:00 Chanting, breathing exercises, meditation\
+07:30 Breakfast\
+8:15 Working Meditation\
+9:00 Dhamma talk and meditation session\
 11:00 Lunch\
 13:30 Dhamma talk and meditation session\
 17:00 Tea and free time\
-19:00 Chanting, meditation and Dhamma exploration in small groups
+19:00 Chanting, meditation and Dhamma sharing
 
 The retreat will follow the traditional schedule: we will be waking up early to set the tone of mindfulness to the day, having lunch before noon and tea and light snacks in the evening, and experiencing the lightness of the mind and body and the joys of being present.
 
@@ -168,13 +168,13 @@ Payment purpose: donation
 
 📅 **ARRIVAL/DEPARTURE**
 
-\- Arrival 28 February (Friday) from 17:30 to 18:30\
-\- Departure 2 March (Sunday) before 17:00
+\- Arrival 7 March (Friday) from 17:30 to 18:30\
+\- Departure 11 March (Tuesday) 16:00
 
 📧 **REGISTRATION**
 
-\- To register, fill in <a href="https://forms.gle/8LtfLarkHEBk5KUP8" target="blank">the form</a>.\
-\- places are very limited. Please be responsible and only register if you really plan to attend. If something unforeseen happens and you are no longer able to attend, please let us know immediately so that other people who want to spend the weekend practicing can take your place.
+\- To register, fill in <a href="https://forms.gle/7jHjgB48V5g78kFa6" target="blank">the form</a>.\
+\- places are very limited. Please be responsible and only register if you really plan to attend. If something unforeseen happens and you are no longer able to attend, please let us know immediately so that other people can make use of your place.
 
 📮 **LOCATION**
 
