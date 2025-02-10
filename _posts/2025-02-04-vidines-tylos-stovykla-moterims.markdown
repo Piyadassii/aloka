@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "„Vidinė tyla” | Meditacijos atsiskyrimas moterims 03.07-11"
+title: "LAUKIANČIŲJŲ SĄRAŠAS „Vidinė tyla” | Meditacijos atsiskyrimas moterims 03.07-11"
 date: 2025-02-04
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
@@ -10,10 +10,14 @@ permalink: "/vidines_tylos_moterims.html"
 ---
 #### Meditation retreat "Inner silence" FOR WOMEN March 7 - 11
 
+WAITING LIST
+
 >For English, please, scroll down
 
 -----
 ### Meditacijos atsiskyrimas „Vidinė tyla” MOTERIMS
+
+VIETŲ NEBĖRA, bet galima registruotis į laukiančiųjų sąrašą.
 
 Kviečiame moteris į 4 dienų meditacijos atsiskyrimą. 
 
@@ -105,6 +109,8 @@ Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Naro
 -----
 
 ### Meditation retreat "Inner silence" FOR WOMEN
+
+__WAITING LIST__
 
 On __March 7 - 11__ we invite women to join a 4-day meditation retreat. 
 
