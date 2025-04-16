@@ -8,7 +8,7 @@ author: piya
 post_image: "/assets/img/blog/darnos_klubas.jpg"
 permalink: "/darnos_klubas.html"
 ---
-### Darnos klubas
+### Darnos (Dharmos) klubas
 
 🌿 **Šeštadieniai Alokos centre** 🌿\
 Rami bendruomenės ir praktikos diena\
@@ -21,6 +21,7 @@ Maloniai kviečiame į taikų, ramų, atvirą, erdvų susibūrimą Alokos centre
 **Kviečiame atvykti**\
 \- Medituoti\
 \- Skaityti Dhammos bibliotekos knygas\
+\- Apmąstyti drauge Dhammą ir dalintis ja\
 \- Prisijungti prie lengvų sodo ar bendrų darbų\
 \- Klausytis paukščių ir mėgautis tylia gamta\
 \- Dalintis prasmingais pokalbiais ar tauria tyla\
@@ -30,22 +31,22 @@ Maloniai kviečiame į taikų, ramų, atvirą, erdvų susibūrimą Alokos centre
 
 🕙 10:00 Vartai atsidaro\
 🍚 12:00 Maisto aukojimas vienuolei(-ėms) ir bendri pietūs\
-🪷 14:00 Dhammos apmąstymo arba dalijimosi ratas\
-🌞 15:45 Laisvas laikas savanoriauti, bendrauti su kitais arba mėgautis tyla\
+🪷 14:00 Dhammos apmąstymo, arba Dhammos kalbos ir dalijimosi ratas\
+🌞 16:00 Laisvas laikas savanoriauti, bendrauti su kitais arba mėgautis tyla\
 🧘 18:00 Giedojimas ir meditacija\
 🌝 19:00 Atsisveikinimai\
 🕗 20:00 Vartai užsidaro
 
 Registruotis nereikia. Tiesiog atvykite, atvykite tokie, kokie esate. Atvykdami prieš vidurdienį, atsivežkite maisto pietums – vienolei(-ėms) ir ant bendro stalo.
 
-**Laukiami VISI, įskaitant vaikus** (turime žaidimų aikštelę).
+**Laukiami VISI, įskaitant vaikus** (turime žaidimų aikštelę 🛝).
 
 Prisijungti galima bet kuriuo dienos metu, tačiau, jei norite dalyvauti maisto aukojime ir bendruose pietuose (12:00), Dhammos apmąstyme (14:00) ar giedojime ir meditacijoje (18:00), prašome atvykti prieš jiems prasidedant. Būti centre galima tiek laiko, kiek norite. Jei atvykstate iš toli, esant poreikiui, galite pasilikti nakvynei centre.
 
 **Artimiausios Darnos klubo datos**
 
 04.26\
-05.10, 17, 24\
+05.03, 17\
 06.14\
 07.05\
 08.09\
