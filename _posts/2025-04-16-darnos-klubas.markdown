@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Darnos klubas"
-date: 2024-04-17
+date: 2025-04-18
 tags: renginiai
 categories: [renginiai]
 author: piya
