@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "Vesak – Budos šventė",
+      "category" : "",
+      "tags"     : "renginiai",
+      "url"      : "/vesak_2025.html",
+      "date"     : "2025-04-21 00:00:00 +0300"
+    } ,
+  
+    {
+      "title"    : "Darnos klubas",
+      "category" : "",
+      "tags"     : "renginiai",
+      "url"      : "/darnos_klubas.html",
+      "date"     : "2025-04-18 00:00:00 +0300"
+    } ,
+  
+    {
+      "title"    : "Buddha Dhamma Satharn Pančagiri",
+      "category" : "",
+      "tags"     : "kelionės",
+      "url"      : "/panjakiri.html",
+      "date"     : "2025-04-17 00:00:00 +0300"
+    } ,
+  
+    {
       "title"    : "Atida (satipaṭṭhāna) – durys į šviesą | 9 d. Meditacijos atsiskyrimas 06.20-29",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
@@ -142,22 +166,6 @@
       "tags"     : "renginiai",
       "url"      : "/alokos_centro_nauja_pradzia.html",
       "date"     : "2024-11-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Darnos klubas",
-      "category" : "",
-      "tags"     : "renginiai",
-      "url"      : "/darnos_klubas.html",
-      "date"     : "2024-04-16 00:00:00 +0300"
-    } ,
-  
-    {
-      "title"    : "Buddha Dhamma Satharn Pančagiri",
-      "category" : "",
-      "tags"     : "renginiai",
-      "url"      : "/panjakiri.html",
-      "date"     : "2024-02-17 00:00:00 +0200"
     } ,
   
     {
