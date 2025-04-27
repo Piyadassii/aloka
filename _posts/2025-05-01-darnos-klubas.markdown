@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Darnos klubas"
-date: 2025-04-18
+date: 2025-05-01
 tags: renginiai
 categories: [renginiai]
 author: piya
@@ -45,8 +45,6 @@ Prisijungti galima bet kuriuo dienos metu, tačiau, jei norite dalyvauti maisto 
 
 **Artimiausios Darnos klubo datos**
 
-04.26\
-05.03, 17\
 06.14\
 07.05\
 08.09\
