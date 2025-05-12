@@ -1,27 +1,11 @@
 [
   
     {
-      "title"    : "Vesak – Budos šventė",
+      "title"    : "POKALBIS IR DISKUSIJA INTERNETU „Atida ir emocijų paleidimas”",
       "category" : "",
       "tags"     : "renginiai",
-      "url"      : "/vesak_2025.html",
-      "date"     : "2025-04-21 00:00:00 +0300"
-    } ,
-  
-    {
-      "title"    : "Darnos klubas",
-      "category" : "",
-      "tags"     : "renginiai",
-      "url"      : "/darnos_klubas.html",
-      "date"     : "2025-04-18 00:00:00 +0300"
-    } ,
-  
-    {
-      "title"    : "Buddha Dhamma Satharn Pančagiri",
-      "category" : "",
-      "tags"     : "kelionės",
-      "url"      : "/panjakiri.html",
-      "date"     : "2025-04-17 00:00:00 +0300"
+      "url"      : "/atida_ir_paleidimas.html",
+      "date"     : "2025-05-12 00:00:00 +0300"
     } ,
   
     {
@@ -29,7 +13,31 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/satipatthana.html",
-      "date"     : "2025-04-16 00:00:00 +0300"
+      "date"     : "2025-05-11 00:00:00 +0300"
+    } ,
+  
+    {
+      "title"    : "Buddha Dhamma Satharn Pančagiri",
+      "category" : "",
+      "tags"     : "kelionės",
+      "url"      : "/panjakiri.html",
+      "date"     : "2025-05-10 00:00:00 +0300"
+    } ,
+  
+    {
+      "title"    : "Darnos klubas",
+      "category" : "",
+      "tags"     : "renginiai",
+      "url"      : "/darnos_klubas.html",
+      "date"     : "2025-05-01 00:00:00 +0300"
+    } ,
+  
+    {
+      "title"    : "Vesak – Budos šventė",
+      "category" : "",
+      "tags"     : "renginiai",
+      "url"      : "/vesak_2025.html",
+      "date"     : "2025-04-21 00:00:00 +0300"
     } ,
   
     {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atida (satipaṭṭhāna) – durys į šviesą | 9 d. Meditacijos atsiskyrimas 06.20-29"
-date: 2025-04-16
+date: 2025-05-11
 
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
