@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Atida (satipaṭṭhāna) – durys į šviesą | 9 d. Meditacijos atsiskyrimas 06.20-29"
+title: "ATŠAUKTA Atida (satipaṭṭhāna) – durys į šviesą | 9 d. Meditacijos atsiskyrimas 06.20-29"
 date: 2025-05-11
 
 tags: renginiai atsiskyrimai
@@ -9,14 +9,14 @@ author: piya
 post_image: "/assets/img/blog/satipatthana.jpg"
 permalink: "/satipatthana.html"
 ---
-#### 9d. meditation retreat "Mindfulness (*satipaṭṭhāna*) – entrance into the light" June 20-29
+#### CANCELED 9d. meditation retreat "Mindfulness (*satipaṭṭhāna*) – entrance into the light" June 20-29
 
 >For English, please, scroll down
 
 -----
-### 9 d. Meditacijos atsiskyrimas „Atida (*satipaṭṭhāna*) – durys į šviesą” 
+### ATŠAUKTA 9 d. Meditacijos atsiskyrimas „Atida (*satipaṭṭhāna*) – durys į šviesą” 
 
-Kviečiame į gilią vidinę kelionę vadovaujantis keturių atidos sričių sistema - *satipaṭṭhāna* - kaip keliu, vedančiu į vaiskią tiesą, esančią anapus emocijų, pojūčių ir minčių.
+<!-- Kviečiame į gilią vidinę kelionę vadovaujantis keturių atidos sričių sistema - *satipaṭṭhāna* - kaip keliu, vedančiu į vaiskią tiesą, esančią anapus emocijų, pojūčių ir minčių.
 
 Dvasinis kelias – tai paleidimas, leidimas viskam būti, virstantis palaipsniniu atsiskleidimu - emocinės naštos atpalaidavimu, pradedant nuo tamsių ir destruktyvių, pereinant prie subtilių ir didingų. Per kantrų, įkūnytą buvimą mokomės būti su savo emocijomis, netapdami jomis. Taip atida tampa šviesa, kuri apšviečia, palaiko ir galiausiai ištirpdo emocinį lauką.
 
@@ -206,4 +206,4 @@ Ayya spent half of 2024 in Thailand, where she met her Master, Luangta Narongsak
 **CONTACTS**
 
 Phone: +37060196830\
-📧 Email: aloka@theravada.lt
+📧 Email: aloka@theravada.lt -->
