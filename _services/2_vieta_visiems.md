@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Atgaivos vieta visiems
+title: Atgaivos vieta VISIEMS
 image: /assets/img/services/visiems.jpg
 icon: /assets/img/icons/Peace_house_icon_1.svg
-description: Ar jaučiatės prislėgti kasdienio gyvenimo chaoso? Ar ieškote ramybės akimirkos, vietos, kur galėtumėte giliai įkvėpti ir atkurti ryšį su savimi? Čia rasite prieglobstį nuo išorinio pasaulio šurmulio ir chaoso.
+description: Ar jaučiatės prislėgti kasdienio gyvenimo chaoso? Ar ieškote ramybės akimirkos, vietos, kur galėtumėte giliai įkvėpti ir atkurti ryšį su savimi? Čia kiekvienas ras prieglobstį nuo išorinio pasaulio šurmulio ir chaoso.
 permalink: "/pages/services/vieta_visimes.html" 
 ---
 
@@ -13,9 +13,8 @@ permalink: "/pages/services/vieta_visimes.html"
             <!-- <h3>Business Analysis</h3> -->
             <p><em>Alokos Centras</em> maloniai kviečia visus apsilankyti dienos metu ir rasti prieglobstį nuo išorinio pasaulio šurmulio ir chaoso. Mūsų centras - tai ramybės ir tylos šventovė, kurioje galima atkurti ryšį su savimi ir atrasti aiškumą.</p>
 
+<p><em>Alokos Centras</em> - tai vieta, kur VISI ir VISKAS priimama, priimama - be vertinimo, tik su atjauta. Nesvarbu kiek jums metų, kokios spalvos oda, kokia gimtoji kalba, seksualinė orientacija, lyties tapatybė, lyties raiška ar gyvenimo patirtis. Tai saugi, atvira ir pagarbi erdvė kiekvienam. </p> 
 <p>Kasdien ankstyvą rytą ir vakare vyksta giedojimai ir meditacija, tačiau kviečiame atvykti ir bet kuriuo kitu dienos metu. Nesvarbu, ar norėtumėte pasidalyti tuo, kas jus neramina, paprašyti patarimo, patirti gydomąją tylos galią, ar tiesiog įgyti naują požiūrį, čia rasite saugią ir palankią aplinką.</p>
-
-<p><em>Alokos Centras</em> - tai vieta, kur viskas priimama, priimama - be vertinimo, tik su atjauta. </p> 
 
 <p>Ateikite ir patirkite taiką ir ramybę patys.</p>
         </div>
