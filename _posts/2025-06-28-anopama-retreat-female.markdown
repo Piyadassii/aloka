@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rugsėjo 17-21 dd. Bundame kartu MOTERIMS+/ Waking up together, September 17-21 d. for WOMEN+"
-date: 2025-06-28
+date: 2023-06-28
 tags: atsiskyrimai renginiai meditacija
 categories: [atsiskyrimai renginiai meditacija]
 author: piya

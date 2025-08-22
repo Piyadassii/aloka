@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Spalio 1-5 dd. Bundame kartu VYRAMS+/ Waking up together, October 1-5 d. for MEN+"
+title: "Spalio 1-5 dd. Bundame kartu VISIEMS/ Waking up together, October 1-5 d."
 date: 2025-06-28
 tags: atsiskyrimai renginiai meditacija
 categories: [atsiskyrimai renginiai meditacija]
 author: piya
-post_image: "/assets/img/blog/bundame_vyrams.jpg"
-permalink: "/anopama_bundame_v.html"
+post_image: "/assets/img/blog/Bundame.jpg"
+permalink: "/anopama_bundame.html"
 ---
-## BUNDAME KARTU vyrams+
+## BUNDAME KARTU visiems
 ## Meditacijos atsiskyrimas su Ayya Anopama
 
 --------
@@ -43,10 +43,6 @@ Atsiskyrimas vyks anglų kalba su vertimu į lietuvių kalbą.
 **REIKALAVIMAI** 
 
 Būtina ankstesnė meditacijos patirtis. Tai gali būti reguliari savarankiška tylios meditacijos praktika arba ankstesnė atidos arba meditacijos kursų ir atsiskyrimų patirtis. Dalyvių prašoma įsipareigoti dalyvauti visame atsiskyrime, kad galėtume kartu austi gilų bendruomenės jausmą.
-
-**APIE STOVYKLĄ**
-
-Renginys vyks _Alokos centre_, kuriame šiuo metu apgyvendinimo galimybės yra ribotos. Dėl šios priežasties, tam, kad visi dalyviai galėtų jaustis patogiai ir saugiai, kviečiame **tik <a href="/pages/services/vieta_visimes.html">vyrus+</a>**.
 
 **ATSISKYRIMO PRAKTIKOS**
 
@@ -126,7 +122,7 @@ El. paštu: amandaspaulauskas@gmail.com -->
 
 ----------
 
-## WAKING UP TOGETHER for men+
+## WAKING UP TOGETHER for all
 ## Meditation Retreat with Ayya Anopama
 
 **October 1-5st**
@@ -156,10 +152,6 @@ The teachings will be offered in English with Lithuanian translation.
 **Prerequisites**
 
 Prior meditation experience. This can include a consistent silent/solitary meditation practice or prior experience with mindfulness or meditation courses and retreats. Participants are asked to commit to participating for the entire retreat so we can weave a deep sense of community together.
-
-**About the retreat**
-
-The retreat will be held at Alokos Centras which has limited spaces and can only offer accommodation in a shared dormitory at this stage. Therefore this retreat is **for <a href="/pages/services/vieta_visimes.html">men+</a> only** to support comfort and safety.
 
 **Practices of the retreat**
 
