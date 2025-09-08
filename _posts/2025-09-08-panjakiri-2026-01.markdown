@@ -6,7 +6,7 @@ tags: kelionės
 categories: [kelionės]
 author: piya
 post_image: "/assets/img/blog/buddha_panjakiri.jpg"
-permalink: "/panjakiri.html"
+permalink: "/panjakiri_2026.html"
 ---
 
 ### Keliaujame į Pančiagirį
