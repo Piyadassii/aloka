@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buddha Dhamma Satharn Pančagiri"
-date: 2025-09-08
+date: 2026-09-08
 tags: kelionės
 categories: [kelionės]
 author: piya
