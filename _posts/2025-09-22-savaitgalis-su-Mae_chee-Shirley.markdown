@@ -19,6 +19,8 @@ Kaip nuoširiai rūpintis neperdegant ir išlikti tvirtiems neužsidarant, neuž
 
 Laikas vienumoje, kurią dovanojate sau atsiskyrimo metu, padės pamatyti pasaulį kitaip ir pagerinti santykius su kitais žmonėmis. Atsiskyrimo metu bus išlaikoma budri, įsiklausanti tyla. Ji yra būtina giliam gebėjimui girdėti, galvoti, atidžiam stebėti ir suvokti savo protą ir kūną.
 
+Moklymai vyks angų kalba su vertimu į lietuvių.
+
 ☸ **ATSISKYRIMO PRAKTIKOS**
 
 \- Meditacijos instrukcijos\
