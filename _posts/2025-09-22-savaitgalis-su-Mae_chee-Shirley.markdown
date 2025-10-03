@@ -11,6 +11,8 @@ permalink: "/mae_chee_shirley.html"
 ### Meditacijos tylos stovykla su Mė Či Šioli
 
 <!-- Vietų nebėra, tačiau galima registruotis į laukiančiųjų sąrašą. -->
+**LIKO 1 VIETA.**
+
 Spalio 24-26 dd. turėsime svečią iš Jungtinės Karalystės – budistų vienuolė Mė Či Šioli. Ji praves savaitgalio tylos meditacijos stovyklą, kurioje kartu tyrinėsime dvi esmines širdies savybes:
 
 \- **Geraširdiškumą**, nuoširdų rūpestį ir meilę (*mettā*) ir\
