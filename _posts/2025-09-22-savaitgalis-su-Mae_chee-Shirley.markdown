@@ -10,8 +10,8 @@ permalink: "/mae_chee_shirley.html"
 ---
 ### Meditacijos tylos stovykla su Mė Či Šioli
 
-<!-- Vietų nebėra, tačiau galima registruotis į laukiančiųjų sąrašą. -->
-**LIKO 1 VIETA.**
+**Vietų nebėra, tačiau galima registruotis į laukiančiųjų sąrašą.**
+
 
 Spalio 24-26 dd. turėsime svečią iš Jungtinės Karalystės – budistų vienuolė Mė Či Šioli. Ji praves savaitgalio tylos meditacijos stovyklą, kurioje kartu tyrinėsime dvi esmines širdies savybes:
 
@@ -84,10 +84,10 @@ Mokėjimo paskirtis: auka
 
 📧 **REGISTRACIJA**
 
-<!-- \- norėdami užsiregistruoti į laukiančiųjų sąrašą užpildykite <a href="https://forms.gle/Vh5yjSRZokZ5gZXE8" target="blank">šią anketą</a>.\ -->
-\- norėdami užsiregistruoti, sumokėkite registracijos mokestį (30 EUR) ir užpildykite <a href="https://forms.gle/Vh5yjSRZokZ5gZXE8" target="blank">šią anketą</a>.\
+\- norėdami užsiregistruoti į laukiančiųjų sąrašą užpildykite <a href="https://forms.gle/Vh5yjSRZokZ5gZXE8" target="blank">šią anketą</a>.\
+<!-- \- norėdami užsiregistruoti, sumokėkite registracijos mokestį (30 EUR) ir užpildykite <a href="https://forms.gle/Vh5yjSRZokZ5gZXE8" target="blank">šią anketą</a>.\
 \- vietų skaičius labai ribotas. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti galėtų pasinaudoti jūsų vieta.\
-\- Atšaukus dalyvavimą, registracijos mokestis negrąžinamas.
+\- Atšaukus dalyvavimą, registracijos mokestis negrąžinamas. -->
 
 **Rekvizitai:**\
 Pavadinimas: Alokos centras\
