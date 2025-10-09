@@ -6,7 +6,7 @@ tags: renginiai mokymai
 categories: [renginiai mokymai]
 author: piya
 post_image: "/assets/img/blog/laisve_buti.jpg"
-permalink: "/lasve_buti.html"
+permalink: "/laisve_buti.html"
 ---
 ### Emocijų ir ribojančių įsitikinimų paleidimo kursas su Vytautu Vaitekūnu ir Ayya Piyadassī
 
