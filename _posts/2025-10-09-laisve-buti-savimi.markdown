@@ -2,8 +2,8 @@
 layout: post
 title: Kas slypi už „aš“? LAISVĖ BŪTI SAVIMI! | Paleidimo kursas | Lapkričio 9 - Gruodžio 6 dd.
 date: 2023-10-09
-tags: renginiai
-categories: [renginiai]
+tags: renginiai mokymai
+categories: [renginiai mokymai]
 author: piya
 post_image: "/assets/img/blog/laisve_buti.jpg"
 permalink: "/lasve_buti.html"
