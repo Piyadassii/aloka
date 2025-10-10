@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kas slypi už „aš“? LAISVĖ BŪTI SAVIMI! | Paleidimo kursas | Lapkričio 9 - Gruodžio 6 dd.
-date: 2023-10-09
+date: 2025-10-09
 tags: renginiai mokymai
 categories: [renginiai mokymai]
 author: piya
@@ -44,18 +44,7 @@ Lapkričio 9 - 30 dd. NUOTOLIU + Gruodžio 6 (šeštadienis) GYVAI Alokos Centre
 
 📧 **REGISTRACIJA**
  
-\- Norėdami užsiregistruoti, sumokėkite registracijos mokestį (30 EUR) ir užpildykite <a href="https://forms.gle/dDJ89tpYd5R6sP1Y7" target="blank"> šią anketą</a>.\
-\- Registracijos mokestis nėra kurso kaina. Jo paskirtis – padėti jums dalyvauti kurse ne atmestinai, bet veikiau entuziastingai.\
-\- Atšaukus dalyvavimą po kurso pradžios, registracijos mokestis negrąžinamas.\
-\- Jei jaučiate, kad nuoširdžiai norite išbandyti šiuos metodus, tačiau šiuo metu registracijos mokesčio sumokėti negalite, susisiekite su mumis, ir mes būtinai rasime sprendimą.
- 
-Rekvizitai\
-Pavadinimas: Alokos centras\
-Banko sąskaita: LT037044090102012566\
-Banko pavadinimas: AB SEB bankas\
-SWIFT kodas: CBVILT2X\
-Suma: 30 EUR\
-Mokėjimo paskirtis: paleidimas
+\- Norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/dDJ89tpYd5R6sP1Y7" target="blank"> šią anketą</a>.\
 
 👛 **KAINA**
 
