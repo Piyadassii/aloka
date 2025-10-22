@@ -44,7 +44,7 @@ Lapkričio 9 - 30 dd. NUOTOLIU + Gruodžio 6 (šeštadienis) GYVAI Alokos Centre
 
 📧 **REGISTRACIJA**
  
-\- Norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/dDJ89tpYd5R6sP1Y7" target="blank"> šią anketą</a>.\
+\- Norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/dDJ89tpYd5R6sP1Y7" target="blank"> šią anketą</a>.
 
 👛 **KAINA**
 
