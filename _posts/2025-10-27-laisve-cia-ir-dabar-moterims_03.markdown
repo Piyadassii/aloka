@@ -17,7 +17,7 @@ permalink: "/laisve_cia_ir_dabar_moterims_03.html"
 
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
 
-Lapkričio 28 - 30 dd. kviečiame **TIK VYRUS**
+Lapkričio 28 - 30 dd. kviečiame **TIK MOTERIS**
 
 Centrinė stovyklos tema – „teisingas požiūris” ir kaip jis veda į paleidimą, į laisvę, į tyrą būtį. Mūsų pažiūros lemia tai, kaip patiriame dabarties akimirką, kaip būname toje akimirkoje, kitais žodžiais – tai, kaip gyvename. Kokį gi požiūrį ir Buda vadino teisingais? Kaip jis padeda paleisti ir būti darbarties akimirkoje? Tyrinėsime šią temą medituodami, klausydami pamokymų, uždavinėdami klausimus mokytojai ir dalindamiesi savo mintimis ir pajautimais.
 
