@@ -15,6 +15,8 @@ permalink: "/laisve_cia_ir_dabar_moterims_03.html"
 -----
 ### Meditacijos atsiskyrimas „Laisvė čia ir dabar” MOTERIMS
 
+**VIETŲ NEBĖRA – LAUKIANČIŲJŲ SĄRAŠAS**
+
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
 
 Lapkričio 28 - 30 dd. kviečiame **TIK MOTERIS**
