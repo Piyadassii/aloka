@@ -14,8 +14,8 @@
     url: /pages/atsiskyrimai   
   - text: Giedojimai ir kt.
     url: /pages/giedojimai
-  - text: Šventiniai sekmadieniai
-    url: /pages/sekmadieniai
+  # - text: Šventiniai sekmadieniai
+  #   url: /pages/sekmadieniai
 - text: Mokymai
   url: /pages/blog
   submenu:

@@ -13,7 +13,7 @@ permalink: "/pages/services/asmenine_praktika_moterims.html"
             <!-- <h3>Business Analysis</h3> -->
             <p><em>Alokos Centre</em> siūlome ramią ir palankią aplinką moterims, ieškančioms vietos asmeninei praktikai ir vidiniam augimui. Klaipėdos apylinkėse įsikūręs Theravados budizmo centras yra nuostabi erdvė atidai, meditacijai ir dvasiniams tyrinėjimams.</p>
 
-<p>Kviečiame prisijungti prie mūsų ir pasinerti į ramią ir kupiną tylos centro atmosferą. Svečiai raginami <a href='/pages/schedule.html'>laikytis dienotvarkės</a>, kuri suteikia struktūrą ir gaires prasmingai atsitraukimo patirčiai. Pirmą kartą centre apsistuoti rekomenduojame trims-keturioms dienoms.</p>
+<p>Kviečiame prisijungti prie mūsų ir pasinerti į ramią ir kupiną tylos centro atmosferą. Svečiai raginami <a href='/pages/schedule'>laikytis dienotvarkės</a>, kuri suteikia struktūrą ir gaires prasmingai atsitraukimo patirčiai. Pirmą kartą centre apsistoti rekomenduojame trims-keturioms dienoms.</p>
 
 <p>Centre rasite meditacijos salę, kurioje galima medituoti sėdint ir vaikštant, biblioteką, kurioje gausu Dhammos mokymų ir dvasinių šaltinių, ir erdvią aplinką, skirtą ramiems apmąstymams ir ryšiui su gamta. </p>
 <p>Nesvarbu, ar norite pagilinti savo praktiką, atgauti aiškumą, ar paprasčiausiai atsitraukti nuo kasdienio gyvenimo šurmulio, <em>Alokos Centras</em> – tai puiki vieta praktikai dvasinėje kelionėje esančioms moterims. </p>

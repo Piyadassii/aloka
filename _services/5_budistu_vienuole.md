@@ -14,7 +14,7 @@ permalink: "/pages/services/4_budistu_vienuole.html"
             <p>Centre gyvena ir jo ugnelę kūrena budizmo vienuolė Ayya Piyadassī (Aja Pija Dasi).</p> 
             <p>Ji yra giliai pasinėrusi į theravados budizmo teoriją ir praktikas. Budistines meditacijas ji praktikuoja nuo 2007 m., o nuo 2013-ų tai daro dėvėdama budistų vienuolės apdarus.</p> 
             <p> Mianmare, kur ji tapo vienuole priimdama įžadus iš garb. Pa Auk Sayadaw ir praleido bemaž septynerius metus, jai pasisekė būti vedamai įstabių meditacijos mokytojų, mokomai talentingų Abhidhammos dėstytojų bei baigti budizmo ir pali kalbos magistro studijas.</p>
-            <p>Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Narongsak. Po 4 mėnesių intensyvaus apmokymo, Luangta paragino ją ir kitus savo mokynius grįžti į savo šalis ir perduoti Tyrąją Dhammą toliau.</p>
+            <p>Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Narongsak. Po 4 mėnesių intensyvaus apmokymo, Luangta paragino ją ir kitus savo mokinius grįžti į savo šalis ir perduoti Tyrąją Dhammą toliau.</p>
             <!-- <div class="service-details mb-40"> -->
             <img class="mb-30" src="/assets/img/service/details/Piya_zen_forest.jpg" alt="Piyadassī meditacija" style="width: 95%;">
             <!-- </div> -->
