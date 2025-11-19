@@ -38,8 +38,8 @@
     url: /archyvas/sveciai.html
   - text: Kalbos apie Dhammą
     url: /archyvas/kalbos_apie_dhamma.html
-  - text: Dhammapados posmai
-    url: /archyvas/dhammapada.html
+  # - text: Dhammapados posmai
+  #   url: /archyvas/dhammapada.html
   - text: Itivuttaka
     url: /archyvas/itivuttaka.html
   - text: Kiti įrašai
