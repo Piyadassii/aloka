@@ -19,7 +19,7 @@ Tačiau, vienuoliai, įmanoma, kad betarpiškai pažinęs godumą, supratęs vis
 
 ### Neapykanta, pyktis, panieka (Iti 2, 4, 5, 10, 12 ir 13)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F828909928678981%2F&show_text=false&width=560&t=38" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fcQBbA28ztw?si=SaL0AKMTwZpTLYb2&amp;start=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, atsikratykite vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą). Kokios vienos būsenos? 
 Neapykantos, vienuoliai, atsikratykite (šios) vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą).” [skaityti visą suttą](https://suttacentral.net/iti2/lt/piyadassi)
