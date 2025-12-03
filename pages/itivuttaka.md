@@ -37,7 +37,7 @@ Tačiau, vienuoliai, įmanoma, kad betarpiškai pažinęs neapykantą, supratęs
 
 ### Savimana (Iti 6 ir 8)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F2270560773142257%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2TBr2eeB3A?si=NL4uBX_UPTh4l_7e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, atsikratykite vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą). Kokios vienos būsenos? 
 Savimanos, vienuoliai, atsikratykite (šios) vienos būsenos, ir aš jums užtikrinu nebesugrįžtančiojo būvio (pasiekimą).” [skaityti visą suttą](https://suttacentral.net/iti6/lt/piyadassi)
