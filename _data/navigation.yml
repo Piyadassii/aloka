@@ -6,6 +6,8 @@
 - text: Programa
   url: /pages/services/2_uzsiemimai.html
   submenu:
+  - text: Kalendorius
+    url: /pages/calendar
   - text: Tvarkaraštis
     url: /pages/schedule
   - text: Meditacija
