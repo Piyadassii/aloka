@@ -74,7 +74,7 @@ atidus turėtų klajoti vienuolis.” [skaityti visą suttą](https://suttacentr
 
 ### Veiksniai, padedantys besimokančiajam (Iti 16 ir 17)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F819053593560039%2F&show_text=false&width=560&t=3" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cJypb2NZH1I?si=EFb-9LYapVVPYSYp&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, nematau kito tokio veiksnio, padėsiančio besimokančiajam vienuoliui, kuris dar neišpildė savo norų ir gyvena siekdamas neprilygstamos apsaugos nuo jungo, kaip išmintingas dėmesys, tapęs vidiniu veiksniu. Vienuolis, kuris naudoja išmintingą dėmesį nedoro atsikrato, o dorą lavina.” [skaityti visą suttą](https://suttacentral.net/iti16/lt/piyadassi)
 
