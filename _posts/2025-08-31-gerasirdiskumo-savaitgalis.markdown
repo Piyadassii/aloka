@@ -63,7 +63,7 @@ Mokėjimo paskirtis: auka
 🏠 **APGYVENDINIMAS**
 
 \- vietų skaičius labai ribotas (iki 11-ių žmonių);\
-\- dalyviai gyvens viename dvejuose dideliuose kambaryje. Viso yra 3 dušai ir wc.
+\- dalyviai gyvens dvejuose dideliuose kambaryje. Viso yra 3 dušai ir wc.
 
 🍽 **MAISTAS**
 

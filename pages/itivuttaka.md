@@ -82,11 +82,11 @@ atidus turėtų klajoti vienuolis.” [skaityti visą suttą](https://suttacentr
 
 ### Bendruomenės suskaldymas ir santarvė (Iti 18 ir 19)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1723127018169649%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmbOM3zuQWA?si=Yv7FEgQF4NsB1idZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-„Viena dhamma, vienuoliai, kildama kenkia daugeliui žmonių, neša jiem nelaimę, yra kenksminga, skausminga, sukelianti skausmą žmonėms ir dievybėms. Kokia viena dhamma? Vienuolių bendruomenės suskaldymas. Kai, vienuoliai, vienuolių bendruomenė yra suskaldyta, (vienuoliai) tarpusavyje ginčijasi, vieni kitus įžeidinėja, kritikuoja, atstūmia. Tuomet neturintieji pasitikėjimo (Mokymu), jo neįgyja, o (tikėjimas) tų, kurie pasitikėjo, pakinta.” [skaityti visą suttą](https://suttacentral.net/iti18/lt/piyadassi)
+„Viena _dhamma_, vienuoliai, kildama kenkia daugeliui žmonių, neša jiem nelaimę, yra kenksminga, skausminga, sukelianti skausmą žmonėms ir dievybėms. Kokia viena _dhamma_? Vienuolių bendruomenės suskaldymas. Kai, vienuoliai, vienuolių bendruomenė yra suskaldyta, (vienuoliai) tarpusavyje ginčijasi, vieni kitus įžeidinėja, kritikuoja, atstūmia. Tuomet neturintieji pasitikėjimo (Mokymu), jo neįgyja, o (tikėjimas) tų, kurie pasitikėjo, pakinta.” [skaityti visą suttą](https://suttacentral.net/iti18/lt/piyadassi)
 
-„Viena dhamma, vienuoliai, kildama neša daugeliui žmonių naudą ir laimę, yra prasminga, naudinga, palaiminga žmonėms ir dievybėms. Kokia viena dhamma? Vienuolių bendruomenės santarvė. Kai, vienuoliai, vienuolių bendruomenėje esti santarvė, (vienuoliai) nei tarpusavyje ginčijasi, nei vieni kitus įžeidinėja, kritikuoja ar atstūmia. Tuomet neturintieji pasitikėjimo (Mokymu), jį įgyja, o (tikėjimas) tų, kurie pasitikėjo, auga.” [skaityti visą suttą](https://suttacentral.net/iti19/lt/piyadassi)
+„Viena _dhamma_, vienuoliai, kildama neša daugeliui žmonių naudą ir laimę, yra prasminga, naudinga, palaiminga žmonėms ir dievybėms. Kokia viena _dhamma_? Vienuolių bendruomenės santarvė. Kai, vienuoliai, vienuolių bendruomenėje esti santarvė, (vienuoliai) nei tarpusavyje ginčijasi, nei vieni kitus įžeidinėja, kritikuoja ar atstūmia. Tuomet neturintieji pasitikėjimo (Mokymu), jį įgyja, o (tikėjimas) tų, kurie pasitikėjo, auga.” [skaityti visą suttą](https://suttacentral.net/iti19/lt/piyadassi)
 
 ###  Ydingas ir skaidrus protas (Iti 20 ir 21)
 

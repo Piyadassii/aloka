@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Geraširdiškumas ir atjauta | Meditacijos tylos stovykla",
+      "category" : "",
+      "tags"     : "renginiai, atsiskyrimai",
+      "url"      : "/gerasirdiskumas_ir_atjauta.html",
+      "date"     : "2026-01-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Kovo 9 - 15 dd. Samathos-Vipassanos atsiskyrimas su vienuole",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/atsiskyrimas_2025_03.html",
-      "date"     : "2025-12-11 00:00:00 +0200"
+      "date"     : "2025-12-11 00:00:00 +0100"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/saulegriza.html",
-      "date"     : "2025-12-10 00:00:00 +0200"
+      "date"     : "2025-12-10 00:00:00 +0100"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_vyrams_03.html",
-      "date"     : "2025-10-27 00:00:00 +0200"
+      "date"     : "2025-10-27 00:00:00 +0100"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_moterims_03.html",
-      "date"     : "2025-10-27 00:00:00 +0200"
+      "date"     : "2025-10-27 00:00:00 +0100"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "renginiai, mokymai",
       "url"      : "/laisve_buti.html",
-      "date"     : "2025-10-09 00:00:00 +0300"
+      "date"     : "2025-10-09 00:00:00 +0200"
     } ,
   
     {
@@ -45,7 +53,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/mae_chee_shirley.html",
-      "date"     : "2025-09-22 00:00:00 +0300"
+      "date"     : "2025-09-22 00:00:00 +0200"
     } ,
   
     {
@@ -53,7 +61,7 @@
       "category" : "",
       "tags"     : "kelionės",
       "url"      : "/panjakiri_2026.html",
-      "date"     : "2025-09-08 00:00:00 +0300"
+      "date"     : "2025-09-08 00:00:00 +0200"
     } ,
   
     {
@@ -61,7 +69,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/gerasirdiskumo_savaitgalis.html",
-      "date"     : "2025-08-31 00:00:00 +0300"
+      "date"     : "2025-08-31 00:00:00 +0200"
     } ,
   
     {
@@ -69,7 +77,7 @@
       "category" : "",
       "tags"     : "atsiskyrimai, renginiai, meditacija",
       "url"      : "/anopama_bundame.html",
-      "date"     : "2025-06-28 00:00:00 +0300"
+      "date"     : "2025-06-28 00:00:00 +0200"
     } ,
   
     {
@@ -77,7 +85,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/atida_ir_paleidimas.html",
-      "date"     : "2025-05-12 00:00:00 +0300"
+      "date"     : "2025-05-12 00:00:00 +0200"
     } ,
   
     {
@@ -85,7 +93,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/satipatthana.html",
-      "date"     : "2025-05-11 00:00:00 +0300"
+      "date"     : "2025-05-11 00:00:00 +0200"
     } ,
   
     {
@@ -93,7 +101,7 @@
       "category" : "",
       "tags"     : "kelionės",
       "url"      : "/panjakiri.html",
-      "date"     : "2025-05-10 00:00:00 +0300"
+      "date"     : "2025-05-10 00:00:00 +0200"
     } ,
   
     {
@@ -101,7 +109,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/darnos_klubas.html",
-      "date"     : "2025-05-01 00:00:00 +0300"
+      "date"     : "2025-05-01 00:00:00 +0200"
     } ,
   
     {
@@ -109,7 +117,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/vesak_2025.html",
-      "date"     : "2025-04-21 00:00:00 +0300"
+      "date"     : "2025-04-21 00:00:00 +0200"
     } ,
   
     {
@@ -117,7 +125,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/pilnaties_svente_kovas.html",
-      "date"     : "2025-02-17 00:00:00 +0200"
+      "date"     : "2025-02-17 00:00:00 +0100"
     } ,
   
     {
@@ -125,7 +133,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/vidines_tylos_moterims.html",
-      "date"     : "2025-02-04 00:00:00 +0200"
+      "date"     : "2025-02-04 00:00:00 +0100"
     } ,
   
     {
@@ -133,7 +141,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_vyrams_02.html",
-      "date"     : "2025-01-14 00:00:00 +0200"
+      "date"     : "2025-01-14 00:00:00 +0100"
     } ,
   
     {
@@ -141,7 +149,7 @@
       "category" : "",
       "tags"     : "meditacija, renginiai",
       "url"      : "/meditacinis_pasivaiksciojimas.html",
-      "date"     : "2025-01-10 00:00:00 +0200"
+      "date"     : "2025-01-10 00:00:00 +0100"
     } ,
   
     {
@@ -149,7 +157,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/luangta_vilnius.html",
-      "date"     : "2025-01-07 00:00:00 +0200"
+      "date"     : "2025-01-07 00:00:00 +0100"
     } ,
   
     {
@@ -157,7 +165,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/karma.html",
-      "date"     : "2025-01-07 00:00:00 +0200"
+      "date"     : "2025-01-07 00:00:00 +0100"
     } ,
   
     {
@@ -165,7 +173,7 @@
       "category" : "",
       "tags"     : "meditacija, renginiai",
       "url"      : "/luangta_klaipeda.html",
-      "date"     : "2024-12-27 00:00:00 +0200"
+      "date"     : "2024-12-27 00:00:00 +0100"
     } ,
   
     {
@@ -173,7 +181,7 @@
       "category" : "",
       "tags"     : "meditacija, renginiai",
       "url"      : "/naujieji_2024.html",
-      "date"     : "2024-12-26 00:00:00 +0200"
+      "date"     : "2024-12-26 00:00:00 +0100"
     } ,
   
     {
@@ -181,7 +189,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/karas_ir_taika.html",
-      "date"     : "2024-12-07 00:00:00 +0200"
+      "date"     : "2024-12-07 00:00:00 +0100"
     } ,
   
     {
@@ -189,7 +197,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_vyrams_01.html",
-      "date"     : "2024-12-06 00:00:00 +0200"
+      "date"     : "2024-12-06 00:00:00 +0100"
     } ,
   
     {
@@ -197,7 +205,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_moterims_01.html",
-      "date"     : "2024-12-06 00:00:00 +0200"
+      "date"     : "2024-12-06 00:00:00 +0100"
     } ,
   
     {
@@ -205,7 +213,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_12.20.html",
-      "date"     : "2024-11-27 00:00:00 +0200"
+      "date"     : "2024-11-27 00:00:00 +0100"
     } ,
   
     {
@@ -213,7 +221,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/meditacijos_diena.html",
-      "date"     : "2024-11-25 00:00:00 +0200"
+      "date"     : "2024-11-25 00:00:00 +0100"
     } ,
   
     {
@@ -221,7 +229,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_vyrams.html",
-      "date"     : "2024-11-13 00:00:00 +0200"
+      "date"     : "2024-11-13 00:00:00 +0100"
     } ,
   
     {
@@ -229,7 +237,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_cia_ir_dabar_moterims.html",
-      "date"     : "2024-11-13 00:00:00 +0200"
+      "date"     : "2024-11-13 00:00:00 +0100"
     } ,
   
     {
@@ -237,7 +245,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/pilnaties_svente.html",
-      "date"     : "2024-11-12 00:00:00 +0200"
+      "date"     : "2024-11-12 00:00:00 +0100"
     } ,
   
     {
@@ -245,7 +253,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/alokos_centro_nauja_pradzia.html",
-      "date"     : "2024-11-03 00:00:00 +0200"
+      "date"     : "2024-11-03 00:00:00 +0100"
     } ,
   
     {
@@ -253,7 +261,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/nusvitimas.html",
-      "date"     : "2023-12-30 00:00:00 +0200"
+      "date"     : "2023-12-30 00:00:00 +0100"
     } ,
   
     {
@@ -261,7 +269,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/metta_vasaris.html",
-      "date"     : "2023-12-22 00:00:00 +0200"
+      "date"     : "2023-12-22 00:00:00 +0100"
     } ,
   
     {
@@ -269,7 +277,7 @@
       "category" : "",
       "tags"     : "atsiskyrimai, renginiai, meditacija",
       "url"      : "/anopama_retreat.html",
-      "date"     : "2023-12-11 00:00:00 +0200"
+      "date"     : "2023-12-11 00:00:00 +0100"
     } ,
   
     {
@@ -277,7 +285,7 @@
       "category" : "",
       "tags"     : "meditacija, renginiai",
       "url"      : "/naujieji.html",
-      "date"     : "2023-12-04 00:00:00 +0200"
+      "date"     : "2023-12-04 00:00:00 +0100"
     } ,
   
     {
@@ -285,7 +293,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/gruodzio_atsiskyrimas.html",
-      "date"     : "2023-11-22 00:00:00 +0200"
+      "date"     : "2023-11-22 00:00:00 +0100"
     } ,
   
     {
@@ -293,7 +301,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/dirva_vipassanai.html",
-      "date"     : "2023-08-19 00:00:00 +0300"
+      "date"     : "2023-08-19 00:00:00 +0200"
     } ,
   
     {
@@ -301,7 +309,7 @@
       "category" : "",
       "tags"     : "atsiskyrimai, renginiai, meditacija",
       "url"      : "/anopama_bundame_m.html",
-      "date"     : "2023-06-28 00:00:00 +0300"
+      "date"     : "2023-06-28 00:00:00 +0200"
     } ,
   
     {
@@ -309,7 +317,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/ismintinga_sirdis_rugsejis.html",
-      "date"     : "2023-05-27 00:00:00 +0300"
+      "date"     : "2023-05-27 00:00:00 +0200"
     } ,
   
     {
@@ -317,7 +325,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/lapkricio_atsiskyrimas.html",
-      "date"     : "2023-05-27 00:00:00 +0300"
+      "date"     : "2023-05-27 00:00:00 +0200"
     } ,
   
     {
@@ -325,7 +333,7 @@
       "category" : "",
       "tags"     : "atsiskyrimai",
       "url"      : "/atsiskyrimai_auku_pagrindu.html",
-      "date"     : "2023-05-23 00:00:00 +0300"
+      "date"     : "2023-05-23 00:00:00 +0200"
     } ,
   
     {
@@ -333,7 +341,7 @@
       "category" : "",
       "tags"     : "renginiai,, meditacija,, paskaitos",
       "url"      : "/budos_diena.html",
-      "date"     : "2023-04-24 00:00:00 +0300"
+      "date"     : "2023-04-24 00:00:00 +0200"
     } ,
   
     {
@@ -341,7 +349,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/cia_ir_dabar_su_ismintimi.html",
-      "date"     : "2023-04-09 00:00:00 +0300"
+      "date"     : "2023-04-09 00:00:00 +0200"
     } ,
   
     {
@@ -349,7 +357,7 @@
       "category" : "",
       "tags"     : "meditacija",
       "url"      : "/memento_mori.html",
-      "date"     : "2023-03-19 00:00:00 +0200"
+      "date"     : "2023-03-19 00:00:00 +0100"
     } ,
   
     {
@@ -357,7 +365,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/vienuolyste_ar_verta.html",
-      "date"     : "2023-03-17 00:00:00 +0200"
+      "date"     : "2023-03-17 00:00:00 +0100"
     } ,
   
     {
@@ -365,7 +373,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/uttara_retreat.html",
-      "date"     : "2023-01-30 00:00:00 +0200"
+      "date"     : "2023-01-30 00:00:00 +0100"
     } ,
   
     {
@@ -373,7 +381,7 @@
       "category" : "",
       "tags"     : "renginiai, mokymai",
       "url"      : "/kelias_i_tobula_ramybe.html",
-      "date"     : "2023-01-26 00:00:00 +0200"
+      "date"     : "2023-01-26 00:00:00 +0100"
     } ,
   
     {
@@ -381,7 +389,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/metta_kovas_atsiskyrimas.html",
-      "date"     : "2023-01-19 00:00:00 +0200"
+      "date"     : "2023-01-19 00:00:00 +0100"
     } ,
   
     {
@@ -389,7 +397,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/dovanos_nesancios_palaima.html",
-      "date"     : "2022-11-29 00:00:00 +0200"
+      "date"     : "2022-11-29 00:00:00 +0100"
     } ,
   
     {
@@ -397,7 +405,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/sausio_atsiskyrimas.html",
-      "date"     : "2022-11-07 00:00:00 +0200"
+      "date"     : "2022-11-07 00:00:00 +0100"
     } ,
   
     {
@@ -405,7 +413,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/laime_tai_igudis.html",
-      "date"     : "2022-10-21 00:00:00 +0300"
+      "date"     : "2022-10-21 00:00:00 +0200"
     } ,
   
     {
@@ -413,7 +421,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/spalio_atsiskyrimas.html",
-      "date"     : "2022-09-25 00:00:00 +0300"
+      "date"     : "2022-09-25 00:00:00 +0200"
     } ,
   
     {
@@ -421,7 +429,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/apie_paleidima.html",
-      "date"     : "2022-09-25 00:00:00 +0300"
+      "date"     : "2022-09-25 00:00:00 +0200"
     } ,
   
     {
@@ -429,7 +437,7 @@
       "category" : "",
       "tags"     : "renginiai, meditacija",
       "url"      : "/meditacija_pradedantiesiems.html",
-      "date"     : "2022-09-19 13:12:09 +0300"
+      "date"     : "2022-09-19 12:12:09 +0200"
     } ,
   
     {
@@ -437,7 +445,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/pali_suttu_skaitymo_grupe.html",
-      "date"     : "2022-09-18 00:00:00 +0300"
+      "date"     : "2022-09-18 00:00:00 +0200"
     } ,
   
     {
@@ -445,7 +453,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/grozis_pagal_buda.html",
-      "date"     : "2022-08-29 00:00:00 +0300"
+      "date"     : "2022-08-29 00:00:00 +0200"
     } ,
   
     {
@@ -453,7 +461,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/rugsejo_atsiskyrimas.html",
-      "date"     : "2022-05-16 00:00:00 +0300"
+      "date"     : "2022-05-16 00:00:00 +0200"
     } ,
   
     {
@@ -461,7 +469,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/vesak_2022.html",
-      "date"     : "2022-05-09 00:00:00 +0300"
+      "date"     : "2022-05-09 00:00:00 +0200"
     } ,
   
     {
@@ -469,7 +477,7 @@
       "category" : "",
       "tags"     : "svečiai",
       "url"      : "/pannavaddhi_vasara.html",
-      "date"     : "2022-05-03 07:12:09 +0300"
+      "date"     : "2022-05-03 06:12:09 +0200"
     } ,
   
     {
@@ -477,7 +485,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/mirties_kontempliacija.html",
-      "date"     : "2022-05-03 00:00:00 +0300"
+      "date"     : "2022-05-03 00:00:00 +0200"
     } ,
   
     {
@@ -485,7 +493,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/mirties_kontempliacija.html",
-      "date"     : "2022-04-16 00:00:00 +0300"
+      "date"     : "2022-04-16 00:00:00 +0200"
     } ,
   
     {
@@ -493,7 +501,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/teigiamu_emociju_vystymo_kursas.html",
-      "date"     : "2022-01-08 00:00:00 +0200"
+      "date"     : "2022-01-08 00:00:00 +0100"
     } ,
   
     {
@@ -501,7 +509,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/naujieji_2022.html",
-      "date"     : "2021-12-05 00:00:00 +0200"
+      "date"     : "2021-12-05 00:00:00 +0100"
     } ,
   
     {
@@ -509,7 +517,7 @@
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/beth_retreat.html",
-      "date"     : "2021-11-10 12:12:09 +0200"
+      "date"     : "2021-11-10 11:12:09 +0100"
     } ,
   
     {
@@ -517,7 +525,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/sayalay-daya-evening.html",
-      "date"     : "2021-11-05 12:12:09 +0200"
+      "date"     : "2021-11-05 11:12:09 +0100"
     } ,
   
     {
@@ -525,7 +533,7 @@
       "category" : "",
       "tags"     : "renginiai, paskaitos",
       "url"      : "/budizmo-pagrindai-prasideda.html",
-      "date"     : "2021-10-18 00:00:00 +0300"
+      "date"     : "2021-10-18 00:00:00 +0200"
     } ,
   
     {
@@ -533,7 +541,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/ayya-anopama-talk.html",
-      "date"     : "2021-10-01 07:12:09 +0300"
+      "date"     : "2021-10-01 06:12:09 +0200"
     } ,
   
     {
@@ -541,7 +549,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/durys-jau-atviros.html",
-      "date"     : "2021-09-13 12:12:09 +0300"
+      "date"     : "2021-09-13 11:12:09 +0200"
     } ,
   
     {
@@ -549,7 +557,7 @@
       "category" : "",
       "tags"     : "renginiai",
       "url"      : "/centro-atidarymas.html",
-      "date"     : "2021-08-29 12:12:09 +0300"
+      "date"     : "2021-08-29 11:12:09 +0200"
     } 
   
 ]
