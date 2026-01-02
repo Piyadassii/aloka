@@ -5,7 +5,7 @@ date: 2026-01-02
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
-post_image: "/assets/img/blog/geraširdiškumas_ir_atjauta.jpg"
+post_image: "/assets/img/blog/gerasirdiskumas_ir_atjauta.jpg"
 permalink: "/gerasirdiskumas_ir_atjauta.html"
 ---
 ### Geraširdiškumas ir atjauta | Meditacijos tylos stovykla
