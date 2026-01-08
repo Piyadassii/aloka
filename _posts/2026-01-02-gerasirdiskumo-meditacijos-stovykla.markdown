@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geraširdiškumas ir atjauta | Meditacijos tylos stovykla
+title: LAUKIANČIŲJŲ SĄRAŠAS Geraširdiškumas ir atjauta | Meditacijos tylos stovykla
 date: 2026-01-02
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
@@ -79,7 +79,7 @@ Mokėjimo paskirtis: auka
 
 📧 **REGISTRACIJA**
 
-\- norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/qbugjzogoVqHE8GK9" target="blank">šią anketą</a>.\
+\- norėdami užsiregistruoti į laukiančiųjų sąrašą, užpildykite <a href="https://forms.gle/qbugjzogoVqHE8GK9" target="blank">šią anketą</a>.\
 \- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti galėtų pasinaudoti jūsų vieta.
 
 📮 **VIETA**
