@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kovo 9 - 15 dd. Samathos-Vipassanos atsiskyrimas su vienuole"
+title: "LAUKIANČIŲJŲ SĄRAŠAS Kovo 9 - 15 dd. Samathos-Vipassanos atsiskyrimas su vienuole"
 date: 2025-12-11
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
@@ -96,11 +96,13 @@ Jeigu norėsite po renginio BUS GALIMYBĖ atskirai PAAUKOTI\
 
 **REGISTRACIJA:**
 
-\- Nežiūrint į tai, kad už patį atsiskyrimą mokesčio nėra, yra registracijos mokestis - 60 eur.\
+<!-- \- Nežiūrint į tai, kad už patį atsiskyrimą mokesčio nėra, yra registracijos mokestis - 60 eur.\
 (Patirtis rodo, kad be tokio mokesčio, būna per daug žmonių, užsiregistruojančių, tačiau arba atšaukiančių savo dalyvavimą prieš pat renginį, arba tiesiog neatvykstančių, ir galimos vietos lieka neišnaudotos. Todėl prašome jūsų parodyti savo įsipareigojimą ir norą prisiimti atsakomybę sumokant registracijos mokestį.)
 
 \- Mokestis gali būti grąžintas, jei jums tektų atšaukti savo dalyvavimą ne vėliau nei 30d. prieš renginį.\
-\- Norėdami užsiregistruoti sumokėkite registracijos mokestį ir  užpildykite <a href="https://forms.gle/8dueE1sJC6dMZixF9" target="blank">šią anketą</a>.
+\- Norėdami užsiregistruoti sumokėkite registracijos mokestį ir  užpildykite <a href="https://forms.gle/8dueE1sJC6dMZixF9" target="blank">šią anketą</a>. -->
+
+\- Norėdami užsiregistruoti į LAUKIANČIŲJŲ SĄRAŠĄ užpildykite <a href="https://forms.gle/8dueE1sJC6dMZixF9" target="blank">šią anketą</a>.
 
 REGISTRACIJOS MOKĖJIMO DUOMENYS:
 
