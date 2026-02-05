@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas 02.27-03.01",
+      "category" : "",
+      "tags"     : "renginiai, atsiskyrimai",
+      "url"      : "/laisve_vasaris_2026.html",
+      "date"     : "2026-02-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Buddha Dhamma Satharn Pančagiri",
       "category" : "",
       "tags"     : "kelionės",
-      "url"      : "/panjakiri_2026.html",
+      "url"      : "/panjakiri_2026_08.html",
       "date"     : "2026-01-30 00:00:00 +0200"
     } ,
   
@@ -17,7 +25,7 @@
     } ,
   
     {
-      "title"    : "Kovo 9 - 15 dd. Samathos-Vipassanos atsiskyrimas su vienuole",
+      "title"    : "LAUKIANČIŲJŲ SĄRAŠAS Kovo 9 - 15 dd. Samathos-Vipassanos atsiskyrimas su vienuole",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/atsiskyrimas_2025_03.html",
