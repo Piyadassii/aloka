@@ -90,7 +90,7 @@ atidus turėtų klajoti vienuolis.” [skaityti visą suttą](https://suttacentr
 
 ###  Ydingas ir skaidrus protas (Iti 20 ir 21)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1456163974929935%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaxneMci11w?si=XSD7CzjqE5j_Y0_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, aprėpęs asmens su ydingu protu protą savuoju suprantu, kad jei šis žmogus dabar pat mirtų, būtų (kammos) paliktas pragare lyg ten atneštas. Dėl kokios priežasties? Juk, vienuoliai, jo protas ydingas. Ydingas protas, vienuoliai, – tai priežastis to, kad kai kurios būtybės po kūno žūties, po mirties atgimsta pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare.” [skaityti visą suttą](https://suttacentral.net/iti20/lt/piyadassi)
 
@@ -99,7 +99,7 @@ atidus turėtų klajoti vienuolis.” [skaityti visą suttą](https://suttacentr
 
 ### Geraširdiškumas (Iti 22)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1563891417688050%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaxneMci11w?si=Y-74YZyKuVHZWKiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, nebijokite (dvasiškai) nuopelningų veiksmų. Nuopelningi veiksmai, vienuoliai, reiškia laimę, tai, kas norima, malonu, miela, žavinga. Pamenu, vienuoliai, kaip pats ilgą laiką patyriau norimus, malonius, mielus, žavingus atliktų (dvasiškai) nuopelningų veiksmų vaisius. Septynerius metus lavinęs geraširdiškumo protą, negrįžau į šį pasaulį septynias vystymosi–nykimo eras. Nykimo eros metu nukeliaudavau į Spindinčio švytėjimo pasaulį, vystymosi eros metu atgimdavau tuščiuose Brahmos rūmuose.
 
@@ -121,35 +121,35 @@ kur bėdos nekankina.”
 
 ### Dvilypė nauda (Iti 23)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F413499391002729%2F&show_text=false&width=560&t=36" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hSk-CiN7K4Y?si=9uhzFEC6tVUiiqAU&amp;start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, kai viena dhamma yra išlavinta, dažnai praktikuota, ji atneša dvilypę naudą: labą šiame gyvenime ir laimę ateinančiuose. Kokia viena dhamma? Neaplaidumas doru būsenų atžvilgiu. Kai ši, vienuoliai, viena dhamma yra išlavinta, dažnai praktikuota, ji atneša dvilypę naudą: labą šiame gyvenime ir laimę ateinančiuose.”
 [skaityti visą suttą](https://suttacentral.net/iti23/lt/piyadassi)
 
 ### Griaučių krūva (Iti 24)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F7421683544559781%2F&show_text=false&width=560&t=44" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m52o46K7HL4?si=3Lib0IjzElYGCp8f&amp;start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Jei kas surinktų, vienuoliai, kappą (kalpą, erą) prasiblaškiusio, praklajojusio samsaroje, vieno asmens kaulus ir sukrauti jie neirtų, kaulų krūva, kaulų krūsnis, kaulų šūsnis būtų toks didžiulis, kaip šis Vėpulos kalnas.”
 [skaityti visą suttą](https://suttacentral.net/iti24/lt/piyadassi)
 
 ### Melagystė (Iti 25)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F2745115902355209%2F&show_text=false&width=560&t=95" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eiyRaAeTWY?si=Gn0-eFy0wFVdCe6O&amp;start=95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Žmogui nusižengiančiam vienu veiksmu, vienuoliai, sakau, nėra blogio, kurio jis nepadarytų. Kokiu vienu veiksmu? Sąmoninga, vienuoliai, melagyste.”
 [skaityti visą suttą](https://suttacentral.net/iti25/lt/piyadassi)
 
 ### Dosnumas (Iti 26)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F3507258942820224%2F&show_text=false&width=560&t=37" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-UJVqBCrDFQ?si=LRNzKpmoMGVAJJ7t&amp;start=37" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, jei būtybės žinotų taip, kaip aš tai žinau, kokius vaisius neša dovanų dalinimas, nedavę, jie nevalgytų, jie neleistų, kad jų protą užvaldytų šykštumo dėmė. Kai būtų kam duoti, jie paskutiniu kąsniu, paskutiniu gabaliuku dalintųsi. Bet dėl to, vienuoliai, kad būtybės nežino taip, kaip aš tai žinau, kokius vaisius neša dovanų dalinimas, jie valgo neduodami, bei leidžia, kad jų protą užvaldytų šykštumo dėmė.”
 [skaityti visą suttą](https://suttacentral.net/iti26/lt/piyadassi)
 
 ### Geraširdiškumo lavinimas (Iti 27)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F420798637072729%2F&show_text=false&width=560&t=47" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSC4R_XTeYg?si=swoIbipyuio_g2-B&amp;start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai nei vienas iš pagrindų nusipelnyti gero rezultato vedančių į naują gimimą neprilygsta nei šešioliktai daliai proto išlaisvinimo geraširdiškumu. Pranokęs juos proto išlaisvinimas geraširdiškumu švyti, žiba ir spindi.
 
