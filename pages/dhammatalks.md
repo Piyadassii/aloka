@@ -114,3 +114,33 @@ Apie buvimą darnoje.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSKOPrDtEZU?si=afKyx5F2li_DaBXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Apie karmos veikimo principą ir keturių rūšių karmą.
+
+### Sveiki santykiai 30.08.2025
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_N1waGZ1XM?si=2Wp0_8x8e8a2DYfp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Kalba paremta ne tiek teorija, bet labiau patirtimi. Koks yra svarbiausiais santykis? Kaip atpažinti sveikas santykis ar ne? Kokia praktika veda į sveikus santykius?
+
+### Kaip neiššvaistyti gyvenimo 11.10.2025
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zyt8qH7mm8k?si=PlTkAMEBUBygrUlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Susitikimas prasideda nuo praktikos nukreiptos į siekių gryninimą ir pratęsiamas trumpais pamąstymais apie prasmingą gyvenimo nugyvenimą.
+
+### Kodėl jaučiamės vieniši?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BT2GYBaLauo?si=dSQA23FaPXtY8-IA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+00:15 Meditacija\
+11:09 Paskaita\
+56:00 Klausimai ir pasidalinimai
+
+### Gyvenimo ciklai 08.11.2025
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2pwP-v4AyjE?si=qBe3HKWnlxMy8bkG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Kalba apie Dhammą žiemos saulėgrįžos proga.
+
+### Puikybė ir nuolankumas 21.02.2026
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HotStZmTgcw?si=voF2B9PWMZJoG3fh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
