@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas 03.27-29"
+title: "„Laisvė čia ir dabar” | LAUKIANČIŲJŲ SĄRAŠAS Meditacijos atsiskyrimas 03.27-29"
 date: 2026-02-22
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
@@ -14,6 +14,8 @@ permalink: "/laisve_kovas_2026.html"
 
 -----
 ### Meditacijos atsiskyrimas „Laisvė čia ir dabar” 
+
+VIETŲ NEBĖRA, tačiau galima registruotis į laukiančiųjų sąrašą.
 
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
 
