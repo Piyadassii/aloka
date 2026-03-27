@@ -181,7 +181,7 @@ niekam nekelia priešiškumo.”
 
 ### Graužatį sukeliantys ir nesukeliantys reiškiniai (Iti 30 ir 31)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F666083992190234%2F&show_text=false&width=560&t=54" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WamZbkCN3LU?si=tOA3vnL6IYHsONdi&amp;start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Šie, vienuoliai, du reiškiniai sukelia graužatį. Kokie du? Štai, vienuoliai, kažkas nėra padaręs gražių, dorų (darbų), to, kas apsaugo nuo baimės, ir yra padaręs blogų, žiaurių, nešvarių (darbų). Jis graužiasi: „Nepariau gražių (darbų)”, – graužiasi: „Padariau blogų (darbų)”. Šie, vienuoliai, yra du reiškiniai sukeliantys graužatį.” [skaityti visą suttą](https://suttacentral.net/iti30/lt/piyadassi)
 
@@ -189,7 +189,7 @@ niekam nekelia priešiškumo.”
 
 ### Apie dorovę (Iti 32-33)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F294961736669605%2F&show_text=false&width=560&t=32" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SY5Ximu6MkM?si=zIB8IXKoBk_Jtuit&amp;start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, dviem bruožais pasižymintis žmogus (kammos) paliekamas pragare lyg ten atneštas. Kokias dviem? Bloga dorove ir blogu požiūriu. Šiais, vienuoliai, dviem bruožais pasižymintis žmogus (kammos) paliekamas pragare lyg ten atneštas.” [skaityti visą suttą](https://suttacentral.net/iti32/lt/piyadassi)
 
@@ -197,7 +197,7 @@ niekam nekelia priešiškumo.”
 
 ### Entuziastingas (Iti 34)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1509235556474418%2F&show_text=false&width=560&t=44" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzD-rHNvc40?si=XReBfFYc_xwURFBw&amp;start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, neentuziastingas vienuolis neturintis gėdos negali pasiekti tobulo nušvitimo, nibbānos, neprilygstamos apsaugos nuo jungo. Entuziastingas gi vienuolis turintis gėdos gali pasiekti tobulą nušvitimą, nibbāną, neprilygstamą apsaugą nuo jungo.”
 
@@ -217,7 +217,7 @@ gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 
 ### Apie žmonių apgaudinėjimą (Iti 35 ir 36)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Falokoscentras%2Fvideos%2F1579212552903988%2F&show_text=false&width=560&t=35" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gBVgoSFfIqg?si=F6mmT-EoHOew6rcL&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Šio, vienuoliai, švento gyvenimo praktikos tikslas, ne žmonių apgaudinėjimas, ne savigyra priešais žmones, ne pralobimas, garbė ir išgarsėjimas, ir ne įvaizdžio kūrimas. Bet gi šio, vienuoliai, švento gyvenimo praktikos tikslas yra tik susilaikymas ir (teršalų) palikimas.” [skaityti visą suttą](https://suttacentral.net/iti35/lt/piyadassi)
 
@@ -226,7 +226,7 @@ gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 
 ### Laimė (Iti 37)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1106470233734665%2F&show_text=false&width=560&t=49" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vO7YoGIxu3c?si=v_Whs4PoeVLjrLcm&amp;start=49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, dviem bruožais pasižymintis vienuolis čia ir dabar gyvena patirdamas daug laimės ir malonumo ir jame yra užmegztas ydų panaikinimo pradas. Kokias dviem? Jį sukrečia tai, kas turėtų sukrėsti, o sukrėstas jis išmintingai atkakliai stengiasi. Šiai, vienuoliai, dviem bruožais pasižymintis vienuolis čia ir dabar gyvena patirdamas daug laimės ir malonumo ir jame yra užmegztas ydų panaikinimo pradas.” [skaityti visą suttą](https://suttacentral.net/iti37/lt/piyadassi)
 

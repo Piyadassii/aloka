@@ -144,3 +144,9 @@ Kalba apie Dhammą žiemos saulėgrįžos proga.
 ### Puikybė ir nuolankumas 21.02.2026
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HotStZmTgcw?si=voF2B9PWMZJoG3fh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Paskaita apie baimę 21.03.2026
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_g_YIuz_ne4?si=KoiJF-TBneECfaGp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Kalba apie Dhammą lygiiadienio proga.
