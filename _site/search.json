@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Vesak – Budos šventė",
+      "category" : "",
+      "tags"     : "renginiai",
+      "url"      : "/vesak_2026.html",
+      "date"     : "2026-04-22 00:00:00 +0300"
+    } ,
+  
+    {
+      "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas 05.22-24",
+      "category" : "",
+      "tags"     : "renginiai, atsiskyrimai",
+      "url"      : "/laisve_geguze_2026.html",
+      "date"     : "2026-04-22 00:00:00 +0300"
+    } ,
+  
+    {
       "title"    : "Birželio 19–23 d. Atsiskyrimas su Ayya Anopama/ Meditation Retreat with Ayya Anopama 19 - 23 June 2026",
       "category" : "",
       "tags"     : "atsiskyrimai, renginiai, meditacija",
@@ -9,7 +25,7 @@
     } ,
   
     {
-      "title"    : "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas 04.24-26",
+      "title"    : "„Laisvė čia ir dabar” | LAUKIANČIŲJŲ SĄRAŠAS Meditacijos atsiskyrimas 04.24-26",
       "category" : "",
       "tags"     : "renginiai, atsiskyrimai",
       "url"      : "/laisve_balandis_2026.html",
