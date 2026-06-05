@@ -232,19 +232,19 @@ gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 
 ### Mokymas (Iti 39)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F383341071167537%2F&show_text=false&width=560&t=101" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BxaeRWEDllc?si=wl07mDJidAsUz2ug&amp;start=101" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Tathagata, arahantas, tobulai nušvitęs Buda moko Dhammos dviem būdais. Kokiais, dviem? „Matykite blogį blogiu.” Tai pirmasis Dhammos mokymas. „Pamatę blogį blogiu, nusivilkite (juo), palikite aistrą, išsilaisvinkite.” Tai antrasis Dhammos mokymas. Tathāgata, arahantas, tobulai nušvitęs Buda moko Dhammos šiais dviem būdais.” [skaityti visą suttą](https://suttacentral.net/iti39/lt/piyadassi)
 
 ### Išmanymas (Iti 40)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1081058382999610%2F&show_text=false&width=560&t=50" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZLhGnJb8IQ?si=xYggqWQhLP_Iay9f&amp;start=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Neišmanymas, vienuoliai, yra nedorų būsenų pasiekimo pirmtakas, o iš paskos jam seka sąžinės stoka ir begėdiškumas. Išmanymas, vienuoliai, yra dorų būsenų pasiekimo pirmtakas, o iš paskos jam seka sąžinė ir gėda.” [skaityti visą suttą](https://suttacentral.net/iti40/lt/piyadassi)
 
 ### Išminties stoka (Iti 41)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1502852696969733%2F&show_text=false&width=560&t=81" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mhxIC1m4zjI?si=CYxk4YCWfOH-LGqS&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, visiškai beturtės yra tos būtybės, kurios stokoja tauriosios išminties. Jos čia ir dabar gyvena kančioje, vargsta, yra nevilty, karščiuoja, o po kūno žūties, po mirties tikėtina, kad (atgims) blogoje vietoje. Vienuoliai, be stokos gyvena būtybės, kurios nestokoja tauriosios išminties. Jos čia ir dabar gyvena laimėje – nevargsta, nėra nevilty, nekarščiuoja – o po kūno žūties, po mirties tikėtina, kad (atgims) geroje vietoje.”
 
@@ -267,7 +267,7 @@ nešantiems paskutinįjį kūną.”
 
 ### Apie nibbaną (Iti 43-44)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F953747546306432%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sqEvcptr5U?si=Sy7yQbm7MoQQOSUu&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Esti, vienuoliai, tai, kas negimę, netapę, nesutverta, nesąlygota. Vienuoliai, jeigu nebūtų to, kas negimę, netapę, nesudaryta, nesutverta, nebūtų čia žinomas ištrūkimas iš to, kas gimę, tapę, sudaryta ir sutverta. Bet dėl to gi, vienuoliai, kad esti tai, kas negimę, netapę, nesudaryta, nesutverta, žinomas yra ištrūkimas iš to, kas gimę, tapę, sudaryta ir sutverta.”
 
@@ -310,7 +310,7 @@ nugalėję Mārą, peržengę už gimimo ir mirties ribų.” [skaityti visą su
 
 ### Budrus (Iti 47)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F991065592855900%2F&show_text=false&width=560&t=41" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pw1naEfCTtI?si=fEnua45ksbMmEPpz&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, tebūna vienuolis budrus, tebuvoja atidus, su aiškiu supratimu, susitelkęs, besidžiaugiantis, nurimęs, su savalaike įžvalga į doras būsenas.
 Vienuoliai, budrus vienuolis, buvojantis atidus, su aiškiu supratimu, susitelkęs, besidžiaugiantis, nurimęs, su savalaike įžvalga į doras būsenas, gali tikėtis vieno iš šių dviejų vaisių:
@@ -334,7 +334,7 @@ gali čia pat prisiliesti prie aukščiausio tobulo nušvitimo.”
 
 ### Pažiūros (Iti 49)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F499599773137406%2F&show_text=false&width=560&t=34" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Op3w7w_j-MI?si=_bzSivfy7ddgjsPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, laikydamiesi dvejų pažiūrų vieni dėvai ir žmonės užstringa, kiti eina per toli, ir tik turintieji akis mato.\
 Ir kaip, vienuoliai, vieni užstringa? Vienuoliai, kai dievybėms ir žmonėms, kurie žavisi tapsmu, gėrisi tapsmu, džiaugiasi tapsmu, dėstomas mokymas vedantis į tapsmo baigtį, jų protas nepajuda link jo, jie nepatiki juo, nenusistovi ties juo, neįsitvirtina jame. Štai taip, vienuoliai, vieni užstringa.\
@@ -354,7 +354,7 @@ negrįžta pakartotinai į tapsmą.”
 
 ### Šaknys (Iti 50)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1628791334401520%2F&show_text=false&width=560&t=14" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dig8HU_k3rE?si=6fS9C1_Kr5ze1dUV&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Vienuoliai, esti trys to, kas nedora, šaknys. Kokios trys? Godumas yra to, kas nedora, šaknis; neapykanta – to, kas nedora, šaknis; paklydimas – to, kas nedora, šaknis. Šios, vienuoliai, yra trys to, kas nedora, šaknys.
 
@@ -383,7 +383,7 @@ moko pagrindo be liūdesio, nesutepto.”
 
 ### Jausmo tonai (Iti 53)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F576069001859724%2F&show_text=false&width=560&t=54" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dqfEXrDJBIc?si=o_6rjslwI7M-vRxx&amp;start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 „Esti, vienuoliai, šie trys jausmo tonai. Kokie trys? Malonus jausmo tonas, nemalonus jausmo tonas, nei nemalonus, nei malonus jausmo tonas. Į malonų jausmo toną, vienuoliai, turi būti žvelgiama kaip į nemalonų. Į nemalonų jausmo toną turi būti žvelgiama kaip į strėlę. Į nei nemalonų nei malonų jausmo toną turi būti žvelgiama kaip į nepastovų. Ir kai, vienuoliai, vienuolis mato malonų jausmo toną kaip nemalonų, nemalonų jausmo toną kaip strėlę, nei nemalonų nei malonų jausmo toną kaip nepastovų, apie jį, vienuoliai, sakoma: „Vienuolis yra taurus, teisingai žvelgiantis. Jis nukirto troškimą, numetė pančius ir teisingai perpratęs savimonę, padarė galą kančiai.”
 
