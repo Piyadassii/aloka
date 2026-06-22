@@ -472,7 +472,7 @@ spindi kaip saulė tas.”
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falokoscentras%2Fvideos%2F1310499620091767%2F&show_text=false&width=560&t=42" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-„Vienuoliai, esti šie trys pagrindai nusipelnyti gero rezultato. Kokie trys? Dosnumas sudarantis pagrindą nusipelnyti gero rezultato, dorovė sudaranti pagrindą nusipelnyti gero rezultato, lavinimas sudarantis pagrindą nusipelnyti gero rezultato. Šie, vienuoliai, yra trys pagrindai nusipelnyti gero rezultato.”
+„Vienuoliai, esti šie trys nuopelningos veiklos laukai. Kokie trys? Dosnumas – nuopelningos veiklos laukas, dorovė – nuopelningos veiklos laukas, lavinimas – nuopelningos veiklos laukas. Šie, vienuoliai, yra trys nuopelningos veiklos laukai.”
 
 Apie tai Palaimintasis kalbėjo. Taip pasakyta apie tai:
 

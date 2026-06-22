@@ -5,14 +5,11 @@ date: 2023-05-23
 tags: atsiskyrimai
 categories: atsiskyrimai
 author: piya
-post_image: "/assets/img/blog/september retreat.jpeg"
+post_image: "/assets/img/blog/traku_aukstes_2026.jpg"
 permalink: "/atsiskyrimai_auku_pagrindu.html"
 ---
 
-Geros naujienos: nuo rudens „Alokos centras” pradės rengti atsiskyrimus/meditacijos stovyklas grynai aukų pagrindų! Sekite naujienas, info apie atsiskyrimus bus paskelbta netrukus.
-
-3 dienų stovykla rugsėjo 7-10dd. tikrai vyks.\
-9 dienų stovykla lapkričio 10-19 dd. vyks, jei bus pakankamai lėšų.
+Geros naujienos: nuo 2023 m. rudens „Alokos centras” pradėda rengti atsiskyrimus/meditacijos stovyklas grynai aukų pagrindų! Sekite naujienas, info apie atsiskyrimus bus paskelbta netrukus.
 
 ### Plačiau apie tai
 

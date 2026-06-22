@@ -5,7 +5,11 @@ permalink: "/modals/savanoriavimas.html"
 
 <h3>Savanoriavimas</h3>
 
-Šiuo metu labai reikalingi BUHALTERIS ir TEISININKAS konsultuoti mūsų jauną komandą biurokratiniais klausimais. \
-Taip pat ieškom žmogaus centro socialinių tinklų priežiūrai.\
-Jei turite siūvimo mašiną, galite prisidėti pagalvėlių meditacijai siūvimu.
+<li>Vasaros lauko darbai</li>
+Reikalingi šių prrofesijų žmonės
+<li>Architektas</li>
+<li>Dizaineris</li>
+<li>Dailydė</li>
+<li>Statybininkas</li>
+<li>Sodininkas</li>
 
