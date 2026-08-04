@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Lapkričio 16 - 22 dd. Samathos-Vipassanos atsiskyrimas su vienuole"
-date: 2026-09-01
+date: 2026-08-04
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
-post_image: "/assets/img/blog/atsiskyrimas_2025_03.jpg"
-permalink: "/atsiskyrimas_2025_03.html"
+post_image: "/assets/img/blog/atsiskyrimas_2026_10.jpg"
+permalink: "/atsiskyrimas_2026_10.html"
 ---
 ## Šešių dienų Samathos-Vipassanos meditacijos stovykla
 
@@ -37,15 +37,14 @@ Kas antrą dieną bus asmeniniai pokalbiai su mokytoja praktikai aptarti. Taip p
 
 **TVARKARAŠTIS**
 
-5:30 Pabundame\
-6:00 Giesmės, meditacija, kvėpavimo pratimai\
-7:15 Pusryčiai\
-8:00 Meditacija dirbant\
-9:00 Rytinė meditacija\
-11:00 Pietūs\
-13:30 Popietinė meditacija\
-17:30 Arbata\
-18:00 Laisvas laikas ir savarankiška praktika\
+6:00 Pabundame\
+6:30 Giesmės, meditacija, kvėpavimo pratimai\
+7:45 Pusryčiai\
+8:30 Meditacija dirbant\
+9:30 Rytinė meditacija\
+11:30 Pietūs\
+14:00 Popietinė meditacija\
+18:00 Arbata, laisvas laikas ir savarankiška praktika\
 19:30 Giesmės, meditacija ir klausimai ir atsakymai
 
 Atsiskyrimas vyks pagal tradicinį tvarkaraštį - kelsimės anksti - tai užduos budrumo toną visai dienai. Anksti pusryčiausime, pietausime prieš vidurdienį, vakare gersime arbatą. Vakarienės nevalgysime - gėrėsimės proto ir kūno lengvumu, meditacijos teikiamais džiaugsmais.
@@ -99,7 +98,7 @@ Jeigu norėsite po renginio BUS GALIMYBĖ atskirai PAAUKOTI\
 (Patirtis rodo, kad be tokio mokesčio, būna per daug žmonių, užsiregistruojančių, tačiau arba atšaukiančių savo dalyvavimą prieš pat renginį, arba tiesiog neatvykstančių, ir galimos vietos lieka neišnaudotos. Todėl prašome jūsų parodyti savo įsipareigojimą ir norą prisiimti atsakomybę sumokant registracijos mokestį.)
 
 \- Mokestis gali būti grąžintas, jei jums tektų atšaukti savo dalyvavimą ne vėliau nei 30d. prieš renginį.\
-\- Norėdami užsiregistruoti sumokėkite registracijos mokestį ir  užpildykite <a href="https://forms.gle/iuK7cU5hD8WopUSV6" target="blank">šią anketą</a>.
+\- Norėdami užsiregistruoti sumokėkite registracijos mokestį ir  **BŪTINAI UŽPILDYKITE** <a href="https://forms.gle/iuK7cU5hD8WopUSV6" target="blank">**šią anketą**</a>.
 
 
 

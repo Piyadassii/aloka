@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rūgsėjo 11-13 dd. Bundame kartu VISIEMS/ Waking up together, September 11-13 d."
+title: "Rūgsėjo 11-13 dd. Bundame kartu / Waking up together, September 11-13 d."
 date: 2026-08-03
 tags: atsiskyrimai renginiai meditacija
 categories: [atsiskyrimai renginiai meditacija]
@@ -8,7 +8,7 @@ author: piya
 post_image: "/assets/img/blog/Bundame_2026.jpg"
 permalink: "/anopama_bundame_2026.html"
 ---
-## BUNDAME KARTU visiems
+## BUNDAME KARTU
 ## Įžvalgos ir meditacijos dialogo atsiskyrimas su Ayya Anopama
 
 --------
@@ -133,7 +133,7 @@ El. paštu: aloka@theravada.lt
 
 ----------
 
-## WAKING UP TOGETHER for all
+## WAKING UP TOGETHER
 ## Insight Dialogue and Meditation Retreat with Ayya Anopama
 
 **September 11th-13th**
