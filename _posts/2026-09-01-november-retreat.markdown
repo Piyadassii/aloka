@@ -10,6 +10,8 @@ permalink: "/atsiskyrimas_2026_10.html"
 ---
 ## Šešių dienų Samathos-Vipassanos meditacijos stovykla
 
+**VIETŲ NEBĖRA, tačiau galima registruotis į LAUKIANČIŲJŲ SĄRAŠĄ**
+
 Lapkritį kviečiame į ilgesnį meditacijos atsiskyrimą Trakų rajone.\
 Atsiskyrimą ves vienuolė __Ayya Piyadassī__.
 
@@ -94,22 +96,23 @@ Jeigu norėsite po renginio BUS GALIMYBĖ atskirai PAAUKOTI\
 
 **REGISTRACIJA:**
 
-\- Nežiūrint į tai, kad už patį atsiskyrimą mokesčio nėra, yra registracijos mokestis - 60 eur.\
+Norėdami užsiregistruoti į laukiančiųjų sąraša, užpildykite <a href="https://forms.gle/iuK7cU5hD8WopUSV6" target="blank">**šią anketą**</a>.
+
+<!-- \- Nežiūrint į tai, kad už patį atsiskyrimą mokesčio nėra, yra registracijos mokestis - 60 eur.\
 (Patirtis rodo, kad be tokio mokesčio, būna per daug žmonių, užsiregistruojančių, tačiau arba atšaukiančių savo dalyvavimą prieš pat renginį, arba tiesiog neatvykstančių, ir galimos vietos lieka neišnaudotos. Todėl prašome jūsų parodyti savo įsipareigojimą ir norą prisiimti atsakomybę sumokant registracijos mokestį.)
 
 \- Mokestis gali būti grąžintas, jei jums tektų atšaukti savo dalyvavimą ne vėliau nei 30d. prieš renginį.\
-\- Norėdami užsiregistruoti sumokėkite registracijos mokestį ir  **BŪTINAI UŽPILDYKITE** <a href="https://forms.gle/iuK7cU5hD8WopUSV6" target="blank">**šią anketą**</a>.
+\- Norėdami užsiregistruoti sumokėkite registracijos mokestį ir  **BŪTINAI UŽPILDYKITE** <a href="https://forms.gle/iuK7cU5hD8WopUSV6" target="blank">**šią anketą**</a>. -->
 
 
-
-REGISTRACIJOS MOKĖJIMO DUOMENYS:
+<!-- REGISTRACIJOS MOKĖJIMO DUOMENYS:
 
 Gavėjo pavadinimas: Alokos centras\
 Banko sąskaita: LT037044090102012566\
 Banko pavadinimas: AB SEB BANKAS\
 SWIFT kodas: CBVILT2X\
 Suma: 60 EUR\
-Mokėjimo paskirtis: registracija lapkritis
+Mokėjimo paskirtis: registracija lapkritis -->
 
 **VIETA**
 
