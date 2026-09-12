@@ -14,6 +14,8 @@ permalink: "/laisve_spalis_2026.html"
 
 -----
 
+**VIETŲ NEBĖRA, tačiau galima registruotis į LAUKIANČIŲJŲ SĄRAŠĄ**
+
 ### Meditacijos atsiskyrimas „Laisvė čia ir dabar” 
 
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
@@ -80,8 +82,10 @@ Mokėjimo paskirtis: auka
 
 📧 **REGISTRACIJA**
 
-\- norėdami užsiregistruoti į laukiančiųjų sąrašą, užpildykite <a href="https://forms.gle/LAkssVStKuU74KRZ7" target="blank">šią anketą</a>.\
-\- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti žmonės norintys praleisti savaitgalį praktikuojant, galėtų pasinaudoti jūsų vieta.
+Norėdami užsiregistruoti į laukiančiųjų sąraša, užpildykite <a href="https://forms.gle/LAkssVStKuU74KRZ7" target="blank">anketą</a>.
+
+<!-- \- norėdami užsiregistruoti į laukiančiųjų sąrašą, užpildykite <a href="https://forms.gle/LAkssVStKuU74KRZ7" target="blank">šią anketą</a>.\
+\- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti žmonės norintys praleisti savaitgalį praktikuojant, galėtų pasinaudoti jūsų vieta. -->
 
 📮 **VIETA**
 
@@ -103,6 +107,8 @@ Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Naro
 -----
 
 ### Meditation retreat "Freedom here and now"
+
+**RETREAT IS FULL, HOWEVER, YOU CAN JOIN THE WAITING LIST**
 
 We invite you to spend a weekend practicing Dhamma at the Aloka Centre. In this retreat we will be learning to be present with wisdom. Through meditation, we will be exploring the conditions allowing mindfulness and wise attention to manifest.
 
@@ -168,8 +174,10 @@ Payment purpose: donation
 
 📧 **REGISTRATION**
 
-\- To register, fill in <a href="https://forms.gle/LAkssVStKuU74KRZ7" target="blank">the form</a>.\
-\- places are very limited. Please be responsible and only register if you really plan to attend. If something unforeseen happens and you are no longer able to attend, please let us know immediately so that other people who want to spend the weekend practicing can take your place.
+Fill in the <a href="https://forms.gle/LAkssVStKuU74KRZ7" target="blank">form</a>, to join the waiting list.
+
+<!-- \- To register, fill in <a href="https://forms.gle/LAkssVStKuU74KRZ7" target="blank">the form</a>.\
+\- places are very limited. Please be responsible and only register if you really plan to attend. If something unforeseen happens and you are no longer able to attend, please let us know immediately so that other people who want to spend the weekend practicing can take your place. -->
 
 📮 **LOCATION**
 
