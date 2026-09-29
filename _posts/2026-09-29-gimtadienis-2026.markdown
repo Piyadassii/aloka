@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "„Alokos centro gimtadienio šventė"
+title: "Alokos centro gimtadienio šventė"
 date: 2026-09-29
 tags: renginiai
 categories: [renginiai]
