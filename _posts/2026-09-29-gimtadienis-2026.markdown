@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas 10.23-25"
-date: 2026-08-31
-tags: renginiai atsiskyrimai
-categories: [renginiai atsiskyrimai]
+title: "„Alokos centro gimtadienio šventė"
+date: 2026-09-č9
+tags: renginiai
+categories: [renginiai]
 author: piya
 post_image: "/assets/img/blog/gimtadienis_2026.jpg"
 permalink: "/gimtadienis_2026.html"
