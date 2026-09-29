@@ -1,19 +1,13 @@
 ---
 layout: post
 title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas 10.23-25"
-date: 2026-09-15
+date: 2026-08-31
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
 post_image: "/assets/img/blog/laisve_spalis_2026_2.jpg"
 permalink: "/laisve_spalis_2026_2.html"
 ---
-#### Meditation retreat "Freedom here and now" October 23 - 25
-
->For English, please, scroll down
-
------
-
 ### Meditacijos atsiskyrimas „Laisvė čia ir dabar” 
 
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
