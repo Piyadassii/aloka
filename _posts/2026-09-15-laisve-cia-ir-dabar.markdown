@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "„Laisvė čia ir dabar” | Meditacijos atsiskyrimas 10.23-25"
-date: 2026-09-15
+date: 2026-09-10
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
 author: piya
