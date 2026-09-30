@@ -10,6 +10,8 @@ permalink: "/laisve_spalis_2026_2.html"
 ---
 ### Meditacijos atsiskyrimas „Laisvė čia ir dabar” 
 
+**VIETŲ NEBĖRA, tačiau galima registruotis į LAUKIANČIŲJŲ SĄRAŠĄ**
+
 Kviečiame praleisti savaitgalį praktikuojant Dhammą “Alokos centre”. Šioje stovykloje mokysimės būti dabartyje su išmintimi. Medituodami kursime sąlygas atidai ir išmintingam dėmesiui pasireikšti.
 
 Centrinė stovyklos tema – „teisingas požiūris” ir kaip jis veda į paleidimą, į laisvę, į tyrą būtį. Mūsų pažiūros lemia tai, kaip patiriame dabarties akimirką, kaip būname toje akimirkoje, kitais žodžiais – tai, kaip gyvename. Kokį gi požiūrį ir Buda vadino teisingais? Kaip jis padeda paleisti ir būti darbarties akimirkoje? Tyrinėsime šią temą medituodami, klausydami pamokymų, uždavinėdami klausimus mokytojai ir dalindamiesi savo mintimis ir pajautimais.
@@ -74,10 +76,10 @@ Mokėjimo paskirtis: auka
 
 📧 **REGISTRACIJA**
 
-<!-- Norėdami užsiregistruoti į laukiančiųjų sąraša, užpildykite <a href="https://forms.gle/N95bQew9ovRTQLTv6" target="blank">anketą</a>. -->
+Norėdami užsiregistruoti į laukiančiųjų sąraša, užpildykite <a href="https://forms.gle/N95bQew9ovRTQLTv6" target="blank">anketą</a>.
 
-\- norėdami užsiregistruoti į laukiančiųjų sąrašą, užpildykite <a href="https://forms.gle/N95bQew9ovRTQLTv6" target="blank">šią anketą</a>.\
-\- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti žmonės norintys praleisti savaitgalį praktikuojant, galėtų pasinaudoti jūsų vieta.
+<!-- \- norėdami užsiregistruoti į laukiančiųjų sąrašą, užpildykite <a href="https://forms.gle/N95bQew9ovRTQLTv6" target="blank">šią anketą</a>.\
+\- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti žmonės norintys praleisti savaitgalį praktikuojant, galėtų pasinaudoti jūsų vieta. -->
 
 📮 **VIETA**
 
