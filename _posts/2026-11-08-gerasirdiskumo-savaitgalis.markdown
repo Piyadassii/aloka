@@ -76,7 +76,7 @@ Mokėjimo paskirtis: auka
 
 📧 **REGISTRACIJA**
 
-\- norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/EFjw7ttbTLojhivZ6" target="blank">šią anketą</a>.\
+\- norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/S3Qnsuihkog6awKb7" target="blank">šią anketą</a>.\
 \- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti galėtų pasinaudoti jūsų vieta.
 
 📮 **VIETA**
