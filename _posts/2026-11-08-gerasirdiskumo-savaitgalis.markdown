@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geraširdiškumo savaitgalis | Meditacijos tylos stovykla"
+title: Geraširdiškumo savaitgalis | Meditacijos tylos stovykla
 date: 2026-11-08
 tags: renginiai atsiskyrimai
 categories: [renginiai atsiskyrimai]
