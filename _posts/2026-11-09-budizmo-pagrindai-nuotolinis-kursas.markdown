@@ -71,8 +71,6 @@ Sąskaita (IBAN): LT037044090102012566\
 SWIFT/BIC: CBVILT2X\
 Mokėjimo paskirtis: auka
 
-Kviečiame pažinti Budos mokymą – ne kaip tolimą filosofiją, bet kaip gyvą kelią į aiškesnį supratimą, vidinę ramybę ir laisvę.
-
 **RENGINĮ VEDA**
 
 Ayya Piyadassī - lietuvė vienuolė giliai pasinėrusi į theravados budizmo teoriją ir praktikas. Budistines meditacijas ji praktikuoja nuo 2007 m., o nuo 2013-ų tai daro dėvėdama budistų vienuolės apdarus.
