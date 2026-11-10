@@ -10,7 +10,7 @@ permalink: "/gerasirdiskumo_savaitgalis_2026.html"
 ---
 ### Geraširdiškumo savaitgalis | Meditacijos tylos stovykla
 
-Ši tylos stovykla bus skirta geraširdiškumui ugdyti. Praktikuosime geraširdiškumo (mettā) meditaciją nukreipta į save ir kitus. Mokisimės atsiverti tam, ką jaučiame patys ir ką jaučia kiti, be pasipriešinimo ar teisimo, bet su priėmimu ir meile.
+Ši tylos stovykla bus skirta geraširdiškumui ugdyti. Praktikuosime geraširdiškumo (mettā) meditaciją nukreiptą į save ir kitus. Mokysimės atsiverti tam, ką jaučiame patys ir ką jaučia kiti, be pasipriešinimo ar teisimo, bet su priėmimu ir meile.
 Geraširdiškumas (mettā) nukreipia gyvenimą ramybės ir laimės čia ir dabar link. Jis gydo širdį. Jis neša meilę ir šviesą į mūsų gyvenimus ir pasaulį. Mettos pagalba galime po truputį šalinti kenksmingą nepilnavertiškumo kompleksą, kuris trukdo mums būti pozityviems, galime keisti polinkį į tokias būsenas, kaip: abejones savimi, savęs gailėjimąsi, savikritiškumą, pyktį, neapykantą, pagiežą, pavydą, panieką, nepagarbą ir daugelį kitų – į savęs ir kitų nuoširdų besąlygišką priėmimą ir geraširdiškumą visų būtybių atžvilgiu.
 Lavinant geraširdiškumą auga, vystosi ir kiti naudingi, gražūs proto ir širdies bruožai: lavinasi atida (mindfulness), gilėja išmintis. Laikas vienumoje, kurią dovanojate sau atsiskyrimo metu, padės pamatyti pasaulį kitaip ir pagerinti santykius su kitais žmonėmis.
 Atsiskyrimo metu bus išlaikoma budri, įsiklausanti tyla. Ji yra būtina giliam gebėjimui girdėti, galvoti, atidžiam stebėti ir suvokti savo protą ir kūną.
@@ -48,7 +48,7 @@ Tradiciškai laikysimės dorovės priesakų. Pasižadėsime susilaikyti nuo:\
 
 👛 **KAINA**
 
-“Alokos centras” visą savo veiklą vykdo __auku pagrindu__. Stovyklos nėra išimtis. Palaikyti centrą ir jo tolimesnę veiklą galite atvažiavę į centrą arba banko pavedimu.
+“Alokos centras” visą savo veiklą vykdo __aukų pagrindu__. Stovyklos nėra išimtis. Palaikyti centrą ir jo tolimesnę veiklą galite atvažiavę į centrą arba banko pavedimu.
 
 Rekvizitai:\
 Pavadinimas: Alokos centras\
@@ -62,8 +62,8 @@ Mokėjimo paskirtis: auka
 
 🏠 **APGYVENDINIMAS**
 
-\- vietų skaičius labai ribotas (iki 11-ių žmonių);\
-\- dalyviai gyvens dvejuose dideliuose kambaryje. Viso yra 3 dušai ir wc.
+\- vietų skaičius labai ribotas (iki 11-os žmonių);\
+\- dalyviai gyvens dvejuose dideliuose kambariuose. Viso yra 3 dušai ir wc.
 
 🍽 **MAISTAS**
 
@@ -72,12 +72,12 @@ Mokėjimo paskirtis: auka
 📅 **ATVYKIMAS/IŠVYKIMAS**
 
 \- atvykimas gruodžio 4 d. (penktadienį) iki 18:30\
-\- išvykimas gruodžio 6 d. (antradienį) 16:00
+\- išvykimas gruodžio 6 d. (sekmadienį) 16:00
 
 📧 **REGISTRACIJA**
 
 \- norėdami užsiregistruoti, užpildykite <a href="https://forms.gle/S3Qnsuihkog6awKb7" target="blank">šią anketą</a>.\
-\- vietų labai ribotas skaičius. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti galėtų pasinaudoti jūsų vieta.
+\- vietų skaičius labai ribotas. Prašome elgtis atsakingai ir registruotis tik, jei tikrai planuojate dalyvauti. Jei atsitiktų kažkas nenumatyto ir dalyvauti nebegalėtumėte, prašome tuoj pat mums apie tai pranešti, kad kiti galėtų pasinaudoti jūsų vieta.
 
 📮 **VIETA**
 
@@ -89,7 +89,7 @@ Ayya Piyadassī - lietuvė vienuolė giliai pasinėrusi į theravados budizmo te
 
 Mianmare, kur ji tapo vienuole priimdama įžadus iš garb. Pa Auk Sayadaw ir praleido bemaž septynerius metus, jai pasisekė būti vedamai įstabių meditacijos mokytojų, mokomai talentingų Abhidhammos dėstytojų bei baigti budizmo ir pali kalbos magistro studijas.
 
-Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Narongsak. Po 4 mėnesių intensyvaus apmokymo, Luangta paragino ją ir kitus savo mokynius grįžti į savo šalis ir perduoti Tyrąją Dhammą toliau.
+Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Narongsak. Po 4 mėnesių intensyvaus apmokymo, Luangta paragino ją ir kitus savo mokinius grįžti į savo šalis ir perduoti Tyrąją Dhammą toliau.
 
 **KONTAKTAI SUSISIEKTI JEI TURITE DAUGIAU KLAUSIMŲ**
 

@@ -77,7 +77,7 @@ Ayya Piyadassī - lietuvė vienuolė giliai pasinėrusi į theravados budizmo te
 
 Mianmare, kur ji tapo vienuole priimdama įžadus iš garb. Pa Auk Sayadaw ir praleido bemaž septynerius metus, jai pasisekė būti vedamai įstabių meditacijos mokytojų, mokomai talentingų Abhidhammos dėstytojų bei baigti budizmo ir pali kalbos magistro studijas.
 
-Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Narongsak. Po 4 mėnesių intensyvaus apmokymo, Luangta paragino ją ir kitus savo mokynius grįžti į savo šalis ir perduoti Tyrąją Dhammą toliau.
+Pusę 2024 metų Ayya praleido Tailande, kur sutiko savo Meistrą, Luangtą Narongsak. Po 4 mėnesių intensyvaus apmokymo, Luangta paragino ją ir kitus savo mokinius grįžti į savo šalis ir perduoti Tyrąją Dhammą toliau.
 
 --------
 
